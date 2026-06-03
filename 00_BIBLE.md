@@ -1,1 +1,106 @@
-IyDwn46pIFBBVFJPTlVTIOKAlCBCaWJsZSBkdSBzcGVjdGFjbGUKPiBEb2N1bWVudCBkZSByw6lmw6lyZW5jZSBwZXJtYW5lbnRlLiBOZSBkw6ljcml0IHBhcyBjb21tZW50IGNvbnN0cnVpcmUgbGUgc3BlY3RhY2xlLCBtYWlzIGNlIHF1J2lsIGVzdC4KCi0tLQoKIyMgMS4gQ29uY2VwdAoKVW4gYWdlbnQgZGUgc8OpY3VyaXTDqSBjaGFyZ8OpIGRlIGxhIHN1cnZlaWxsYW5jZSBldCBkZSBsYSBjb25zZXJ2YXRpb24gZCd1bmUgY29sbGVjdGlvbiBkJ29iamV0cyBpc3N1cyBkdSBXaXphcmRpbmcgV29ybGQgc2UgcmV0cm91dmUgc2V1bCBkYW5zIHVuIGVzcGFjZSBkJ2V4cG9zaXRpb24gYXByw6hzIGZlcm1ldHVyZS4KCkxlIHNwZWN0YWNsZSByZXBvc2Ugc3VyIHVuZSAqKnRlbnNpb24gcHJvZ3Jlc3NpdmUgZW50cmUgdW4gY2FkcmUgcmF0aW9ubmVsIGV0IGwnYXBwYXJpdGlvbiBkZSBwaMOpbm9tw6huZXMgaW1wb3NzaWJsZXMqKi4KCkxhIG1hZ2llIG4nZXN0IGphbWFpcyBub21tw6llLCBqYW1haXMgZMOpbW9udHLDqWUuIEVsbGUgw6ltZXJnZSBjb21tZSB1bmUgY29uc8OpcXVlbmNlIGR1IHLDqWVsLgoKLS0tCgojIyAyLiBQZXJzb25uYWdlCgoqKkZvbmN0aW9uKiogOiBBZ2VudCBkZSBzw6ljdXJpdMOpIC8gcmVzcG9uc2FibGUgZGUgY29sbGVjdGlvbiBXaXphcmRpbmcgV29ybGQKCioqVHJhaXRzKioKLSByYXRpb25uZWwsIGNhcnTDqXNpZW4sIG9ic2VydmF0ZXVyCi0gZGlzY3JldCwgc29icmUKLSBwYXNzaW9ubsOpIG1haXMgc2NlcHRpcXVlCi0gbm9uLW1hZ2ljaWVuCgoqKkFyYyBpbnRlcm5lKioKYGBgClTDqW1vaW4g4oaSIFRlc3RldXIg4oaSIEV4cGxvcmF0ZXVyCmBgYAoKLS0tCgojIyAzLiBUb25hbGl0w6kKCi0gSW1tZXJzaXZlIGV0IGNpbsOpbWF0b2dyYXBoaXF1ZQotIFNvYnJlIOKAlCBhdWN1bmUgZXN0aMOpdGlxdWUgImNvc3BsYXkiIG91IGTDqW1vbnN0cmF0aW9uIGRlIHBvdXZvaXJzCi0gQWNjZXNzaWJsZSA6IGZhbWlsaWFsIC8gYWR1bHRlCi0gUHJvZ3Jlc3NpdmUgZXQgbXlzdMOpcmlldXNlCi0gQ29uY2x1c2lvbiBwb3NpdGl2ZQoKLS0tCgojIyA0LiBTdHJ1Y3R1cmUgZHJhbWF0dXJnaXF1ZQoKIyMjIEFDVEUgSSDigJQgw4lWT1FVRVIKTGUgcGVyc29ubmFnZSBhZ2l0IGRhbnMgdW4gY2FkcmUgcHJvZmVzc2lvbm5lbCBub3JtYWwuClVuZSBydW1ldXIgZXN0IGludHJvZHVpdGUgY29tbWUgZm9sa2xvcmUgaW50ZXJuZS4KVW4gcGjDqW5vbcOobmUgaW1wb3NzaWJsZSBzdXJ2aWVudCAqKnNhbnMgaW50ZW50aW9uIGRlIHRlc3QqKi4KCiMjIyBBQ1RFIElJIOKAlCBURVNURVIKTGUgcGVyc29ubmFnZSBhZG9wdGUgdW5lIHBvc3R1cmUgZGUgdsOpcmlmaWNhdGlvbiA6CmV4cMOpcmltZW50YXRpb24sIGNvbnRyw7RsZSwgcmVwcm9kdWN0aW9uLCBhbmFseXNlIHF1YXNpIHNjaWVudGlmaXF1ZS4KCiMjIyBBQ1RFIElJSSDigJQgRVhQTE9SRVIKQWJhbmRvbiBwcm9ncmVzc2lmIGR1IGNhZHJlIHJhdGlvbm5lbC4KQWNjZXB0YXRpb24gZGUgbCdpbmV4cGxpY2FibGUuIFVzYWdlIG5hcnJhdGlmIGRlIGxhIFBlbnNpbmUuCgotLS0KCiMjIDUuIFLDqGdsZXMgaW1wbGljaXRlcyBkdSBtb25kZQoKMS4gKipSw6lhbGlzbWUgaW5pdGlhbCB0b3RhbCoqIOKAlCB0b3V0IGNvbW1lbmNlIGNvbW1lIHVuZSBzaXR1YXRpb24gb3JkaW5haXJlCjIuICoqTWFnaWUgaW1wbGljaXRlKiog4oCUIGF1Y3VuZSByw6hnbGUgbWFnaXF1ZSBleHBsaWNpdMOpZQozLiAqKlByb2dyZXNzaXZpdMOpKiog4oCUIGxlcyBwaMOpbm9tw6huZXMgYXVnbWVudGVudCBlbiBpbnRlbnNpdMOpIGV0IGVuIMOpdHJhbmdldMOpCjQuICoqUmF0aW9uYWxpc2F0aW9uIGNvbnN0YW50ZSoqIOKAlCBsZSBwZXJzb25uYWdlIGNoZXJjaGUgdG91am91cnMgdW5lIGV4cGxpY2F0aW9uIGxvZ2lxdWUKNS4gKipFZmZldHMgY29tbWUgY29uc8OpcXVlbmNlcyoqIOKAlCBqYW1haXMgY29tbWUgZMOpbW9uc3RyYXRpb25zCjYuICoqQ29ow6lyZW5jZSDDqW1lcmdlbnRlKiog4oCUIGxlcyBwaMOpbm9tw6huZXMgc2VtYmxlbnQgcsOpcG9uZHJlIMOgIGwnaW50ZXJhY3Rpb24gaHVtYWluZSBzYW5zIGphbWFpcyBsJ2FmZmlybWVyCgotLS0KCiMjIDYuIERpc3Bvc2l0aWYgc2PDqW5vZ3JhcGhpcXVlCgoqKkVzcGFjZSoqIDogZXhwb3NpdGlvbiAvIGNvbnNlcnZhdGlvbiBXaXphcmRpbmcgV29ybGQg4oCUIGFtYmlhbmNlIHBvc3QtdmlzaXRlLCBmZXJtZXR1cmUKCioqUHJpbmNpcGVzKioKLSBMaWV1IGNyw6lkaWJsZSBkZSB0cmF2YWlsCi0gU3VyYWJvbmRhbmNlIGNvbnRyw7Rsw6llIGQnb2JqZXRzCi0gQW1iaWFuY2UgZmluIGRlIGpvdXJuw6llIC8gbXVzw6llIHZpZGUKCioqT2JqZXRzIHByw6lzZW50cyoqCi0gQ2FkcmUgcHJpbmNpcGFsIChBY3RlIEkpIOKAlCBwcsOpc2VudCBkw6hzIGxlIGTDqWJ1dCwgamFtYWlzIGTDqXNpZ27DqQotIENhZHJlcyBzZWNvbmRhaXJlcwotIEpldXggZGUgY2FydGVzIGludMOpZ3LDqXMgYXUgZMOpY29yCi0gT2JqZXRzIGRlIGNvbGxlY3Rpb24gV2l6YXJkaW5nIFdvcmxkCi0gRG9jdW1lbnRzIGRlIGNsYXNzaWZpY2F0aW9uIFBhdHJvbnVzCi0gT3V0aWxzIGRlIGNvbnNlcnZhdGlvbgoKLS0tCgojIyA3LiBGb25jdGlvbiBkZXMgb2JqZXRzIGNsw6lzCgp8IE9iamV0IHwgQWN0ZSB8IFLDtGxlIHwKfC0tLXwtLS18LS0tfAp8IENhZHJlIHByaW5jaXBhbCB8IEkgfCBQcsOpc2VudCwgaW52aXNpYmxlLCBkZXZpZW50IHNpZ25pZmlhbnQgYXByw6hzIGNvdXAgfAp8IENhcnRlcyBQYXRyb251cyB8IElJIHwgU3VwcG9ydCBkJ29ic2VydmF0aW9uIGV0IGRlIHbDqXJpZmljYXRpb24gfAp8IFBlbnNpbmUgfCBJSUkgfCBPYmpldCBkJ2V4cGxvcmF0aW9uIGV0IGRlIGJhc2N1bGUgZmluYWxlIHwKCi0tLQoKIyMgOC4gQXJjIG5hcnJhdGlmIGdsb2JhbAoKYGBgCkTDqWJ1dCAgIOKGkiBJbnN0YWxsYXRpb24gcsOpYWxpc3RlIGRhbnMgdW4gbGlldSBkZSB0cmF2YWlsCk1pbGlldSAg4oaSIEFwcGFyaXRpb24gcHJvZ3Jlc3NpdmUgZGUgcGjDqW5vbcOobWVzIGltcG9zc2libGVzCkZpbiAgICAgIOKGkiBBY2NlcHRhdGlvbiBldCBvdXZlcnR1cmUgw6AgbCdleHBsb3JhdGlvbgpgYGAK
+# 🎩 PATRONUS — Bible du spectacle
+> Document de référence permanente. Ne décrit pas comment construire le spectacle, mais ce qu'il est.
+
+---
+
+## 1. Concept
+
+Un agent de sécurité chargé de la surveillance et de la conservation d'une collection d'objets issus du Wizarding World se retrouve seul dans un espace d'exposition après fermeture.
+
+Le spectacle repose sur une **tension progressive entre un cadre rationnel et l'apparition de phénomènes impossibles**.
+
+La magie n'est jamais nommée, jamais démontrée. Elle émerge comme une conséquence du réel.
+
+---
+
+## 2. Personnage
+
+**Fonction** : Agent de sécurité / responsable de collection Wizarding World
+
+**Traits**
+- rationnel, cartésien, observateur
+- discret, sobre
+- passionné mais sceptique
+- non-magicien
+
+**Arc interne**
+```
+Témoin → Testeur → Explorateur
+```
+
+---
+
+## 3. Tonalité
+
+- Immersive et cinématographique
+- Sobre — aucune esthétique "cosplay" ou démonstration de pouvoirs
+- Accessible : familial / adulte
+- Progressive et mystérieuse
+- Conclusion positive
+
+---
+
+## 4. Structure dramaturgique
+
+### ACTE I — ÉVOQUER
+Le personnage agit dans un cadre professionnel normal.
+Une rumeur est introduite comme folklore interne.
+Un phénomène impossible survient **sans intention de test**.
+
+### ACTE II — TESTER
+Le personnage adopte une posture de vérification :
+expérimentation, contrôle, reproduction, analyse quasi scientifique.
+
+### ACTE III — EXPLORER
+Abandon progressif du cadre rationnel.
+Acceptation de l'inexplicable. Usage narratif de la Pensine.
+
+---
+
+## 5. Règles implicites du monde
+
+1. **Réalisme initial total** — tout commence comme une situation ordinaire
+2. **Magie implicite** — aucune règle magique explicitée
+3. **Progressivité** — les phénomènes augmentent en intensité et en étrangeté
+4. **Rationalisation constante** — le personnage cherche toujours une explication logique
+5. **Effets comme conséquences** — jamais comme démonstrations
+6. **Cohérence émergente** — les phénomènes semblent répondre à l'interaction humaine sans jamais l'affirmer
+
+---
+
+## 6. Dispositif scénographique
+
+**Espace** : exposition / conservation Wizarding World — ambiance post-visite, fermeture
+
+**Principes**
+- Lieu crédible de travail
+- Surabondance contrôlée d'objets
+- Ambiance fin de journée / musée vide
+
+**Objets présents**
+- Cadre principal (Acte I) — présent dès le début, jamais désigné
+- Cadres secondaires
+- Jeux de cartes intégrés au décor
+- Objets de collection Wizarding World
+- Documents de classification Patronus
+- Outils de conservation
+
+---
+
+## 7. Fonction des objets clés
+
+| Objet | Acte | Rôle |
+|---|---|---|
+| Cadre principal | I | Présent, invisible, devient signifiant après coup |
+| Cartes Patronus | II | Support d'observation et de vérification |
+| Pensine | III | Objet d'exploration et de bascule finale |
+
+---
+
+## 8. Arc narratif global
+
+```
+Début   → Installation réaliste dans un lieu de travail
+Milieu  → Apparition progressive de phénomèmes impossibles
+Fin      → Acceptation et ouverture à l'exploration
+```
