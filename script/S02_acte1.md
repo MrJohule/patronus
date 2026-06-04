@@ -3,84 +3,156 @@
 
 ---
 
-## Statut : 📋 À développer
+## Statut : 🔄 Version 1 — à affiner au travail
 
 ---
 
-## Moments clés à scripter
+## 1. Interpellation du spectateur
 
-### 1. Introduction de la carte pensée
+*(Dans la continuité de la phase 5 de l'ouverture — le personnage regarde le public, comme si l'idée venait de lui traverser l'esprit à cet instant.)*
 
-Le jeu de cartes est déjà présent dans l'espace. Le personnage ne le "sort" pas comme un accessoire — il le prend comme on prend un objet familier.
+> "Vous…"
 
-**Intention** : que le spectateur pense librement à une carte, sans que rien ne ressemble à un tour de magie.
+*(Il désigne naturellement le premier spectateur qui accroche son regard — comme on interpellerait un visiteur ordinaire.)*
+
+> "Pensez à une carte. Pas à voix haute — juste dans votre tête. Un personnage, une couleur, une valeur. Laissez-en une venir."
+
+*(Un temps. Il attend sincèrement.)*
+
+> "Vous l'avez ?"
+
+*(Le spectateur confirme.)*
+
+> "Sa couleur ?"
+
+*(Réponse.)*
+
+> "Et sa hauteur ?"
 
 **Indications de jeu**
-- Ton conversationnel, presque distrait
-- Ne pas mettre en valeur le moment — le minimiser
-- La carte pensée doit sembler anodine
-
-*[Texte à développer]*
+- Ton conversationnel, presque distrait — pas d'"annonce"
+- La question sur la couleur et la hauteur est posée simplement, comme pour mieux "visualiser"
+- Aucune tension à ce stade
 
 ---
 
-### 2. Distribution et comptage du jeu
+## 2. Aller chercher le jeu
 
-Le jeu est distribué ou étalé. Le personnage compte les cartes de façon logique — pour "vérifier", pas pour impressionner.
+*(Le personnage se dirige vers l'étagère ou la table. Parmi plusieurs jeux présents dans le décor, il en prend un — le bon — sans le mettre en valeur.)*
 
-**Intention** : établir une logique rationnelle de contrôle avant la rupture.
+> "Il y a plusieurs jeux dans la collection. Celui-là…"
+
+*(Il le regarde une seconde.)*
+
+> "Celui-là me semble juste."
 
 **Indications de jeu**
-- Comptage visible, méthodique, presque bureaucratique
-- Aucune tension dramatique à ce stade
-- Le personnage croit encore à une explication rationnelle
-
-*[Texte à développer]*
+- Le choix du jeu doit sembler intuitif, pas calculé
+- Les autres jeux sont là — visibles, crédibles
+- Pas d'explication du choix
 
 ---
 
-### 3. Constat du manque
+## 3. Le spectateur cherche sa carte
 
-La carte pensée est absente du jeu. Ce moment est le premier point de rupture.
+*(Il tend le jeu au spectateur.)*
 
-**Intention** : surprise authentique du personnage, pas triomphante.
+> "Cherchez votre carte. Prenez le temps qu'il faut."
+
+*(Il attend. Il observe — pas le jeu, le spectateur.)*
+
+*(Le spectateur ne trouve pas sa carte.)*
+
+> "Elle n'est pas là ?"
+
+> "Quelle est votre carte, exactement ?"
+
+*(Le spectateur répond — identité précise de la carte.)*
+
+> "Recomptez-les. Une par une."
+
+*(Pendant que le spectateur recompte, le personnage réarrange naturellement quelques objets sur la table — gestes de routine. Il récupère secrètement le duplicata à l'empalmage.)*
 
 **Indications de jeu**
-- Silence avant la parole
-- Recompter — vraiment, pas pour la forme
-- Le doute doit être visible et sincère
-
-*[Texte à développer]*
+- Le personnage ne regarde pas le spectateur recompter — il vaque à ses occupations
+- Les gestes sur la table sont ordinaires, pas furtifs
+- Aucune tension apparente pendant ce temps
 
 ---
 
-### 4. Reconfiguration — retour à la rumeur
+## 4. Constat du manque
 
-Le personnage fait le lien, presque malgré lui, avec ce qu'il vient d'évoquer sur l'ancien gardien.
+*(Le spectateur a fini de compter. 51 cartes.)*
 
-**Intention** : transition naturelle vers le cadre, sans l'annoncer.
+> "Cinquante et un."
 
-*[Texte à développer]*
+*(Le personnage prend le jeu. Il recompte lui-même — vite, méthodiquement.)*
 
----
+*(Un temps.)*
 
-### 5. Révélation du cadre
+> "C'est… cinquante et un."
 
-Le cadre est ouvert. La carte s'y trouve.
-
-**Intention** : le personnage est aussi surpris que le public — il ne "fait" pas une révélation, il en est témoin.
+*(Il repose le jeu. Il ne dit rien pendant quelques secondes. Il cherche une explication rationnelle — on le voit chercher.)*
 
 **Indications de jeu**
-- Geste lent vers le cadre — pas de théâtralité
-- La surprise doit sembler réelle
-- Laisser le silence travailler après la révélation
-
-*[Texte à développer]*
+- Le silence après le constat est le moment le plus important de l'acte — ne pas le remplir trop vite
+- Le personnage cherche vraiment une explication — le doute est sincère
+- Pas de triomphe, pas de clin d'œil au public
 
 ---
 
-### 6. Sortie d'acte / phrase de bascule vers Acte II
+## 5. Retour à la rumeur — cheminement vers le cadre
 
-Le personnage sort du choc. Il ne conclut pas, il réagit. Une idée lui vient.
+*(Le personnage reste immobile un moment. Puis quelque chose remonte — presque malgré lui.)*
 
-**Phrase de bascule** : *[à développer — fil narratif verbal]*
+> "Mon prédécesseur disait que les objets ici… gardaient quelque chose."
+
+*(Il regarde autour de lui. Son regard s'arrête sur le cadre — posé là depuis le début. Il y a une carte visible côté dos.)*
+
+> "Il disait que les portraits… pouvaient voyager."
+
+*(Il s'approche du cadre lentement. Pas de certitude — plutôt la méfiance de quelqu'un qui ne veut pas avoir raison.)*
+
+> "Ce serait absurde."
+
+*(Il s'arrête devant le cadre. Un temps.)*
+
+**Indications de jeu**
+- Le lien avec la rumeur doit sembler une pensée qui remonte, pas une déduction construite
+- Le chemin vers le cadre est lent — chaque pas est une hésitation
+- "Ce serait absurde" est dit pour lui-même, pas pour le public
+
+---
+
+## 6. Révélation du cadre
+
+*(Il retourne le cadre. La carte — dont seul le dos était visible — est face au public. C'est la carte pensée.)*
+
+*(Silence.)*
+
+*(Le personnage ne dit rien. Il regarde la carte. Il regarde le spectateur. Il regarde la carte.)*
+
+> "C'est bien… la vôtre ?"
+
+*(Le spectateur confirme.)*
+
+*(Un long temps. Le personnage repose le cadre. Il ne sait pas quoi faire de ce qu'il vient de voir.)*
+
+**Indications de jeu**
+- La révélation appartient au silence — ne pas parler dessus
+- La question "C'est bien la vôtre ?" est posée avec un espoir presque enfantin que la réponse soit non
+- Après la confirmation : immobilité, pas de conclusion
+
+---
+
+## 7. Sortie d'acte — phrase de bascule vers Acte II
+
+*(Le personnage reste avec ça un moment. Puis quelque chose se cristallise.)*
+
+> "D'accord. On va faire ça correctement."
+
+*(Il se dirige vers les cartes Patronus.)*
+
+**Indications de jeu**
+- La phrase est dite pour lui-même — une décision intérieure, pas une annonce
+- Le déplacement vers les cartes Patronus est immédiat après la phrase — pas de pause
