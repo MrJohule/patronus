@@ -90,7 +90,7 @@
 
 ---
 
-## 5. Défilement et ressenti
+## 5. Défilement, ressenti et confirmation
 
 *(Le personnage commence à faire défiler les cartes par paquets. Il en pose un premier sur la table.)*
 
@@ -110,10 +110,19 @@
 
 *(Ton : pas de certitude triomphante — une conviction fragile, presque étonnée.)*
 
+*(Il retourne les 4 cartes face visible devant le spectateur.)*
+
+> "Votre Patronus… il est bien parmi ces quatre-là ?"
+
+*(Le spectateur confirme. Le public valide aussi — les 4 cartes sont visibles, tout semble en ordre.)*
+
+*(C'est pendant ce moment de confirmation que le vol s'effectue.)*
+
 **Indications de jeu**
 - L'hésitation sur le deuxième paquet est importante — elle crédibilise le tâtonnement
 - "Je pense que c'est là" n'est pas une affirmation — c'est une hypothèse
-- Le personnage regarde les cartes comme s'il cherchait à lire quelque chose dans leur disposition
+- La confirmation du spectateur ancre l'attention sur les 4 cartes — c'est le moment clé
+- Le vol s'effectue pendant ce temps de validation collective, jamais avant
 
 ---
 
