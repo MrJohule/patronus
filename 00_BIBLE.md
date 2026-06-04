@@ -72,6 +72,10 @@ Acceptation de l'inexplicable. Usage narratif de la Pensine.
 
 **Espace** : exposition / conservation Wizarding World — ambiance post-visite, fermeture
 
+**Format** : petite jauge (20 personnes max), espace type domicile ou salle privatisée
+
+**Durée** : non contrainte — résultat naturel des routines
+
 **Principes**
 - Lieu crédible de travail
 - Surabondance contrôlée d'objets
@@ -101,6 +105,6 @@ Acceptation de l'inexplicable. Usage narratif de la Pensine.
 
 ```
 Début   → Installation réaliste dans un lieu de travail
-Milieu  → Apparition progressive de phénomèmes impossibles
-Fin      → Acceptation et ouverture à l'exploration
+Milieu  → Apparition progressive de phénomènes impossibles
+Fin     → Acceptation et ouverture à l'exploration
 ```
