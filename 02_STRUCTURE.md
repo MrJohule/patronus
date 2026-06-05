@@ -17,8 +17,8 @@ Agent professionnel → Découverte du public → Création du lien → Glisseme
 2. Découverte du public — surprise légèrement décalée, recalibrage
 3. Création du lien — ton conversationnel, relation informelle
 4. Installation de la rumeur — anecdotes du personnel, ancien gardien, micro-incertitude
-5. Glissement vers l'expérience — le jeu de cartes apparaît comme objet du lieu
-6. Bascule vers Acte I — première anomalie perceptible
+5. Glissement vers l'expérience — les jeux de cartes apparaissent comme objets du lieu
+6. Bascule vers Acte I
 
 **Ton** : naturel, professionnel, jamais performatif
 
@@ -82,7 +82,7 @@ Testeur méthodique → Confrontation aux limites du rationnel
 
 ## TRANSITION II → III
 
-Le personnage va chercher les livres et la Pensine. Ce n'est plus une expérience — c'est une exploration.
+Le personnage va chercher les livres. Ce n'est plus une expérience — c'est une exploration.
 
 **Logique interne** : les règles fonctionnent. La frontière entre le monde réel et ce monde magique est poreuse, perméable. La curiosité de l'enfant prend le pas — il a toujours voulu lire les pensées. Contrairement à l'Acte II, il n'y a plus de cadre contrôlé : c'est un espace ouvert à la liberté et à l'expérimentation.
 
@@ -135,3 +135,35 @@ Un regard vers le public — pas celui de l'agent, celui de quelqu'un qui partag
 | Transition I → II | Contrôle, rigueur, méthode | *"D'accord. On va faire ça correctement."* |
 | Transition II → III | Curiosité, lâcher prise, enfance | *"Il y a un truc que j'ai toujours voulu essayer..."* |
 | Sortie de spectacle | Vertige doux, complicité, questions ouvertes | *"Je crois qu'il va falloir que je repense à certaines choses."* |
+
+---
+
+## SCÉNOGRAPHIE & OBJETS
+
+### Principes
+- Espace minimaliste, adaptable au lieu de jeu
+- Table ou mange-debout pour les objets de l'acte en cours
+- Étagère derrière avec objets variés — plus de diversité que de nécessité
+- Public assis, frontière scène/public logique plutôt que physique
+
+### Objets techniques (indispensables)
+
+| Objet | Acte | Notes |
+|---|---|---|
+| Cadre truqué | I | Posé sur le côté dès l'entrée, jamais désigné |
+| Jeux de cartes (x2 minimum) | I | Dans le présentoir, intégrés au décor |
+| Présentoir à jeux de cartes | I | Visible dès l'entrée |
+| 12 cartes Patronus | II | À créer — format et visuel à définir |
+| Présentoir à baguettes | II + III | Plusieurs baguettes Wizarding World |
+| 3 tomes HP poche (Folio Junior) | III | T1 n°899 / T2 n°961 / T3 n°1006 |
+| 3 marque-pages transparents | III | Positionnés sur les pages fixes |
+| Pensine (bol d'eau chinois) | III | Sur l'étagère dès l'entrée, jamais désignée |
+| Fiole | III | Pour le transfert de l'eau |
+
+### Objets de décor (diversité)
+*(liste à compléter selon disponibilités)*
+- [ ] Objets de collection Wizarding World divers
+- [ ] Documents / classifications (visuels de collection)
+- [ ] Cadres secondaires
+- [ ] Autres jeux de cartes
+- [ ] Objets issus des films / séries HP
