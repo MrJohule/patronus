@@ -3,17 +3,7 @@
 
 ---
 
-## Statut : 🔄 Version 1 — à affiner au travail
-
----
-
-## Scénographie de référence
-
-- Table ou mange-debout pour les objets de l'acte en cours
-- Étagère derrière avec objets variés (plus de diversité que de nécessité)
-- Cadre posé sur le côté — visible dès l'entrée, jamais désigné
-- Présentoir à jeux de cartes intégré au décor
-- Public assis, espace "scène" distinct mais frontière logique plutôt que physique
+## Statut : 🔄 Version 2 — relecture globale intégrée
 
 ---
 
@@ -27,6 +17,7 @@
 - Gestes ordinaires, domestiques — jamais performatifs
 - Rythme lent, aucune tension
 - Le cadre est visible mais jamais regardé, jamais désigné
+- La Pensine est sur l'étagère parmi d'autres objets — le personnage ne la regarde pas, ne la désigne pas
 
 ---
 
@@ -95,18 +86,18 @@
 
 *(Il s'approche du présentoir, presque en continuant sa vérification habituelle.)*
 
-> "Mon prédécesseur pensait que certains objets gardaient quelque chose. Une trace. Je lui ai toujours dit que c'était de la fatigue."
+> "Il pensait que certains objets gardaient quelque chose. Une trace."
 
-*(Il sort une ou deux cartes du présentoir naturellement — comme on examinerait une pièce de collection.)*
+*(Il prend un ou deux jeux de cartes du présentoir naturellement — comme on examinerait une pièce de collection.)*
 
 > "Dans ce monde, les portraits gardent une présence. Une mémoire. Chaque carte ici est un personnage — une galerie, en quelque sorte."
 
-*(Il replace les cartes. Le jeu est intact, dans le présentoir.)*
+*(Il replace les jeux. Le présentoir est intact.)*
 
 > "Pensez à l'une d'elles. Pas à voix haute. Juste une carte — un personnage qui vous vient."
 
 **Indications de jeu**
-- Le jeu ne quitte pas le présentoir — une ou deux cartes sorties comme exemples, replacées
+- Un ou deux jeux de cartes sortis comme exemples, replacés — jamais les cartes individuellement
 - Le glissement depuis la rumeur doit sembler naturel, presque involontaire
 - Ton de la dernière réplique : invitation tranquille, pas d'enjeu apparent
 
@@ -114,13 +105,6 @@
 
 ## Phase 6 — Bascule vers Acte I
 
-*(Il prend le jeu dans le présentoir. Il distribue ou étale les cartes. Il compte. Méthodique, ordinaire.)*
-
-*(Quelque chose ne va pas. Il recompte. Silence.)*
+*(Le personnage regarde le public. Une idée.)*
 
 *(Entrée dans R01.)*
-
-**Indications de jeu**
-- Le comptage est visible, méthodique — presque bureaucratique
-- Aucune tension dramatique avant le constat
-- Le silence après le recomptage est le premier vrai point de rupture
