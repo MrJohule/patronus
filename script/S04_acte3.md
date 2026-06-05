@@ -3,7 +3,7 @@
 
 ---
 
-## Statut : 🔄 Version 1 — en cours (tomes 2 et 3 à compléter)
+## Statut : 🔄 Version 1 — trois tomes complets
 
 ---
 
@@ -165,7 +165,7 @@
 ---
 
 ### Tome 1 — Page 187
-*Premier match de Quidditch de Harry*
+*Premier match de Quidditch de Harry — Folio Junior n°899*
 
 **Niveau 1 — Ambiance**
 > "Je sens… beaucoup d'excitation. Du bruit, de l'agitation. On est dehors — il y a du vent."
@@ -194,17 +194,65 @@
 
 ---
 
-### Tome 2 — Page [à compléter]
-*[Scène à définir]*
+### Tome 2 — Page 185
+*Harry au sol, bras blessé — Folio Junior n°961*
 
-*[Entonnoir à développer]*
+**Niveau 1 — Ambiance**
+> "De la douleur. Beaucoup de douleur. On est au sol — dehors, il y a du monde autour."
+
+*(Confirmation de A.)*
+
+**Niveau 2 — Action**
+> "Des exclamations. De l'inquiétude autour. Quelque chose s'est passé — une blessure."
+
+*(Confirmation.)*
+
+**Niveau 3 — Contexte**
+> "On est sur un terrain de Quidditch. Fred et Georges sont là — ils s'occupent de quelque chose… un Cognard."
+
+*(Confirmation.)*
+
+**Niveau 4 — Détail précis**
+> "Quelqu'un intervient. Le professeur Lockhart. Et ça… ça n'est pas rassurant."
+
+*(Confirmation.)*
+
+**Niveau 5 — Détail impossible**
+> "La douleur disparaît. Un soulagement… mais non. Les os aussi ont disparu."
+
+*(Silence.)*
 
 ---
 
-### Tome 3 — Page [à compléter]
-*[Scène à définir]*
+### Tome 3 — Page 283
+*Match de Quidditch — Harry, les Détraqueurs, le Vif d'Or — Folio Junior n°1006*
 
-*[Entonnoir à développer]*
+**Niveau 1 — Ambiance**
+> "On est dans les airs. Ça va vite — il fait froid. Très froid."
+
+*(Confirmation de A.)*
+
+**Niveau 2 — Action**
+> "On est sur un balai. C'est un match de Quidditch — et on cherche quelque chose."
+
+*(Confirmation.)*
+
+**Niveau 3 — Contexte**
+> "Le Vif d'Or. Il y a quelqu'un d'autre en face — il faut aller plus vite. Cho."
+
+*(Confirmation.)*
+
+**Niveau 4 — Détail précis**
+> "Et puis… quelque chose change. Un froid différent — pas la météo. Des Détraqueurs. Un sort de Patronus."
+
+*(Confirmation.)*
+
+**Niveau 5 — Détail impossible**
+> "Malgré tout… le Vif d'Or. Attrapé. Et puis plus rien — connaissance perdue."
+
+*(Silence.)*
+
+**Note de jeu** : La sensation de froid supplémentaire liée aux Détraqueurs est une interprétation dramaturgique — les Détraqueurs sont bien présents dans le texte, la nuance sensorielle est un ajout cohérent avec le lore.
 
 ---
 
