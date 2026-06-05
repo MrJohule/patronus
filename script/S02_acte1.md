@@ -3,7 +3,7 @@
 
 ---
 
-## Statut : 🔄 Version 1 — à affiner au travail
+## Statut : 🔄 Version 2 — relecture globale intégrée
 
 ---
 
@@ -105,7 +105,7 @@
 
 *(Le personnage reste immobile un moment. Puis quelque chose remonte — presque malgré lui.)*
 
-> "Mon prédécesseur disait que les objets ici… gardaient quelque chose."
+> "Il avait peut-être raison."
 
 *(Il regarde autour de lui. Son regard s'arrête sur le cadre — posé là depuis le début. Il y a une carte visible côté dos.)*
 
@@ -118,7 +118,7 @@
 *(Il s'arrête devant le cadre. Un temps.)*
 
 **Indications de jeu**
-- Le lien avec la rumeur doit sembler une pensée qui remonte, pas une déduction construite
+- "Il avait peut-être raison" — pensée qui remonte, pas déduction construite
 - Le chemin vers le cadre est lent — chaque pas est une hésitation
 - "Ce serait absurde" est dit pour lui-même, pas pour le public
 
