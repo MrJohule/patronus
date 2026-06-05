@@ -3,7 +3,7 @@
 
 ---
 
-## Statut : 🔄 Version 1 — à affiner au travail
+## Statut : 🔄 Version 2 — relecture globale intégrée
 
 ---
 
@@ -29,6 +29,7 @@
 - Les cartes sont posées comme des pièces de collection, pas exhibées
 - La question sur les Patronus est posée naturellement — pas un test, une vérification
 - Ton quasi-scientifique, méthodique — l'Acte II commence ici
+- Interpeller un spectateur différent de celui de l'Acte III
 
 ---
 
@@ -118,11 +119,14 @@
 
 *(C'est pendant ce moment de confirmation que le vol s'effectue.)*
 
+*(Le personnage se reconcentre sur les cartes dans sa main — geste naturel, comme pour mieux les lire. *(voir R02 — étape 8)*)*
+
 **Indications de jeu**
 - L'hésitation sur le deuxième paquet est importante — elle crédibilise le tâtonnement
 - "Je pense que c'est là" n'est pas une affirmation — c'est une hypothèse
 - La confirmation du spectateur ancre l'attention sur les 4 cartes — c'est le moment clé
 - Le vol s'effectue pendant ce temps de validation collective, jamais avant
+- La reconcentration est un geste ordinaire — jamais technique en apparence
 
 ---
 
@@ -184,8 +188,11 @@
 
 > "Il y a un truc que j'ai toujours voulu essayer..."
 
-*(Il se dirige vers les livres et la Pensine.)*
+*(En ramassant les cartes Patronus, il récupère la baguette et range le matériel naturellement — sans le désigner.)*
+
+*(Il se dirige vers les livres.)*
 
 **Indications de jeu**
 - La phrase est dite à mi-voix — presque une pensée qui s'échappe
 - Le déplacement est déjà en cours pendant ou juste après la phrase
+- La récupération du matériel est un geste de rangement ordinaire, pas une action à part
