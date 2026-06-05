@@ -3,7 +3,7 @@
 
 ---
 
-## Statut : 🔄 Version 1 — trois tomes complets
+## Statut : 🔄 Version 2 — relecture globale intégrée
 
 ---
 
@@ -25,6 +25,7 @@
 - La phrase de bascule ("Il y a un truc...") est déjà amorcée en fin d'Acte II — elle continue ici
 - Les livres sont trouvés, pas présentés — aucun commentaire sur leur nature
 - Ton : excitation contenue, curiosité d'enfant qui prend le pas
+- Interpeller deux spectateurs différents de celui de l'Acte I
 
 ---
 
@@ -139,7 +140,7 @@
 
 ## 7. Extraction et matérialisation de l'eau
 
-*(Le personnage prend la baguette. Il s'approche de A.)*
+*(Le personnage prend une baguette du présentoir. Il s'approche de A.)*
 
 > "Dans la tradition… la Pensine permet d'extraire un souvenir. De le rendre visible."
 
@@ -152,6 +153,7 @@
 > "C'est là."
 
 **Indications de jeu**
+- Le personnage prend une baguette du présentoir — naturellement, sans désigner son choix
 - Geste lent, concentré — pas de théâtralité excessive
 - "C'est là" dit à mi-voix, pour lui-même
 - La fiole est posée devant A — le phénomène devient tangible
