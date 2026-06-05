@@ -46,24 +46,23 @@ Toute modification doit respecter :
 - Structure en 3 actes (Évoquer / Tester / Explorer)
 - Arc dramaturgique des 3 routines
 - Règles implicites du monde
-- Mise en scène de l'ouverture (phases 1 à 6)
-- Base technique Acte I (Pensée Encadrée — Luc Apers, adaptation en cours)
-- Base technique Acte II (Bidle modifié 12 cartes Patronus — conception originale)
-- Base technique Acte III (Book test 3 tomes HP + Pensine — bols d'eau chinois)
-- Structure documentaire du projet
+- Fil narratif verbal complet (3 phrases de bascule + leitmotiv)
+- Script Ouverture — version 1
+- Script Acte I — version 1
+- Script Acte II — version 1
+- Script Acte III — version 1 (3 tomes complets)
+- Scénographie & liste d'objets (dans STRUCTURE)
+- Relecture globale de cohérence — 6 points traités
 
 ### 🔄 En cours
 - Fabrication du cadre truqué (Acte I)
-- Mise en scène fine Acte I
-- Transitions Acte I → Acte II → Acte III
-- Fil narratif verbal reliant les trois actes
+- Création des 12 cartes Patronus (visuels à définir)
+- Liste d'objets de décor à compléter
 
 ### 📋 À développer
-- Phrases de bascule entre les actes
-- Leitmotiv verbal traversant les trois actes
-- Climax final / sortie de spectacle
-- Calibration émotionnelle implicite
-- Script complet (dossier script/)
+- Travail au plateau — ajustements texte et rythme
+- Calibration émotionnelle fine au jeu
+- Préparation matérielle complète
 
 ---
 
@@ -73,20 +72,20 @@ Toute modification doit respecter :
 PATRONUS/
 ├── 00_BIBLE.md              ✅ Vision, personnage, univers, principes
 ├── 01_CANEVAS.md            ✅ Méthode, pilotage, journal (ce document)
-├── 02_STRUCTURE.md          ✅ Arcs, transitions, fil narratif
+├── 02_STRUCTURE.md          ✅ Arcs, transitions, fil narratif, scénographie
 ├── routines/
 │   ├── R01_cadre.md         🔄 Routine du cadre (Acte I)
 │   ├── R02_patronus.md      🔄 Routine Patronus (Acte II)
 │   └── R03_pensine.md       🔄 Routine Pensine (Acte III)
 └── script/
-    ├── S01_ouverture.md     📋 Texte dit + indications — Ouverture
-    ├── S02_acte1.md         📋 Texte dit + indications — Acte I
-    ├── S03_acte2.md         📋 Texte dit + indications — Acte II
-    └── S04_acte3.md         📋 Texte dit + indications — Acte III
+    ├── S01_ouverture.md     ✅ Texte dit + indications — Ouverture (v2)
+    ├── S02_acte1.md         ✅ Texte dit + indications — Acte I (v2)
+    ├── S03_acte2.md         ✅ Texte dit + indications — Acte II (v2)
+    └── S04_acte3.md         ✅ Texte dit + indications — Acte III (v2)
 ```
 
 **Principe de répartition :**
-- `02_STRUCTURE` → arcs dramaturgiques, transitions, fil narratif verbal
+- `02_STRUCTURE` → arcs dramaturgiques, transitions, fil narratif verbal, scénographie
 - `Rxx` → tout ce qui concerne la routine (chronologie, objets, technique, jeu)
 - `Sxx` → texte dit et indications de jeu, acte par acte
 
@@ -107,6 +106,12 @@ PATRONUS/
 | 2026-06-02 | Baguette = support de concentration spectateur, pas outil magique |
 | 2026-06-02 | Acte III : book test (3 tomes HP poche) + Pensine (bol chinois) |
 | 2026-06-02 | Pages book test fixées sur 3 scènes de Quidditch mémorisées |
-| 2026-06-02 | Fil conducteur global posé — transitions à développer |
+| 2026-06-02 | Fil conducteur global posé |
 | 2026-06-03 | Structure documents réorganisée : STRUCTURE allégée, chronologies dans Rxx, script dans Sxx |
 | 2026-06-03 | Connexion GitHub MCP opérationnelle — gestion docs directement sur repo |
+| 2026-06-05 | Fil narratif verbal complet — 3 phrases de bascule validées |
+| 2026-06-05 | Scripts v1 complets pour les 4 séquences |
+| 2026-06-05 | Relecture globale cohérence — redondance rumeur, transitions, baguette, Pensine, spectateurs |
+| 2026-06-05 | Scripts passés en v2 — tous points de friction traités |
+| 2026-06-05 | Section scénographie & objets créée dans STRUCTURE |
+| 2026-06-05 | Personnage sans nom — décision maintenue ouverte |
