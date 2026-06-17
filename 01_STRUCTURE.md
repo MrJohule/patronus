@@ -16,8 +16,8 @@ Agent professionnel → Découverte du public → Création du lien → Glisseme
 1. Entrée dans le lieu — ambiance fermeture, objets en place, cadre présent mais non désigné
 2. Découverte du public — surprise légèrement décalée, recalibrage
 3. Création du lien — ton conversationnel, relation informelle
-4. Installation de la rumeur — anecdotes du personnel, ancien gardien, micro-incertitude
-5. Glissement vers l'expérience — les jeux de cartes apparaissent comme objets du lieu
+4. Installation de la rumeur — anecdotes du personnel, ancien gardien. Le personnage raconte ça avec une bienveillance condescendante — folklore interne, il a entendu ça cent fois.
+5. Réfutation par l'absurde — pour illustrer le ridicule de la rumeur, il mime le bonimenteur de foire. Le geste est léger, presque tendre. *"Pensez à une carte !"* C'est une blague. Ou presque.
 6. Bascule vers Acte I
 
 **Ton** : naturel, professionnel, jamais performatif
@@ -29,7 +29,11 @@ Agent professionnel → Découverte du public → Création du lien → Glisseme
 
 **Objectif** : Un phénomène impossible survient sans intention de test. Le personnage bascule dans le doute actif.
 
-**Posture du personnage** : détaché, illustratif — il raconte une histoire (la rumeur) sans y croire vraiment. Il n'est pas acteur de ce qui se passe, il en est témoin malgré lui.
+**Posture du personnage** *(sous-texte, non explicité au plateau)* : il reproduit, sans malveillance, la posture du monde adulte rationnel — celle qui explique gentiment que ce genre de choses n'existe pas. Il ne teste rien, il démontre l'absurdité par le geste.
+
+**Ce que le public voit** : il raconte la rumeur avec amusement, il mime le bonimenteur de foire avec un sourire en coin, il lance *"pensez à une carte !"* comme une blague.
+
+**Ce qui se joue réellement** : c'est précisément ce rôle de "grand" qu'il rejoue qui rend le retournement déstabilisant — le sol se dérobe sous ses pieds au moment même où il se croyait au-dessus de tout ça.
 
 **Arc du personnage**
 ```
@@ -64,11 +68,17 @@ Le personnage va physiquement chercher le bestiaire Patronus. Ce déplacement ma
 
 **Objectif** : Le personnage adopte une posture de vérification scientifique. Il propose une expérience — pas pour démontrer, mais pour reproduire et comprendre.
 
-**Posture du personnage** : tout est fait avec attention et précision, rien n'est laissé au hasard. C'est l'acte du contrôle et de la méthode.
+**Posture du personnage** *(sous-texte)* : il cherche une explication mécanique — est-ce l'objet qui agit, ou lui qui agit sur l'objet ? Il ne sait pas encore que la question elle-même n'a pas de réponse binaire.
+
+**Ce que le public voit** : rigueur, attention, méthode. Rien n'est laissé au hasard.
+
+**Déroulé implicite** : il cherche d'abord à ressentir lui-même en passant les cartes en revue — quelque chose remonte, mais ce n'est pas net. Il a alors recours à la baguette, qu'il remet au spectateur : si le phénomène doit se produire, l'objet et le geste de l'autre y participent aussi. Les deux hypothèses restent vraies sans jamais se résoudre l'une contre l'autre.
+
+**Arc émotionnel** *(détaillé en R02)* : du contrôle méthodique à l'émerveillement, en passant par une excitation contenue puis grandissante — la brèche ouverte en Acte I ne se refermera jamais.
 
 **Arc du personnage**
 ```
-Testeur méthodique → Confrontation aux limites du rationnel
+Testeur méthodique → Tâtonnement (ça vient de moi ?) → Recours à l'objet (ça vient de l'objet ?) → Confrontation aux limites du rationnel
 ```
 
 **Résultat attendu**
@@ -98,11 +108,23 @@ Le personnage va chercher les livres. Ce n'est plus une expérience — c'est un
 
 **Objectif** : Abandon progressif du cadre rationnel. Le phénomène n'est plus individuel — il traverse plusieurs personnes simultanément.
 
-**Posture du personnage** : libre, curieux, expérimental. La deuxième lecture de pensée (la scène lue) ne fonctionne pas aussi bien — d'où le recours à la Pensine. Le personnage ne maîtrise pas tout, il tâtonne dans un territoire nouveau.
+**Posture du personnage** *(sous-texte)* : la brèche ouverte en Acte II ne s'est jamais refermée — elle s'élargit. Son âme d'enfant prend progressivement le dessus. Il n'est plus dans le contrôle, il est dans l'envie.
+
+**Ce que le public voit** : il a presque l'air de s'amuser — une légèreté, une naïveté nouvelle.
+
+**Déroulé** :
+1. Il évoque la Pensine — pourquoi elle l'a toujours fasciné, le pont entre lire dans une tête et lire dans un souvenir. Le moment est venu d'essayer.
+2. Présentation des livres — choix du tome et de la page par le spectateur A
+3. Léger doute — *"en suis-je réellement capable ?"* — décision de commencer petit
+4. Choix d'un mot, librement, par le spectateur B
+5. Révélation du mot — premier succès, sobre et ravi : la "chauffe"
+6. La confiance gagnée donne l'évidence : il peut maintenant aller plus loin — vers le souvenir entier de A, via la Pensine
+
+**Tâtonnement réel** : la lecture de la scène entière résiste un instant — pas un échec, une limite naturelle qui justifie le recours pleinement assumé à la Pensine.
 
 **Arc du personnage**
 ```
-Explorateur → Tâtonnement → Vertige → Ouverture
+Désir avoué (la Pensine) → Présentation des livres (choix du tome, page — A) → Doute, décision de commencer petit → Échauffement réussi (le mot) → Confiance gagnée → Plongée dans la Pensine → Vertige → Émerveillement partagé
 ```
 
 **Résultat attendu**
@@ -112,17 +134,28 @@ Explorateur → Tâtonnement → Vertige → Ouverture
 - La logique du monde reste ouverte
 
 > 📋 Chronologie détaillée — voir `routines/R03_pensine.md`
+> ⚠️ La chronologie de R03 devra être révisée : l'aveu sur la Pensine précède désormais la présentation des livres.
 
 ---
 
-## SORTIE DE SPECTACLE
+## FIN DE L'ACTE III
 
-Le personnage repart comme il est arrivé. Quelque chose a changé — son âme d'enfant s'est exprimée, un autre monde s'est ouvert. Satisfaction et vertige mêlés. Des questions restent (est-il le seul ? est-ce pour tout le monde ? pourquoi maintenant ?). Rien n'est dit explicitement.
+Le personnage a réalisé quelque chose de réputé impossible. Un nouveau monde s'ouvre à lui. Satisfaction et vertige mêlés.
 
-Un regard vers le public — pas celui de l'agent, celui de quelqu'un qui partage un secret.
-
-**Phrase de sortie** :
+**Phrase** *(à revoir)* :
 > *"Je crois qu'il va falloir que je repense à certaines choses."*
+
+---
+
+## ÉPILOGUE
+
+Le personnage range ses affaires, lentement, comme au début. *(sous-texte, non explicité)* : il comprend, dans cet instant, ce qui a dû arriver à son prédécesseur — la même brèche, refusée plutôt qu'acceptée.
+
+Il s'approche du présentoir à baguettes. Il en choisit une — pas un geste anodin, un acte délibéré. Il la glisse dans sa poche.
+
+Il s'en va. Pas de salut. Un dernier regard au public — un sourire, un "chut" complice du doigt sur les lèvres, ou simplement son dos qui s'éloigne. *(la forme exacte du geste final reste à éprouver au plateau)*
+
+La dernière image est son dos, ou son regard. Le secret reste entre lui et le public.
 
 ---
 
@@ -134,7 +167,7 @@ Un regard vers le public — pas celui de l'agent, celui de quelqu'un qui partag
 |---|---|---|
 | Transition I → II | Contrôle, rigueur, méthode | *"D'accord. On va faire ça correctement."* |
 | Transition II → III | Curiosité, lâcher prise, enfance | *"Il y a un truc que j'ai toujours voulu essayer..."* |
-| Sortie de spectacle | Vertige doux, complicité, questions ouvertes | *"Je crois qu'il va falloir que je repense à certaines choses."* |
+| Fin de l'Acte III | Vertige doux, satisfaction | *"Je crois qu'il va falloir que je repense à certaines choses."* (à revoir) |
 
 ---
 
@@ -154,7 +187,7 @@ Un regard vers le public — pas celui de l'agent, celui de quelqu'un qui partag
 | Jeux de cartes (x2 minimum) | I | Dans le présentoir, intégrés au décor |
 | Présentoir à jeux de cartes | I | Visible dès l'entrée |
 | 12 cartes Patronus | II | À créer — format et visuel à définir |
-| Présentoir à baguettes | II + III | Plusieurs baguettes Wizarding World |
+| Présentoir à baguettes | II + III + Épilogue | Plusieurs baguettes Wizarding World |
 | 3 tomes HP poche (Folio Junior) | III | T1 n°899 / T2 n°961 / T3 n°1006 |
 | 3 marque-pages transparents | III | Positionnés sur les pages fixes |
 | Pensine (bol d'eau chinois) | III | Sur l'étagère dès l'entrée, jamais désignée |
