@@ -23,6 +23,8 @@
 |---|---|---|
 | `00_BIBLE.md` | ✅ v2 validée | Paradigme, personnage, règles du monde, arc narratif, épilogue |
 | `01_STRUCTURE.md` | ✅ v2 validée | Ouverture, Actes I/II/III, Fin, Épilogue, scénographie |
+| `routines/R01_cadre.md` | ✅ v2 validée | Fonction dramaturgique, déclencheur bonimenteur, cadre B+C, points critiques |
+| `script/S01_ouverture.md` | ✅ Premier jet | Prise de service, découverte public, prédécesseur, oncle Michel, déclencheur carte — à affiner |
 | 12 cartes Patronus | ✅ créées et imprimées | Visuels finaux |
 | Arc dramaturgique global | ✅ | Début / Milieu / Fin / Épilogue |
 | Phrases de bascule | ✅ | Voir tableau dans `01_STRUCTURE.md` |
@@ -34,61 +36,48 @@
 
 | Élément | Priorité | Notes |
 |---|---|---|
+| `script/S01_ouverture.md` | 🟡 Moyenne | Premier jet écrit — suite de la routine du cadre à écrire (S02) |
 | Fabrication du cadre truqué (Acte I) | 🔴 Haute | Base : "Pensée Encadrée" de Luc Apers — adaptation en cours |
 | Acquisition des 3 tomes HP Folio Junior | 🔴 Haute | T1 n°899 / T2 n°961 / T3 n°1006 |
-| `CANEVAS.md` — mise à jour | 🟡 Moyenne | Référence encore l'ancienne structure Évoquer/Tester/Explorer ; statuts des scripts incorrects |
+| `CANEVAS.md` — mise à jour | 🟡 Moyenne | Référence encore l'ancienne structure ; statuts des scripts incorrects |
 
 ---
 
 ## 📋 À faire — par ordre de priorité recommandé
 
-### 1. Routines (Rxx) — révision complète
+### 1. Scripts (Sxx) — suite de l'écriture
 
-Les trois fiches routines datent d'avant la refonte dramaturgique. Elles contiennent de la matière utilisable mais sont désalignées.
+**`S02_acte1.md`** *(priorité suivante)* :
+- [ ] Écrire la suite de la routine du cadre : distribution du jeu, constat du manque, regard vers le cadre, révélation
+- [ ] Intégrer la nouvelle posture : il mime, il ne glisse pas — la surprise est celle de quelqu'un dont le sol se dérobe alors qu'il se croyait au-dessus de tout ça
+- [ ] Phrase de bascule vers Acte II : *"D'accord. On va faire ça correctement."*
 
-**`R01_cadre.md`** — Points à réviser :
-- [ ] Étapes 4-6 : intégrer le geste du bonimenteur bienveillant qui veut *réfuter* la rumeur (pas glissement naturel vers la carte)
-- [ ] Le "pensez à une carte !" comme imitation condescendante-sans-méchanceté, pas comme invitation
-- [ ] Reformuler la "fonction dramaturgique" en cohérence avec le nouveau paradigme
-- [ ] Points critiques : ajouter la dimension psychologique (sous-texte, non explicité)
-
-**`R02_patronus.md`** — Points à réviser :
-- [ ] Intégrer l'arc émotionnel en 4 temps : contrôle méthodique → excitation (ressenti sur le bon paquet) → engouement (disparition) → émerveillement (réapparition à l'envers)
-- [ ] Intégrer la question centrale de l'acte : "ça vient de moi ? de l'objet ? des deux ?"
-- [ ] Préciser que la baguette est remise au spectateur comme hypothèse (objet) et non comme solution
-- [ ] Reformuler la "fonction dramaturgique"
-
-**`R03_pensine.md`** — Points à réviser :
-- [ ] ⚠️ Révision de la chronologie : la Pensine doit être évoquée *avant* les livres (étape 1 actuelle à déplacer)
-- [ ] Intégrer l'aveu de fascination pour la Pensine en ouverture d'acte
-- [ ] Intégrer le doute ("en suis-je capable ?") après présentation des livres
-- [ ] Intégrer l'"échauffement" avec le mot de B comme étape consciente et volontaire
-- [ ] Reformuler la sortie de spectacle : épilogue (baguette, prédécesseur, "chut" complice)
-
----
-
-### 2. Scripts (Sxx) — révision complète
-
-Les scripts datent d'avant la refonte. À relire et réécrire à l'aune du nouveau paradigme, après validation des routines correspondantes.
-
-**`S01_ouverture.md`** — Points à réviser :
-- [ ] Phase 5 : remplacer le glissement naturel vers la carte par le geste du bonimenteur qui *réfute* (ton différent, intention inversée)
-- [ ] Phase 4 : vérifier que la rumeur reste banale, sans mystère appuyé
-- [ ] Vérifier que la Pensine est visible mais jamais désignée dès l'entrée
-
-**`S02_acte1.md`** — Points à réviser :
-- [ ] Relire à l'aune de la nouvelle posture : il mime, il ne glisse pas
-- [ ] La surprise finale doit être celle de quelqu'un dont le sol se dérobe *alors qu'il se croyait au-dessus de tout ça*
-
-**`S03_acte2.md`** — Points à réviser :
+**`S03_acte2.md`** :
 - [ ] Intégrer la gradation émotionnelle en 4 temps (voir R02)
 - [ ] La question "d'où ça vient ?" doit se lire dans le jeu, pas dans le texte
 - [ ] Vérifier la phrase de bascule vers Acte III
 
-**`S04_acte3.md`** — Points à réviser :
-- [ ] Restructurer : la Pensine est évoquée *en ouverture* d'acte, avant les livres
+**`S04_acte3.md`** :
+- [ ] Restructurer : la Pensine est évoquée en ouverture d'acte, avant les livres
 - [ ] Intégrer le doute et l'échauffement avec le mot
-- [ ] Réécrire la fin en deux temps : Fin de l'Acte III (phrase à revoir) + Épilogue (baguette, "chut" complice ou dos, prédécesseur)
+- [ ] Réécrire la fin en deux temps : Fin de l'Acte III + Épilogue (baguette, "chut" complice ou dos, prédécesseur)
+
+---
+
+### 2. Routines (Rxx) — révision
+
+**`R02_patronus.md`** :
+- [ ] Intégrer l'arc émotionnel en 4 temps : contrôle méthodique → excitation → engouement → émerveillement
+- [ ] Intégrer la question centrale : "ça vient de moi ? de l'objet ? des deux ?"
+- [ ] Préciser que la baguette est remise au spectateur comme hypothèse (objet) et non comme solution
+- [ ] Reformuler la fonction dramaturgique
+
+**`R03_pensine.md`** :
+- [ ] ⚠️ Révision de la chronologie : la Pensine évoquée *avant* les livres
+- [ ] Intégrer l'aveu de fascination pour la Pensine en ouverture d'acte
+- [ ] Intégrer le doute ("en suis-je capable ?") après présentation des livres
+- [ ] Intégrer l'échauffement avec le mot de B comme étape consciente et volontaire
+- [ ] Reformuler la sortie de spectacle : épilogue (baguette, prédécesseur, "chut" complice)
 
 ---
 
@@ -96,10 +85,10 @@ Les scripts datent d'avant la refonte. À relire et réécrire à l'aune du nouv
 
 | Sujet | État | Notes |
 |---|---|---|
-| Phrase de fin d'Acte III | 🔲 À revoir | *"Je crois qu'il va falloir que je repense à certaines choses."* — validée provisoirement, à affiner au plateau |
-| Forme exacte de l'épilogue | 🔲 À éprouver au plateau | Dos / regard complice / "chut" + baguette dans la poche — les deux options restent ouvertes |
-| Titre du spectacle | 🔲 Non finalisé | PATRONUS retenu par défaut ; explorations passées : "Osmose", "Effusion", "Après la visite" |
-| Texte dit de la réfutation (bonimenteur) | 🔲 À écrire | Moment clé de S01 — le ton juste est crucial |
+| Objet à déterminer (exclamation "Nan mais regardez-moi ce...") | 🔲 À déterminer | Dans S01 — objet de collection Wizarding World marquant |
+| Phrase de fin d'Acte III | 🔲 À revoir | *"Je crois qu'il va falloir que je repense à certaines choses."* — validée provisoirement |
+| Forme exacte de l'épilogue | 🔲 À éprouver au plateau | Dos / regard complice / "chut" + baguette dans la poche |
+| Titre du spectacle | 🔲 Non finalisé | PATRONUS retenu par défaut |
 | Liste d'objets de décor | 🔲 À compléter | Voir `01_STRUCTURE.md` section Scénographie |
 
 ---
@@ -122,4 +111,4 @@ Les scripts datent d'avant la refonte. À relire et réécrire à l'aune du nouv
 
 ---
 
-*Dernière mise à jour : session de refonte dramaturgique — paradigme de la magie, psychologie du personnage, arc Début/Milieu/Fin/Épilogue, figure du prédécesseur.*
+*Dernière mise à jour : session d'écriture — R01 v2, S01 premier jet (ouverture jusqu'au déclencheur carte).*
