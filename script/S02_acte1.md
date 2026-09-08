@@ -3,156 +3,131 @@
 
 ---
 
-## Statut : 🔄 Version 2 — relecture globale intégrée
+## Statut : 🚧 WIP — en cours d'écriture
+
+### Conventions d'écriture
+- Le personnage parle à la première personne
+- `*(indications entre parenthèses)*` : jeu, mise en scène, intention
+- `<commentaires entre chevrons>` : notes de travail, éléments à déterminer
+- `...` : temps de pause
+- Le "je" correspond à l'acteur du personnage principal
 
 ---
 
-## 1. Interpellation du spectateur
+## Phase 1 — Interpellation du spectateur
 
-*(Dans la continuité de la phase 5 de l'ouverture — le personnage regarde le public, comme si l'idée venait de lui traverser l'esprit à cet instant.)*
+*(dans la continuité de S01 — le "pensez à une carte !" vient d'être lancé comme une blague)*
 
-> "Vous…"
+*(petite pause, il s'éclaircit la voix — il imite son oncle, exagère les attitudes du prestidigitateur)*
 
-*(Il désigne naturellement le premier spectateur qui accroche son regard — comme on interpellerait un visiteur ordinaire.)*
+"Vous ! Oui vous ! Pensez à une carte — n'importe laquelle, mais gardez-la pour vous."
 
-> "Pensez à une carte. Pas à voix haute — juste dans votre tête. Un personnage, une couleur, une valeur. Laissez-en une venir."
+*(il attend)*
 
-*(Un temps. Il attend sincèrement.)*
+C'est bon ?
 
-> "Vous l'avez ?"
+Ok, vous l'avez en tête ?
 
-*(Le spectateur confirme.)*
+Elle est rouge ?
 
-> "Sa couleur ?"
+*(attente de la réponse, quelle qu'elle soit — j'acquiesce, j'accepte)*
 
-*(Réponse.)*
+Sa valeur est basse ou haute ? de l'As au 7 ou du 8 au Roi ?
 
-> "Et sa hauteur ?"
+*(attente de la réponse, quelle qu'elle soit — j'acquiesce, j'accepte)*
 
-**Indications de jeu**
-- Ton conversationnel, presque distrait — pas d'"annonce"
-- La question sur la couleur et la hauteur est posée simplement, comme pour mieux "visualiser"
-- Aucune tension à ce stade
+Surtout ne m'en dites pas plus !
 
 ---
 
-## 2. Aller chercher le jeu
+## Phase 2 — Le spectateur cherche sa carte
 
-*(Le personnage se dirige vers l'étagère ou la table. Parmi plusieurs jeux présents dans le décor, il en prend un — le bon — sans le mettre en valeur.)*
+*(je récupère le bon jeu sur l'étalage et le tends au spectateur/visiteur)*
 
-> "Il y a plusieurs jeux dans la collection. Celui-là…"
+Tenez, prenez ce jeu et retrouvez votre carte pour la montrer à vos amis...
 
-*(Il le regarde une seconde.)*
+*(pendant que le spectateur cherche sa carte, sûr de moi, je le laisse faire — légère satisfaction, petite excitation de la démonstration que je mène)*
 
-> "Celui-là me semble juste."
+C'est bon, vos amis ont vu votre carte ?
 
-**Indications de jeu**
-- Le choix du jeu doit sembler intuitif, pas calculé
-- Les autres jeux sont là — visibles, crédibles
-- Pas d'explication du choix
+*(sur un ton légèrement dubitatif)*
 
----
+Comment ça non ?
 
-## 3. Le spectateur cherche sa carte
+*(avec une pointe d'inquiétude)*
 
-*(Il tend le jeu au spectateur.)*
+Vous ne la retrouvez pas !?
 
-> "Cherchez votre carte. Prenez le temps qu'il faut."
+*(rassurant)*
 
-*(Il attend. Il observe — pas le jeu, le spectateur.)*
+Oh, elle était peut-être collée ? ça arrive avec les jeux neufs...
 
-*(Le spectateur ne trouve pas sa carte.)*
+Revérifiez... demandez à votre ami de rechercher avec vous... c'était quoi votre carte ?
 
-> "Elle n'est pas là ?"
-
-> "Quelle est votre carte, exactement ?"
-
-*(Le spectateur répond — identité précise de la carte.)*
-
-> "Recomptez-les. Une par une."
-
-*(Pendant que le spectateur recompte, le personnage réarrange naturellement quelques objets sur la table — gestes de routine. Il récupère secrètement le duplicata à l'empalmage.)*
-
-**Indications de jeu**
-- Le personnage ne regarde pas le spectateur recompter — il vaque à ses occupations
-- Les gestes sur la table sont ordinaires, pas furtifs
-- Aucune tension apparente pendant ce temps
+*(pendant qu'ils s'exécutent — manipulation technique, voir notes personnelles)*
 
 ---
 
-## 4. Constat du manque
+## Phase 3 — Constat du manque
 
-*(Le spectateur a fini de compter. 51 cartes.)*
+*(retour du spectateur : sa carte est introuvable)*
 
-> "Cinquante et un."
+*(sur un ton mi-surpris, mi-inquiet — ni agressif, ni accusateur)*
 
-*(Le personnage prend le jeu. Il recompte lui-même — vite, méthodiquement.)*
+Comment ça vous ne la trouvez pas ! ce n'est pas normal, le jeu est neuf !
 
-*(Un temps.)*
+C'était quoi votre carte déjà ? `<identité de la carte, ton légèrement hésitant>` !? c'est bien ça ?
 
-> "C'est… cinquante et un."
+*(acquiescement du spectateur)*
 
-*(Il repose le jeu. Il ne dit rien pendant quelques secondes. Il cherche une explication rationnelle — on le voit chercher.)*
+Et vous avez compté combien de cartes en tout ?
 
-**Indications de jeu**
-- Le silence après le constat est le moment le plus important de l'acte — ne pas le remplir trop vite
-- Le personnage cherche vraiment une explication — le doute est sincère
-- Pas de triomphe, pas de clin d'œil au public
+*(réponse du spectateur : 51)*
 
----
+*(choqué)*
 
-## 5. Retour à la rumeur — cheminement vers le cadre
-
-*(Le personnage reste immobile un moment. Puis quelque chose remonte — presque malgré lui.)*
-
-> "Il avait peut-être raison."
-
-*(Il regarde autour de lui. Son regard s'arrête sur le cadre — posé là depuis le début. Il y a une carte visible côté dos.)*
-
-> "Il disait que les portraits… pouvaient voyager."
-
-*(Il s'approche du cadre lentement. Pas de certitude — plutôt la méfiance de quelqu'un qui ne veut pas avoir raison.)*
-
-> "Ce serait absurde."
-
-*(Il s'arrête devant le cadre. Un temps.)*
-
-**Indications de jeu**
-- "Il avait peut-être raison" — pensée qui remonte, pas déduction construite
-- Le chemin vers le cadre est lent — chaque pas est une hésitation
-- "Ce serait absurde" est dit pour lui-même, pas pour le public
+Mais ce n'est pas possible !
 
 ---
 
-## 6. Révélation du cadre
+*(suspension, regard dans le vide, temps d'assimilation et de réflexion)*
 
-*(Il retourne le cadre. La carte — dont seul le dos était visible — est face au public. C'est la carte pensée.)*
+Je ne comprends pas...
 
-*(Silence.)*
+*(avec un geste de la main suggérant qu'on lui aurait subtilisé quelque chose — ni agressif, ni accusateur, il cherche désespérément une sortie rationnelle)*
 
-*(Le personnage ne dit rien. Il regarde la carte. Il regarde le spectateur. Il regarde la carte.)*
+Vous avez gardé la carte ? vous avez touché aux jeux avant que j'arrive ?
 
-> "C'est bien… la vôtre ?"
+*(mi-énervé, mi-désespéré)*
 
-*(Le spectateur confirme.)*
-
-*(Un long temps. Le personnage repose le cadre. Il ne sait pas quoi faire de ce qu'il vient de voir.)*
-
-**Indications de jeu**
-- La révélation appartient au silence — ne pas parler dessus
-- La question "C'est bien la vôtre ?" est posée avec un espoir presque enfantin que la réponse soit non
-- Après la confirmation : immobilité, pas de conclusion
+Une carte ne peut pas disparaître comme ça ! toute seule !
 
 ---
 
-## 7. Sortie d'acte — phrase de bascule vers Acte II
+## Phase 4 — Cheminement vers le cadre
 
-*(Le personnage reste avec ça un moment. Puis quelque chose se cristallise.)*
+*(résigné, je baisse la tête, me tourne pour faire quelque chose, je relève la tête et mon regard tombe sur le cadre, je stoppe net)*
 
-> "D'accord. On va faire ça correctement."
+*(je tourne la tête et capte le regard du spectateur à la carte perdue — avec un air mêlant désarroi et début de compréhension sans y croire. Je tourne de nouveau rapidement la tête vers le cadre pour le fixer)*
 
-*(Il se dirige vers les cartes Patronus.)*
+`<WIP — bredouillements / fragments de pensées pour soi-même, avec une infime trace du prédécesseur qui remonte. Voir notes de travail session en cours.>`
 
-**Indications de jeu**
-- La phrase est dite pour lui-même — une décision intérieure, pas une annonce
-- Le déplacement vers les cartes Patronus est immédiat après la phrase — pas de pause
+*(je m'approche du cadre lentement — méfiance de quelqu'un qui ne veut pas avoir raison)*
+
+---
+
+## Phase 5 — Révélation du cadre
+
+`<WIP — à écrire>`
+
+---
+
+## Phase 6 — Sortie d'acte
+
+*(long silence après la révélation — le personnage ne sait pas quoi faire de ce qu'il vient de voir)*
+
+*(quelque chose se cristallise — une décision intérieure, pas une annonce)*
+
+"D'accord. On va faire ça correctement."
+
+*(il se dirige vers les cartes Patronus — mouvement immédiat, sans pause)*
