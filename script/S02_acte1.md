@@ -57,10 +57,10 @@ Vous ne la retrouvez pas ?
 
 Oh — elle était peut-être collée ? Ça arrive avec les jeux neufs...
 
+> *Joindre le geste à la parole — mimer le comptage carte par carte.*
+
 Revérifiez. Demandez à votre ami de chercher avec vous. Comptez les cartes comme ça, une à une...
 
-> *Joindre le geste à la parole — mimer le comptage carte par carte.*
->
 > *Le spectateur cherche toujours. Pendant ce temps : le personnage vaque à ses occupations, range un objet.*
 >
 > ```
