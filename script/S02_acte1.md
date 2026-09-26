@@ -3,7 +3,7 @@
 
 ---
 
-## Statut : 🚧 WIP — en cours d'écriture
+## Statut : 🔄 Premier jet complet — à affiner
 
 ### Conventions d'écriture
 - Texte dit — corps normal, pleine largeur
@@ -98,46 +98,48 @@ Une carte ne peut pas disparaître comme ça. Toute seule.
 
 ---
 
-## Phase 4 — Cheminement vers le cadre
+## Phases 4 & 5 — Cheminement, révélation et sortie d'acte
 
-> *Résigné. Il baisse la tête. Se tourne pour faire autre chose. Relève les yeux.*
+> *Dialogue pour soi-même — intonation qui baisse en fin de phrase, comme si les mots s'éteignaient.*
+
+Mais non... ça n'a pas de sens...
+
+Ce n'était quand même pas de ça dont il parlait !?...
+
+> *Il attrape le cadre — pas d'hésitation dans le geste, mais une tension dans le corps.*
+
+Je dois en avoir le cœur net...
+
+> *Il commence à le démonter pour récupérer la carte.*
+
+Ça ne peut pas être la même carte !
+
+...
+
+> *La carte est en main. Il ne regarde pas encore sa face. Il s'adresse au spectateur — une dernière porte de sortie qu'il se donne.*
+
+C'était le `[identité de la carte]`... c'est bien ça ?
+
+> *Le spectateur confirme.*
+
+...
+
+> *Il retourne lentement la carte. Dans le même mouvement, sa main libre monte vers sa bouche — comme pour étouffer quelque chose. Elle redescend en même temps qu'il retourne la carte vers le spectateur.*
 >
-> *Son regard tombe sur le cadre — posé là depuis le début, une carte visible côté dos. Il stoppe net.*
+> *Silence.*
 >
-> *Il tourne la tête vers le spectateur — désarroi mêlé d'un début de compréhension sans y croire. Il retourne les yeux vers le cadre et le fixe.[^2]*
-
-> ```
-> WIP — bredouillements / fragments de pensées pour soi-même.
-> Quelques mots lâchés, pas des phrases. Une infime trace du
-> prédécesseur qui remonte — un mot, une syllabe, pas une
-> référence explicite. Le corps et le trajet vers le cadre
-> font l'essentiel du travail.
-> ```
-
-> *Il s'approche du cadre lentement. La méfiance de quelqu'un qui ne veut pas avoir raison.*
-
----
-
-## Phase 5 — Révélation du cadre
-
-> ```
-> WIP — à écrire
-> ```
-
----
-
-## Phase 6 — Sortie d'acte
-
-> *Long silence après la révélation. Il repose le cadre. Il ne sait pas quoi faire de ce qu'il vient de voir.*
+> *Dans ce silence — pleine réflexion. Il remonte le cadre lentement, replace la carte face visible cette fois, et le remet à sa place.[^2]*
 >
-> *Quelque chose se cristallise — une décision intérieure, pas une annonce.*
+> *Une fois fait, il s'arrête. Quelque chose se cristallise — une décision intérieure, pas une annonce.*
 
 "D'accord. On va faire ça correctement."
 
 > *Il se dirige vers les cartes Patronus — immédiatement, sans pause.*
+>
+> *Le cadre reste en place, carte face visible. Dernière image de l'acte I.*
 
 ---
 
 [^1]: Cette satisfaction doit rester légère — pas de surjeu. C'est l'assurance tranquille de quelqu'un qui attend que rien ne se passe, pas la fierté d'un prestidigitateur.
 
-[^2]: Le double regard cadre / spectateur / cadre est le moment clé de la phase 4. Ne pas le remplir de texte — le silence et le corps racontent.
+[^2]: La carte face visible dans le cadre est un acte inconscient mais chargé de sens : il accepte ce qui vient de se passer, il le rend visible. Et c'est dans ce geste de rangement — ce retour à l'ordre professionnel — que la décision émerge.
