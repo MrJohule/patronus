@@ -8,7 +8,7 @@
 ### Conventions d'écriture
 - Texte dit — corps normal, pleine largeur
 - *Indications de jeu* — italique, en bloc cité (décalé à droite)
-- `Notes techniques` — style code, en bloc cité
+- Notes techniques — bloc code, en bloc cité
 - Notes longues — en bas de page[^ex]
 
 [^ex]: Les notes de bas de page accueillent les indications trop longues pour être inline, ou les variantes à explorer.
@@ -57,9 +57,16 @@ Vous ne la retrouvez pas ?
 
 Oh — elle était peut-être collée ? Ça arrive avec les jeux neufs...
 
-Revérifiez. Demandez à votre ami de chercher avec vous.
+Revérifiez. Demandez à votre ami de chercher avec vous. Comptez les cartes comme ça, une à une...
 
-> `Le spectateur cherche toujours. Pendant ce temps : le personnage vaque à ses occupations, range un objet. Il récupère discrètement dans le décor le duplicata de la carte du spectateur et le garde en empalmage.`
+> *Joindre le geste à la parole — mimer le comptage carte par carte.*
+>
+> *Le spectateur cherche toujours. Pendant ce temps : le personnage vaque à ses occupations, range un objet.*
+>
+> ```
+> Il récupère discrètement dans le décor le duplicata de la carte
+> du spectateur et le garde en empalmage.
+> ```
 
 C'était quoi votre carte déjà ?
 
@@ -68,7 +75,7 @@ C'était quoi votre carte déjà ?
 Et vous avez compté combien de cartes en tout ?
 
 > *Réponse du spectateur : 51.*
-
+>
 > *Choc sincère. Un silence.*
 
 Mais ce n'est pas possible.
@@ -99,7 +106,13 @@ Une carte ne peut pas disparaître comme ça. Toute seule.
 >
 > *Il tourne la tête vers le spectateur — désarroi mêlé d'un début de compréhension sans y croire. Il retourne les yeux vers le cadre et le fixe.[^2]*
 
-`WIP — bredouillements / fragments de pensées pour soi-même. Quelques mots lâchés, pas des phrases. Une infime trace du prédécesseur qui remonte — un mot, une syllabe, pas une référence explicite. Le corps et le trajet vers le cadre font l'essentiel du travail.`
+> ```
+> WIP — bredouillements / fragments de pensées pour soi-même.
+> Quelques mots lâchés, pas des phrases. Une infime trace du
+> prédécesseur qui remonte — un mot, une syllabe, pas une
+> référence explicite. Le corps et le trajet vers le cadre
+> font l'essentiel du travail.
+> ```
 
 > *Il s'approche du cadre lentement. La méfiance de quelqu'un qui ne veut pas avoir raison.*
 
@@ -107,7 +120,9 @@ Une carte ne peut pas disparaître comme ça. Toute seule.
 
 ## Phase 5 — Révélation du cadre
 
-`WIP — à écrire`
+> ```
+> WIP — à écrire
+> ```
 
 ---
 
