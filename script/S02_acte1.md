@@ -6,35 +6,32 @@
 ## Statut : 🚧 WIP — en cours d'écriture
 
 ### Conventions d'écriture
-- Le personnage parle à la première personne
-- `*(indications entre parenthèses)*` : jeu, mise en scène, intention
-- `<commentaires entre chevrons>` : notes de travail, éléments à déterminer
-- `...` : temps de pause
-- Le "je" correspond à l'acteur du personnage principal
+- Texte dit — corps normal, pleine largeur
+- *Indications de jeu* — italique, en bloc cité (décalé à droite)
+- `Notes techniques` — style code, en bloc cité
+- Notes longues — en bas de page[^ex]
+
+[^ex]: Les notes de bas de page accueillent les indications trop longues pour être inline, ou les variantes à explorer.
 
 ---
 
 ## Phase 1 — Interpellation du spectateur
 
-*(dans la continuité de S01 — le "pensez à une carte !" vient d'être lancé comme une blague)*
-
-*(petite pause, il s'éclaircit la voix — il imite son oncle, exagère les attitudes du prestidigitateur)*
+> *Dans la continuité de S01 — le "pensez à une carte !" vient d'être lancé comme une blague. Le personnage est encore dans son élan de bonimenteur.*
 
 "Vous ! Oui vous ! Pensez à une carte — n'importe laquelle, mais gardez-la pour vous."
 
-*(il attend)*
+> *Il attend. Sourire tranquille de quelqu'un qui sait que rien ne va se passer.*
 
-C'est bon ?
-
-Ok, vous l'avez en tête ?
+C'est bon ? Ok, vous l'avez en tête ?
 
 Elle est rouge ?
 
-*(attente de la réponse, quelle qu'elle soit — j'acquiesce, j'accepte)*
+> *Il acquiesce, quelle que soit la réponse — il accepte tout.*
 
-Sa valeur est basse ou haute ? de l'As au 7 ou du 8 au Roi ?
+Sa valeur est basse ou haute ? De l'As au 7 ou du 8 au Roi ?
 
-*(attente de la réponse, quelle qu'elle soit — j'acquiesce, j'accepte)*
+> *Idem.*
 
 Surtout ne m'en dites pas plus !
 
@@ -42,92 +39,90 @@ Surtout ne m'en dites pas plus !
 
 ## Phase 2 — Le spectateur cherche sa carte
 
-*(je récupère le bon jeu sur l'étalage et le tends au spectateur/visiteur)*
+> *Il récupère le bon jeu sur l'étalage et le tend au spectateur. Le jeu est présenté comme un objet de la collection, pas comme un accessoire de magicien.*
 
-Tenez, prenez ce jeu et retrouvez votre carte pour la montrer à vos amis...
+Tenez, prenez ce jeu et retrouvez votre carte — montrez-la à vos amis.
 
-*(pendant que le spectateur cherche sa carte, sûr de moi, je le laisse faire — légère satisfaction, petite excitation de la démonstration que je mène)*
+> *Il le laisse chercher. Légère satisfaction, petite excitation — l'assurance de quelqu'un qui attend une confirmation de ce qu'il sait déjà.[^1]*
 
 C'est bon, vos amis ont vu votre carte ?
 
-*(sur un ton légèrement dubitatif)*
+> *Sur un ton légèrement dubitatif.*
 
-Comment ça non ?
+Comment ça... non ?
 
-*(avec une pointe d'inquiétude)*
+> *Avec une pointe d'inquiétude sincère.*
 
-Vous ne la retrouvez pas !?
+Vous ne la retrouvez pas ?
 
-*(rassurant)*
+Oh — elle était peut-être collée ? Ça arrive avec les jeux neufs...
 
-Oh, elle était peut-être collée ? ça arrive avec les jeux neufs...
+Revérifiez. Demandez à votre ami de chercher avec vous.
 
-Revérifiez... demandez à votre ami de rechercher avec vous... c'était quoi votre carte ?
+> `Le spectateur cherche toujours. Pendant ce temps : le personnage vaque à ses occupations, range un objet. Il récupère discrètement dans le décor le duplicata de la carte du spectateur et le garde en empalmage.`
 
-*(pendant qu'ils s'exécutent — manipulation technique, voir notes personnelles)*
+C'était quoi votre carte déjà ?
 
----
-
-## Phase 3 — Constat du manque
-
-*(retour du spectateur : sa carte est introuvable)*
-
-*(sur un ton mi-surpris, mi-inquiet — ni agressif, ni accusateur)*
-
-Comment ça vous ne la trouvez pas ! ce n'est pas normal, le jeu est neuf !
-
-C'était quoi votre carte déjà ? `<identité de la carte, ton légèrement hésitant>` !? c'est bien ça ?
-
-*(acquiescement du spectateur)*
+> *Le spectateur répond — identité précise de la carte.*
 
 Et vous avez compté combien de cartes en tout ?
 
-*(réponse du spectateur : 51)*
+> *Réponse du spectateur : 51.*
 
-*(choqué)*
+> *Choc sincère. Un silence.*
 
-Mais ce n'est pas possible !
+Mais ce n'est pas possible.
 
 ---
 
-*(suspension, regard dans le vide, temps d'assimilation et de réflexion)*
+## Phase 3 — Tentative de rationalisation
+
+> *Long temps. Regard dans le vide. Il cherche vraiment une explication.*
 
 Je ne comprends pas...
 
-*(avec un geste de la main suggérant qu'on lui aurait subtilisé quelque chose — ni agressif, ni accusateur, il cherche désespérément une sortie rationnelle)*
+> *Il regarde le spectateur — ni agressif, ni accusateur. C'est quelqu'un qui se noie et qui s'accroche à n'importe quoi.*
 
-Vous avez gardé la carte ? vous avez touché aux jeux avant que j'arrive ?
+Vous avez gardé la carte ? Vous avez touché au jeu avant que j'arrive ?
 
-*(mi-énervé, mi-désespéré)*
+> *Mi-énervé, mi-désespéré — contre la situation, pas contre le spectateur.*
 
-Une carte ne peut pas disparaître comme ça ! toute seule !
+Une carte ne peut pas disparaître comme ça. Toute seule.
 
 ---
 
 ## Phase 4 — Cheminement vers le cadre
 
-*(résigné, je baisse la tête, me tourne pour faire quelque chose, je relève la tête et mon regard tombe sur le cadre, je stoppe net)*
+> *Résigné. Il baisse la tête. Se tourne pour faire autre chose. Relève les yeux.*
+>
+> *Son regard tombe sur le cadre — posé là depuis le début, une carte visible côté dos. Il stoppe net.*
+>
+> *Il tourne la tête vers le spectateur — désarroi mêlé d'un début de compréhension sans y croire. Il retourne les yeux vers le cadre et le fixe.[^2]*
 
-*(je tourne la tête et capte le regard du spectateur à la carte perdue — avec un air mêlant désarroi et début de compréhension sans y croire. Je tourne de nouveau rapidement la tête vers le cadre pour le fixer)*
+`WIP — bredouillements / fragments de pensées pour soi-même. Quelques mots lâchés, pas des phrases. Une infime trace du prédécesseur qui remonte — un mot, une syllabe, pas une référence explicite. Le corps et le trajet vers le cadre font l'essentiel du travail.`
 
-`<WIP — bredouillements / fragments de pensées pour soi-même, avec une infime trace du prédécesseur qui remonte. Voir notes de travail session en cours.>`
-
-*(je m'approche du cadre lentement — méfiance de quelqu'un qui ne veut pas avoir raison)*
+> *Il s'approche du cadre lentement. La méfiance de quelqu'un qui ne veut pas avoir raison.*
 
 ---
 
 ## Phase 5 — Révélation du cadre
 
-`<WIP — à écrire>`
+`WIP — à écrire`
 
 ---
 
 ## Phase 6 — Sortie d'acte
 
-*(long silence après la révélation — le personnage ne sait pas quoi faire de ce qu'il vient de voir)*
-
-*(quelque chose se cristallise — une décision intérieure, pas une annonce)*
+> *Long silence après la révélation. Il repose le cadre. Il ne sait pas quoi faire de ce qu'il vient de voir.*
+>
+> *Quelque chose se cristallise — une décision intérieure, pas une annonce.*
 
 "D'accord. On va faire ça correctement."
 
-*(il se dirige vers les cartes Patronus — mouvement immédiat, sans pause)*
+> *Il se dirige vers les cartes Patronus — immédiatement, sans pause.*
+
+---
+
+[^1]: Cette satisfaction doit rester légère — pas de surjeu. C'est l'assurance tranquille de quelqu'un qui attend que rien ne se passe, pas la fierté d'un prestidigitateur.
+
+[^2]: Le double regard cadre / spectateur / cadre est le moment clé de la phase 4. Ne pas le remplir de texte — le silence et le corps racontent.
