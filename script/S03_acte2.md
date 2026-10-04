@@ -3,7 +3,7 @@
 
 ---
 
-## Statut : 🚧 WIP — réécriture en cours (v3)
+## Statut : 🚧 WIP — premier jet complet, à affiner
 
 ### Conventions d'écriture
 - Texte dit — corps normal, pleine largeur
@@ -102,11 +102,6 @@ Non... je crois bien sentir quelque chose avec celui-ci !
 > ```
 > Le paquet du milieu est retourné face en l'air sur le dernier
 > paquet tenu en main gauche (lui face en bas).
-> ```
-
-Ok, tu ne me dis rien — j'ai l'impression que ton Patronus pourrait être ici...
-
-> ```
 > Il énumère chacune des 4 cartes en les passant de la main droite
 > (paquet tenu en position du biddle) à la main gauche, en profitant
 > pour "voler" le Patronus du spectateur de la main gauche jusque
@@ -117,72 +112,88 @@ Ok, tu ne me dis rien — j'ai l'impression que ton Patronus pourrait être ici.
 > mais sans montrer les faces.
 > ```
 
-`WIP — suite de la routine à partir de l'Emsley : baguette, expecto patronum, révélation.`
+Ok, tu ne me dis rien — j'ai l'impression que ton Patronus pourrait être ici...
 
 ---
 
-## 🗄️ Archive — Version 2 (avant réécriture)
+## Phase 3 — La variable manquante
 
-<details>
-<summary>Voir version 2</summary>
+C'est très curieux... je suis sûr d'avoir effectivement ressenti quelque chose avec ce paquet, mais ça ne semble pas être suffisant...
 
-### 1. Présentation du bestiaire
+Est-ce que ton Patronus fait partie de ces 4 là ?
 
-*(Le personnage va chercher les 12 cartes Patronus. Il les pose sur la table — pas en éventail théâtral, plutôt comme on sortirait un dossier de travail.)*
+> *Réponse positive du spectateur.*
+>
+> *Il pose le petit paquet face en bas.*
+>
+> ```
+> Support à définir — intégrera peut-être un mécanisme de
+> production de fumée.
+> ```
 
-> "Dans la collection, il y a ça."
+Dans le lore du Wizarding World, il y a un élément primordial pour que le Patronus puisse se manifester...
 
-*(Il regarde le public.)*
+> *Il se dirige vers le présentoir à baguettes.*
 
-> "Vous connaissez les Patronus ?"
+Laquelle te plaît le plus ?
 
-*(Selon la réponse — si oui, il continue. Si non ou hésitation :)*
+> *Le spectateur choisit. Il la prend et la tend au spectateur.*
 
-> "Une manifestation. Une protection. Chaque sorcier a le sien — une créature qui lui est propre, liée à ce qu'il a de plus précieux."
+Au moment de dire la formule magique "Expecto Patronum", il faut s'accrocher à un souvenir positif fort !
 
-*(Dans tous les cas, il reprend :)*
+Est-ce que tu aurais un souvenir comme ça — heureux, joyeux, un moment particulièrement fort ?
 
-> "Chaque carte représente un Patronus différent. Douze en tout."
+> *Attente de confirmation du spectateur.*
 
-### 2. Choix instinctif
+Très bien. Concentre-toi sur ce souvenir — et à 3, tu lances, d'un coup de baguette, ton sort "Expecto Patronum" en direction du petit paquet de cartes !
 
-> "Je voudrais essayer quelque chose. Pas de réflexion — laissez votre instinct travailler."
-> "Une carte. Sans voir les images — celle qui vous attire. Celle qui vient."
-> "Bien. Regardez-la. Retenez-la."
+> *Le spectateur s'exécute.*
+>
+> ```
+> Au bon moment, déclencher la fumée.
+> ```
+>
+> *Surprise et ébahissement sincères.*
 
-### 3. Perte dans le paquet
+Hooohohooho...
 
-> "Votre Patronus est quelque part là-dedans."
+> *Il reprend le petit paquet de cartes délicatement. Il les fait défiler entre ses doigts, face vers lui.*
+>
+> *Étonné, quasi émerveillé.*
 
-### 4. Le souvenir heureux
+Il en manque une !...
 
-> "Dans la tradition… un Patronus ne se manifeste pas seul. Il a besoin de quelque chose."
-> "Un souvenir heureux. Le plus fort que vous ayez. Pas une idée générale — quelque chose de précis. Un moment. Une sensation."
-> "Vous l'avez ?"
-> "Gardez-le. Ne le lâchez pas."
+C'est lequel ton Patronus ?
 
-### 5. Défilement, ressenti et confirmation
+> *Réponse du spectateur.*
 
-> "Je vais essayer de sentir… où il est."
-> "Pas là."
-> "Peut-être… non."
-> "Là. Je pense que c'est là."
-> "Votre Patronus… il est bien parmi ces quatre-là ?"
+Donc ce n'est pas `[un tel]`, `[un tel]`, et `[un tel]`...
 
-### 6. Invitation à "expecto patronum"
+...
 
-> "Ça vient de la collection. Je ne sais pas si ça change quelque chose."
-> "Si votre Patronus doit se manifester… c'est à vous de le déclencher. Pas à moi."
-> "Le souvenir. Et l'incantation."
+> *Son regard se dirige vers le reste des Patronus restés sur le côté.*
+>
+> ```
+> Suivant la mise en scène finale, ce qui suit se fait en main
+> ou sur un support.
+> ```
+>
+> *Il fait défiler les cartes en ruban ou éventail — et met en évidence le Patronus du spectateur, à l'envers parmi les autres.*
+>
+> *Il ne garde que le Patronus du spectateur, le montre face visible au spectateur, puis aux autres.*
 
-### 7. Constat et révélation
+...
 
-> "Il y en a trois."
-> "Quel était votre Patronus ?"
-> "Il n'est plus là."
+> *Les yeux pleins d'étoiles, le cœur joyeux — presque ému. C'est son âme d'enfant qui refait surface, sans qu'il en soit conscient.[^1]*
 
-### 8. Sortie d'acte
+Hooo... là je crois qu'on tient quelque chose !...
 
-> "Il y a un truc que j'ai toujours voulu essayer..."
+> *Il marque un temps. Quelque chose change dans son regard — la méthode laisse place à la curiosité, à l'envie d'aller plus loin.*
 
-</details>
+Il y a un truc que j'ai toujours voulu essayer...
+
+> *En ramassant les cartes Patronus, il récupère la baguette et range le matériel naturellement. Il se dirige vers les livres.*
+
+---
+
+[^1]: Ce moment ne doit jamais être joué comme une prise de conscience — c'est le public qui le voit, pas le personnage qui l'annonce. L'émotion est réelle, la source n'est pas explicitée.
