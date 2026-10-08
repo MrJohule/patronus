@@ -40,7 +40,7 @@
 
 | Élément | Priorité | Notes |
 |---|---|---|
-| `script/S04_acte3.md` | 🔴 Haute | WIP v2 : phases 1 à 5 réécrites (Pensine avant livres, forçage A, échauffement et peek mot B) — suite à rédiger |
+| `script/S04_acte3.md` | 🔴 Haute | WIP v2 : phases 1 à 5 réécrites, phase 6 en cours d'écriture — suite à rédiger |
 | `routines/R02_patronus.md` | 🟡 Moyenne | Révision v2 : intégrer l'arc émotionnel en 4 temps et la fonction empirique |
 | `routines/R03_pensine.md` | 🟡 Moyenne | Révision v2 : synchroniser avec l'aveu de la Pensine avant les livres et la structure d'entonnoir |
 | Fabrication du cadre truqué (Acte I) | 🔴 Haute | Base : "Pensée Encadrée" de Luc Apers — adaptation en cours |

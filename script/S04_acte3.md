@@ -162,6 +162,14 @@ Tu vas lire la page en question, sérieusement. Essaie de t'imprégner de la sc�
 
 > *Il tend le livre au spectateur A et se redirige vers le spectateur B.*
 
+---
+
+## Phase 6 — Lecture de pensée du mot de B
+
+Détends-toi, remémore-toi ce qu'il vient de se passer : tu as le livre devant les yeux, tu parcours la première ligne, et là, un mot te saute aux yeux. Concentre-toi, tu l'as ?!...
+
+> *L'air concentré, le regard plongé intensément dans celui du spectateur B.*
+
 `WIP — suite : lecture du mot de B, plongée dans la Pensine, révélation en entonnoir, épilogue.`
 
 ---
