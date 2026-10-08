@@ -3,7 +3,7 @@
 
 ---
 
-## Statut : 🚧 WIP — réécriture en cours (v2)
+## Statut : 🚧 WIP — réécriture en cours (v3)
 
 ### Conventions d'écriture
 - Texte dit — corps normal, pleine largeur
@@ -169,61 +169,155 @@ Tu vas lire la page en question, sérieusement. Essaie de t'imprégner de la sc�
 Détends-toi, remémore-toi ce qu'il vient de se passer : tu as le livre devant les yeux, tu parcours la première ligne, et là, un mot te saute aux yeux. Concentre-toi, tu l'as ?!...
 
 > *L'air concentré, le regard plongé intensément dans celui du spectateur B.*
+>
+> ```
+> La révélation du mot va dépendre du contexte du moment —
+> y aller de manière progressive.
+> Exemple : "C'est un mot long, 2... non 3 syllabes, c'est bien
+> ça... C'est un <lieu|personnage|adjectif|...>"
+> "Je suis quasiment sûr que c'est : <le mot> !"
+> ```
 
-`WIP — suite : lecture du mot de B, plongée dans la Pensine, révélation en entonnoir, épilogue.`
+> *Avec un mélange d'étonnement et d'émerveillement.*
+
+Ça fonctionne... C'est comme si c'est moi-même qui avais lu ce mot !...
 
 ---
 
-## 🗄️ Archive — Premier jet v2 (avant réorganisation)
+> *Il reprend son souffle et se recentre. Son regard se tourne vers le spectateur A.*
 
-<details>
-<summary>Voir premier jet v2</summary>
+À nous...
 
-### 1. Découverte des livres
+---
 
-> "Il y a un truc que j'ai toujours voulu essayer..."
-> "Lire les pensées. Pas un mot — quelque chose de plus complexe. Un souvenir. Une scène entière."
+## Phase 7 — Extraction et matérialisation
 
-### 2. Choix du tome et forçage de la page (Spectateur A)
+> *Il se dirige vers le spectateur A et s'arrête en chemin au niveau de la Pensine. Il saisit la Pensine et une baguette magique.*
 
-> "Choisissez-en un. Pointez-le."
-> "Stop quand vous voulez."
-> "Retenez ce numéro. Juste le numéro — pas encore."
+Je vais te demander de te replonger mentalement dans ta lecture de tout à l'heure, que tu revives la scène que tu as lue.
 
-### 3. Choix du mot (Spectateur B)
+Pendant ce temps, je vais tenter de capturer ta pensée avec la baguette pour la mettre dans la Pensine.
 
-> "Et vous…"
-> "Stop quand vous voulez."
-> "Un mot. Le premier qui vous frappe sur cette ligne. Gardez-le pour vous."
+> *Avec un léger doute se voulant rassurant — sourire gêné presque imperceptible.*
 
-### 4. Consignes à A — peek du mot de B
+Ça ne devrait pas faire mal... enfin, j'espère...
 
-> "Allez à votre page. Lisez-la entièrement. Imprégnez-vous de ce moment — les images, les sensations, tout."
-> "Prenez le temps qu'il faut."
+---
 
-### 5. Lecture de pensée — mot de B
+Tu es prêt ? C'est parti...
 
-> "Votre mot… vous l'avez toujours ?"
-> "Quelque chose d'assez court… une lettre qui revient…"
-> "C'est… [le mot]."
+> *Il applique la pointe de la baguette lentement, précautionneusement sur la tempe du spectateur.*
+>
+> *Très concentré, il mime l'extraction du souvenir avec de légères rotations du poignet dans un sens puis dans l'autre.*
+>
+> *Ses yeux ne quittent pas la pointe de la baguette — comme s'il voyait réellement un fil de pensée la relier à la tempe du spectateur.*
+>
+> *Tout se fait en silence.*
+>
+> *La fin du mouvement d'extraction se fait avec un tout petit à-coup — comme si le souvenir était enfin extrait, il ne tient que par le bout de la baguette. Il l'observe.*
+>
+> *Il l'amène vers la Pensine tenue en main gauche et le dépose délicatement avec quelques mouvements — comme pour enrouler un fil au fond d'elle.*
+>
+> *Satisfait, il dépose la baguette sur le côté et récupère la fiole — déjà sans son couvercle.*
+>
+> *Un moment de réflexion. Son regard passe tour à tour de la Pensine au flacon.*
+>
+> *C'est le moment de vérité — au fur et à mesure qu'il verse le souvenir dans le flacon, celui-ci se matérialise.*
+>
+> ```
+> Bol d'eau chinois secrètement rempli de liquide.
+> À définir : eau claire, légèrement colorée, ou avec effet
+> moiré (iridescence discrète plutôt que paillettes visibles —
+> quelque chose qui se révèle à la lumière).
+> ```
+>
+> *Il repose la Pensine. Il se concentre sur le flacon et son contenu. Il l'observe, il le renifle presque, il s'en imprègne.*
 
-### 6. Tentative ratée — entrée de la Pensine
+---
 
-> "C'est… plus dense. Un mot c'est une chose, mais un souvenir entier…"
-> "Attendez."
+## Phase 8 — Révélation en entonnoir
 
-### 7. Extraction et matérialisation de l'eau
+> *Il commence à parler lentement — comme s'il lisait quelque chose d'incertain, de lointain. Du plus large au plus précis.*
+>
+> *Chaque niveau attend la confirmation avant de passer au suivant. Le rythme s'accélère légèrement vers la fin. Le dernier détail est énoncé posément — c'est sa précision qui fait l'effet, pas l'emphase. Après la confirmation finale : silence. Ne pas parler dessus.*
 
-> "Dans la tradition… la Pensine permet d'extraire un souvenir. De le rendre visible."
-> "Le moment que vous avez lu… laissez-le venir."
-> "C'est là."
+---
 
-### 8. Révélation en entonnoir
+### 📖 Option A — Tome 1 : L'École des Sorciers
+*(Page 187 — Premier match de Quidditch de Harry — Folio Junior n°899)*
 
-*(voir contenu détaillé par tome dans v2)*
+Je sens… beaucoup d'excitation. Du bruit, de l'agitation. On est dehors — il y a du vent.
 
-### 9. Sortie de spectacle
+> *Confirmation de A.*
 
-> "Je crois qu'il va falloir que je repense à certaines choses."
+Il se passe quelque chose de rapide. Très rapide. On est en mouvement — en l'air.
 
-</details>
+> *Confirmation.*
+
+C'est un match. Le premier… c'est le premier match de Quidditch.
+
+> *Confirmation.*
+
+On cherche quelque chose. On le voit — le Vif d'Or. On n'est pas seul à le poursuivre.
+
+> *Confirmation.*
+
+Et puis… un changement brusque. Brutal. Ce n'est pas voulu — le balai part tout seul. Un coup de sifflet. Mme Bibine. Pour faute.
+
+> *Silence.*
+
+---
+
+### 📖 Option B — Tome 2 : La Chambre des Secrets
+*(Page 185 — Harry au sol, bras blessé — Folio Junior n°961)*
+
+Je sens… de la douleur. Beaucoup de douleur. On est au sol — dehors, il y a du monde autour.
+
+> *Confirmation de A.*
+
+Des exclamations. De l'inquiétude autour. Quelque chose s'est passé — une blessure.
+
+> *Confirmation.*
+
+On est sur un terrain de Quidditch. Fred et Georges sont là — ils s'occupent de quelque chose… un Cognard.
+
+> *Confirmation.*
+
+Quelqu'un intervient. Le professeur Lockhart. Et ça… ça n'est pas rassurant.
+
+> *Confirmation.*
+
+La douleur disparaît. Un soulagement… mais non. Les os aussi ont disparu.
+
+> *Silence.*
+
+---
+
+### 📖 Option C — Tome 3 : Le Prisonnier d'Azkaban
+*(Page 283 — Match de Quidditch, les Détraqueurs — Folio Junior n°1006)*
+
+On est dans les airs. Ça va vite — il fait froid. Très froid.
+
+> *Confirmation de A.*
+
+On est sur un balai. C'est un match de Quidditch — et on cherche quelque chose.
+
+> *Confirmation.*
+
+Le Vif d'Or. Il y a quelqu'un d'autre en face — il faut aller plus vite. Cho.
+
+> *Confirmation.*
+
+Et puis… quelque chose change. Un froid différent — pas la météo. Des Détraqueurs. Un sort de Patronus.
+
+> *Confirmation.*
+
+Malgré tout… le Vif d'Or. Attrapé. Et puis plus rien — connaissance perdue.
+
+> *Silence.*
+
+---
+
+## Phase 9 — Fin d'acte et épilogue
+
+`WIP — à écrire`
