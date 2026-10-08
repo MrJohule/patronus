@@ -3,7 +3,7 @@
 
 ---
 
-## Statut : 🚧 WIP — réécriture en cours (v3)
+## Statut : 🚧 WIP — réécriture en cours (v2)
 
 ### Conventions d'écriture
 - Texte dit — corps normal, pleine largeur
@@ -166,10 +166,10 @@ Tu vas lire la page en question, sérieusement. Essaie de t'imprégner de la sc�
 
 ---
 
-## 🗄️ Archive — Version 2 (avant réécriture)
+## 🗄️ Archive — Premier jet v2 (avant réorganisation)
 
 <details>
-<summary>Voir version 2</summary>
+<summary>Voir premier jet v2</summary>
 
 ### 1. Découverte des livres
 

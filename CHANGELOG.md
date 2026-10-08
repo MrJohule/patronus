@@ -29,8 +29,18 @@
 | 2026-06-05 | Section scénographie & objets créée dans STRUCTURE |
 | 2026-06-05 | Personnage sans nom — décision maintenue ouverte |
 
-## v2 — Après session avec professionnelle du théâtre (juin 2026)
+## v2 — Après session avec professionnelle du théâtre (juin 2026 - octobre 2026)
 
 | Date | Décision |
 |---|---|
 | 2026-06-10 | Archive v1 créée — lancement v2 suite à session avec professionnelle du théâtre |
+| 2026-06-11 | Restructuration des dossiers et archivage de la v1 |
+| 2026-06-15 | Bible v2 — révision fondamentale : paradigme de la magie, psychologie du personnage, arc narratif, épilogue |
+| 2026-06-17 | Structure v2 — révision complète : motivation acte I, arc émotionnel acte II, déroulé Pensine acte III, scission fin/épilogue |
+| 2026-07-27 | Création ROADMAP.md — feuille de route vivante du projet |
+| 2026-07-27 | R01 v2 — révision complète : fonction dramaturgique, déclencheur bonimenteur, cadre B+C, étapes 9 et 11, points critiques |
+| 2026-08-25 | S01 — premier jet ouverture : prise de service, découverte public, prédécesseur, oncle Michel, déclencheur carte |
+| 2026-09-26 | Conventions d'écriture stabilisées sur S01 et S02 : blocs cités pour le jeu, blocs code pour la technique, notes de bas de page |
+| 2026-09-26 | S02 — premier jet complet : phases 1 à 5 rédigées (interpellation, recherche carte, rationalisation, révélation, sortie d'acte) |
+| 2026-10-04 | S03 — premier jet complet v2 : phases 1 à 3 rédigées (démarche scientifique, cartes Patronus, Biddle/Emsley, baguette, disparition et réapparition) |
+| 2026-10-08 | S04 — réécriture v2 en cours : phases 1 à 5 rédigées (la Pensine en ouverture, choix livre/page A, échauffement et peek mot B) |

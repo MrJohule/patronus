@@ -47,19 +47,24 @@ Toute modification doit respecter :
 - Arc dramaturgique des 3 routines
 - Règles implicites du monde
 - Fil narratif verbal complet (3 phrases de bascule + leitmotiv)
-- Script Ouverture — version 1
-- Script Acte I — version 1
-- Script Acte II — version 1
-- Script Acte III — version 1 (3 tomes complets)
+- Script Ouverture (S01) — premier jet (v2)
+- Script Acte I (S02) — premier jet complet (v2)
+- Script Acte II (S03) — premier jet complet (v2)
+- Routine R01 du cadre — validée (v2)
+- 12 cartes Patronus — créées et imprimées
+- 3 tomes HP Folio Junior (T1 n°899 / T2 n°961 / T3 n°1006) — acquis
 - Scénographie & liste d'objets (dans STRUCTURE)
-- Relecture globale de cohérence — 6 points traités
+- Relecture globale de cohérence — points de friction traités
 
 ### 🔄 En cours
+- Script Acte III (S04) — réécriture en cours (v2, phases 1 à 5 rédigées)
+- Routine R02 Patronus — révision v2 en cours (arc émotionnel en 4 temps)
+- Routine R03 Pensine — révision v2 en cours (chronologie Pensine avant livres)
 - Fabrication du cadre truqué (Acte I)
-- Création des 12 cartes Patronus (visuels à définir)
 - Liste d'objets de décor à compléter
 
 ### 📋 À développer
+- Rédaction finale du script S04 (phases 6 à 9 : lecture mot B, Pensine, révélation entonnoir, épilogue)
 - Travail au plateau — ajustements texte et rythme
 - Calibration émotionnelle fine au jeu
 - Préparation matérielle complète
@@ -72,17 +77,18 @@ Toute modification doit respecter :
 PATRONUS/
 ├── CANEVAS.md               ✅ Méthode, pilotage, journal (ce document)
 ├── CHANGELOG.md             ⏲️ Journal des décisions
-├── 00_BIBLE.md              ✅ Vision, personnage, univers, principes
-├── 01_STRUCTURE.md          ✅ Arcs, transitions, fil narratif, scénographie
+├── 00_BIBLE.md              ✅ Vision, personnage, univers, principes (v2)
+├── 01_STRUCTURE.md          ✅ Arcs, transitions, fil narratif, scénographie (v2)
+├── ROADMAP.md               ✅ Feuille de route vivante du projet
 ├── routines/
-│   ├── R01_cadre.md         🔄 Routine du cadre (Acte I)
-│   ├── R02_patronus.md      🔄 Routine Patronus (Acte II)
-│   └── R03_pensine.md       🔄 Routine Pensine (Acte III)
+│   ├── R01_cadre.md         ✅ Routine du cadre (Acte I - v2)
+│   ├── R02_patronus.md      🔄 Routine Patronus (Acte II - révision en cours)
+│   └── R03_pensine.md       🔄 Routine Pensine (Acte III - révision en cours)
 └── script/
     ├── S01_ouverture.md     ✅ Texte dit + indications — Ouverture (v2)
     ├── S02_acte1.md         ✅ Texte dit + indications — Acte I (v2)
     ├── S03_acte2.md         ✅ Texte dit + indications — Acte II (v2)
-    └── S04_acte3.md         ✅ Texte dit + indications — Acte III (v2)
+    └── S04_acte3.md         🚧 Texte dit + indications — Acte III (v2 en cours)
 └── v1/                      📦 archive de la v1
     └── ...
 ```

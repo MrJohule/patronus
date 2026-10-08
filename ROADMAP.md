@@ -24,8 +24,12 @@
 | `00_BIBLE.md` | ✅ v2 validée | Paradigme, personnage, règles du monde, arc narratif, épilogue |
 | `01_STRUCTURE.md` | ✅ v2 validée | Ouverture, Actes I/II/III, Fin, Épilogue, scénographie |
 | `routines/R01_cadre.md` | ✅ v2 validée | Fonction dramaturgique, déclencheur bonimenteur, cadre B+C, points critiques |
-| `script/S01_ouverture.md` | ✅ Premier jet | Prise de service, découverte public, prédécesseur, oncle Michel, déclencheur carte — à affiner |
+| `script/S01_ouverture.md` | ✅ Premier jet (v2) | Prise de service, découverte public, prédécesseur, oncle Michel, déclencheur carte — conventions stabilisées |
+| `script/S02_acte1.md` | ✅ Premier jet complet (v2) | Routine du cadre rédigée de bout en bout (phases 1 à 5) : interpellation, recherche, rationalisation, révélation, sortie d'acte |
+| `script/S03_acte2.md` | ✅ Premier jet complet (v2) | Routine Patronus rédigée (phases 1 à 3) : démarche scientifique, cartes Patronus, Biddle/Emsley, baguette, disparition/réapparition |
 | 12 cartes Patronus | ✅ créées et imprimées | Visuels finaux |
+| 3 tomes HP Folio Junior | ✅ acquis | T1 n°899 / T2 n°961 / T3 n°1006 (scènes Quidditch mémorisées) |
+| Conventions d'écriture | ✅ stabilisées | Blocs cités pour le jeu, blocs code pour la technique, notes de bas de page |
 | Arc dramaturgique global | ✅ | Début / Milieu / Fin / Épilogue |
 | Phrases de bascule | ✅ | Voir tableau dans `01_STRUCTURE.md` |
 | Figure du prédécesseur | ✅ | Rôle narratif défini, boucle fermée à l'épilogue |
@@ -36,35 +40,28 @@
 
 | Élément | Priorité | Notes |
 |---|---|---|
-| `script/S01_ouverture.md` | 🟡 Moyenne | Premier jet écrit — suite de la routine du cadre à écrire (S02) |
+| `script/S04_acte3.md` | 🔴 Haute | WIP v2 : phases 1 à 5 réécrites (Pensine avant livres, forçage A, échauffement et peek mot B) — suite à rédiger |
+| `routines/R02_patronus.md` | 🟡 Moyenne | Révision v2 : intégrer l'arc émotionnel en 4 temps et la fonction empirique |
+| `routines/R03_pensine.md` | 🟡 Moyenne | Révision v2 : synchroniser avec l'aveu de la Pensine avant les livres et la structure d'entonnoir |
 | Fabrication du cadre truqué (Acte I) | 🔴 Haute | Base : "Pensée Encadrée" de Luc Apers — adaptation en cours |
-| Acquisition des 3 tomes HP Folio Junior | 🔴 Haute | T1 n°899 / T2 n°961 / T3 n°1006 |
-| `CANEVAS.md` — mise à jour | 🟡 Moyenne | Référence encore l'ancienne structure ; statuts des scripts incorrects |
+| `script/S01_ouverture.md` | 🟢 Basse | Premier jet écrit et calibré — objet marquant à spécifier |
 
 ---
 
 ## 📋 À faire — par ordre de priorité recommandé
 
-### 1. Scripts (Sxx) — suite de l'écriture
+### 1. Scripts (Sxx) — suite et fin de l'écriture
 
-**`S02_acte1.md`** *(priorité suivante)* :
-- [ ] Écrire la suite de la routine du cadre : distribution du jeu, constat du manque, regard vers le cadre, révélation
-- [ ] Intégrer la nouvelle posture : il mime, il ne glisse pas — la surprise est celle de quelqu'un dont le sol se dérobe alors qu'il se croyait au-dessus de tout ça
-- [ ] Phrase de bascule vers Acte II : *"D'accord. On va faire ça correctement."*
-
-**`S03_acte2.md`** :
-- [ ] Intégrer la gradation émotionnelle en 4 temps (voir R02)
-- [ ] La question "d'où ça vient ?" doit se lire dans le jeu, pas dans le texte
-- [ ] Vérifier la phrase de bascule vers Acte III
-
-**`S04_acte3.md`** :
-- [ ] Restructurer : la Pensine est évoquée en ouverture d'acte, avant les livres
-- [ ] Intégrer le doute et l'échauffement avec le mot
-- [ ] Réécrire la fin en deux temps : Fin de l'Acte III + Épilogue (baguette, "chut" complice ou dos, prédécesseur)
+**`S04_acte3.md`** *(priorité immédiate)* :
+- [ ] Phase 6 : Lecture de pensée du mot de B (premier succès sobre et réjouissant, la "chauffe")
+- [ ] Phase 7 : Plongée dans la Pensine & matérialisation de l'eau (baguette, eau transférée dans la fiole)
+- [ ] Phase 8 : Révélation en entonnoir du souvenir / scène de Quidditch (Spectateur A)
+- [ ] Phase 9 : Fin de l'Acte III et Épilogue (départ avec la baguette, pensée pour le prédécesseur, dernier regard/chut complice)
+- [ ] Suppression de l'archive v2 en bas de fichier une fois le premier jet complet stabilisé
 
 ---
 
-### 2. Routines (Rxx) — révision
+### 2. Routines (Rxx) — révision v2
 
 **`R02_patronus.md`** :
 - [ ] Intégrer l'arc émotionnel en 4 temps : contrôle méthodique → excitation → engouement → émerveillement
@@ -111,4 +108,4 @@
 
 ---
 
-*Dernière mise à jour : session d'écriture — R01 v2, S01 premier jet (ouverture jusqu'au déclencheur carte).*
+*Dernière mise à jour : synchronisation v2 et inventaire matériel (3 tomes HP acquis) — octobre 2026.*
