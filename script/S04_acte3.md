@@ -3,283 +3,219 @@
 
 ---
 
-## Statut : 🔄 Version 2 — relecture globale intégrée
+## Statut : 🚧 WIP — réécriture en cours (v3)
+
+### Conventions d'écriture
+- Texte dit — corps normal, pleine largeur
+- *Indications de jeu* — italique, en bloc cité (décalé à droite)
+- Notes techniques — bloc code, en bloc cité
+- Notes longues — en bas de page
 
 ---
 
-## 1. Découverte des livres — bascule depuis l'Acte II
+## Phase 1 — Ouverture de l'acte III
 
-*(Dans l'élan de l'Acte II, le personnage cherche quoi tenter d'autre. Quelque chose de plus fort, de plus complexe. Son regard tombe sur les livres — ou l'idée de lecture de pensée l'amène à chercher un support, et il trouve les livres.)*
+> *Dans la continuité de S03 — "il y a un truc que j'ai toujours voulu essayer..." est déjà lancé. Le personnage est en mouvement vers les livres.*
+
+Quand j'étais enfant il m'arrivait de m'imaginer avec des super pouvoirs — pour les copains c'était souvent avoir une super force ou pouvoir voler, mais moi, ce qui me faisait le plus rêver c'était de pouvoir lire dans les pensées...
+
+Rien de malsain j'vous rassure — plutôt pour savoir ce que les gens ont vraiment au fond d'eux...
+
+Ça ne vous a jamais tenté ?!
+
+> *Il observe les réactions du public.*
+>
+> ```
+> Il identifie mentalement son futur participant : celui ou celle
+> qui est le plus en empathie avec lui sur cette idée. Cette
+> personne répondra naturellement quand il s'adressera à elle
+> pour le choix du livre — pas besoin de demander un volontaire.
+> ```
+
+---
+
+## Phase 2 — La Pensine
+
+> *Il se dirige vers le coffret contenant la Pensine.*
+>
+> ```
+> La Pensine et ses accessoires (mouchoir en tissu et flacon)
+> sont dans un coffret en bois aux allures anciennes — mystérieux
+> mais pas ostentatoire.
+> ```
+
+Elle n'est pas mise en avant dans cette expo à sa juste valeur !
+
+> *Il prend le coffret.*
+
+Dommage qu'ils n'aient pas réussi à retrouver celle que l'on voit dans les films...
+
+> *Il ouvre le coffret.*
+
+Mais ça reste tout de même celle que l'acteur de Dumbledore utilisait pour répéter !
+
+> *Il sort la Pensine et la montre à tous.*
+
+Une Pensine...
+
+> *Il la repose et se dirige vers les livres.*
+
+---
+
+## Phase 3 — Les livres et le spectateur A
+
+> *Avec un léger sourire — amusé par la naïveté de son rêve d'enfant et son côté potentiellement intrusif.*
+
+Bon, depuis j'ai grandi et je souhaite respecter votre vie privée — alors on va utiliser ces livres...
+
+> *Il montre les 3 livres avec un sourire plein de connivence.*
+>
+> *Ce sont les 3 premiers tomes de la saga.*
+
+J'imagine que vous les connaissez !?
+
+> *Il s'adresse au spectateur identifié précédemment — de façon naturelle, sans le désigner comme "volontaire".*
+
+C'est lequel votre préféré ?
+
+> *Il les met en avant un par un.*
+
+L'école des sorciers...
+
+La chambre des secrets...
+
+ou Le prisonnier d'Azkaban ?
+
+> *Le spectateur A fait son choix. Il met les 2 autres de côté.*
+
+Très bon choix !
+
+> *Il effeuille le livre choisi.*
+
+Je vais effeuiller les pages et tu me dis stop. Ok ?
+
+C'est parti ! Dis moi stop.
+
+> ```
+> Il s'arrête au marque-page secrètement inséré dans le livre.
+> En ressaisissant le livre pour mieux l'ouvrir, il récupère
+> secrètement le marque-page à l'empalmage des doigts gauches.
+> Il se rapproche du spectateur pour qu'il puisse lire le n° de page.
+> ```
+
+Retiens bien le n° de la page, c'est important.
+
+---
+
+## Phase 4 — Le spectateur B et l'échauffement
+
+> *Il s'éloigne du spectateur A pour trouver un spectateur B, le plus loin possible.*
+
+Mais avant de sauter dans le grand bain avec toi, je voudrais tenter quelque chose d'un peu plus simple — histoire de me chauffer !...
+
+Tu veux bien jouer le jeu ?
+
+> *Acquiescement du spectateur B.*
+
+Tu as compris le principe — j'effeuille et tu dis stop quand tu veux !
+
+> *Il effeuille le livre et s'arrête au stop.*
+>
+> ```
+> Il ne laisse aucune équivoque sur le fait qu'il s'arrête
+> réellement au stop du spectateur.
+> Il profite pour mieux saisir le livre — prêt à laisser
+> le marque-page. Sa main droite renforce par le geste
+> les instructions suivantes.
+> ```
+
+Tu vois la première ligne ? Choisis un mot dedans. Pas trop court — pas un article, pas un pronom. Un vrai mot.
+
+C'est bon, tu l'as ?
+
+> *Il ferme le livre et se dirige vers le spectateur A.*
+>
+> ```
+> Le marque-page est maintenant repositionné.
+> ```
+
+Retiens-le bien ! Je reviens.
+
+---
+
+## Phase 5 — Consignes à A et peek du mot de B
+
+> *Il revient vers le spectateur A. Il montre l'exemple en suivant ses propres instructions à la lettre.*
+
+Alors ! Je vais te rendre le livre et pendant que je serai là-bas, voilà ce que tu vas faire :
+
+Tu ouvres le livre à ta page — tu te souviens bien du numéro ? Ok, top !
+
+Tu vas lire la page en question, sérieusement. Essaie de t'imprégner de la scène que tu vas découvrir — l'environnement, les personnages, ce qu'ils font, ce qu'ils ressentent... Ok ? Top !
+
+> ```
+> En réalité il rouvre le livre au nouvel emplacement du
+> marque-page et parcourt la première ligne de la page de
+> droite pour découvrir et retenir le mot du spectateur B.
+> Il récupère secrètement le marque-page.
+> ```
+
+> *Il tend le livre au spectateur A et se redirige vers le spectateur B.*
+
+`WIP — suite : lecture du mot de B, plongée dans la Pensine, révélation en entonnoir, épilogue.`
+
+---
+
+## 🗄️ Archive — Version 2 (avant réécriture)
+
+<details>
+<summary>Voir version 2</summary>
+
+### 1. Découverte des livres
 
 > "Il y a un truc que j'ai toujours voulu essayer..."
-
-*(Il s'approche des livres. Il les prend — trois tomes, il les manipule, les regarde.)*
-
 > "Lire les pensées. Pas un mot — quelque chose de plus complexe. Un souvenir. Une scène entière."
 
-*(Il regarde le public.)*
-
-> "Quelqu'un ?"
-
-**Indications de jeu**
-- La phrase de bascule ("Il y a un truc...") est déjà amorcée en fin d'Acte II — elle continue ici
-- Les livres sont trouvés, pas présentés — aucun commentaire sur leur nature
-- Ton : excitation contenue, curiosité d'enfant qui prend le pas
-- Interpeller deux spectateurs différents de celui de l'Acte I
-
----
-
-## 2. Choix du tome et forçage de la page (Spectateur A)
-
-*(Le personnage garde les livres en main. Il les présente à un spectateur — Spectateur A.)*
+### 2. Choix du tome et forçage de la page (Spectateur A)
 
 > "Choisissez-en un. Pointez-le."
-
-*(A désigne un tome. Le personnage le prend, l'effeuille.)*
-
 > "Stop quand vous voulez."
-
-*(A dit stop. Le personnage marque la page du doigt.)*
-
 > "Retenez ce numéro. Juste le numéro — pas encore."
 
-**Indications de jeu**
-- Le spectateur désigne, le personnage garde les livres en main et effeuille
-- Le forçage est invisible dans le geste — naturel, continu
-- "Pas encore" — maintenir l'attente sur le contenu
-
----
-
-## 3. Choix du mot (Spectateur B)
-
-*(Le personnage se tourne vers un deuxième spectateur — Spectateur B.)*
+### 3. Choix du mot (Spectateur B)
 
 > "Et vous…"
-
-*(Il effeuille le deuxième livre vers B — ou lui présente le marque-page pour qu'il dise stop.)*
-
 > "Stop quand vous voulez."
-
-*(B dit stop.)*
-
 > "Un mot. Le premier qui vous frappe sur cette ligne. Gardez-le pour vous."
 
-**Indications de jeu**
-- Le choix de B est réellement libre
-- Sobre, rapide — ne pas appuyer sur ce moment
-
----
-
-## 4. Consignes à A — peek du mot de B
-
-*(Le personnage se retourne vers A. Il lui donne les consignes tout en lui remettant le livre — c'est pendant ce geste que le peek s'effectue.)*
+### 4. Consignes à A — peek du mot de B
 
 > "Allez à votre page. Lisez-la entièrement. Imprégnez-vous de ce moment — les images, les sensations, tout."
-
-*(Il remet le livre à A. Pendant ce geste : peek du mot de B.)*
-
 > "Prenez le temps qu'il faut."
 
-**Indications de jeu**
-- Le peek s'effectue naturellement pendant la remise du livre — jamais avant
-- Laisser A lire vraiment — ne pas presser
-
----
-
-## 5. Lecture de pensée — mot de B
-
-*(Pendant que A lit, le personnage se concentre sur B.)*
+### 5. Lecture de pensée — mot de B
 
 > "Votre mot… vous l'avez toujours ?"
-
-*(B confirme.)*
-
-*(Concentration. Il tâtonne — comme à l'Acte II mais plus intérieur.)*
-
 > "Quelque chose d'assez court… une lettre qui revient…"
-
-*(Un temps.)*
-
 > "C'est… [le mot]."
 
-*(B confirme.)*
-
-*(Silence bref. Le personnage encaisse — premier climax, sobre.)*
-
-**Indications de jeu**
-- Pas triomphant — constat, presque étonné lui-même
-- Laisser B confirmer sans l'interrompre
-- Le silence après appartient au public
-
----
-
-## 6. Tentative ratée — entrée de la Pensine
-
-*(Le personnage se tourne vers A — le livre est posé, la page lue.)*
-
-> "Ce que vous avez lu… je vais essayer."
-
-*(Il se concentre. Un temps plus long que pour B. Quelque chose résiste.)*
+### 6. Tentative ratée — entrée de la Pensine
 
 > "C'est… plus dense. Un mot c'est une chose, mais un souvenir entier…"
-
-*(Il s'arrête. Une idée soudaine.)*
-
 > "Attendez."
 
-*(Il va chercher la Pensine sur l'étagère — posée là depuis le début, jamais expliquée. Il la pose sur la table. Elle apparaît vide.)*
-
-> "Il y a un objet ici dont je n'ai jamais vraiment compris la fonction. Jusqu'à maintenant peut-être."
-
-**Indications de jeu**
-- La tentative ratée est sincère — le personnage essaie vraiment et bute
-- "Attendez" est une décision soudaine, pas préméditée
-- La Pensine est sortie comme on sortirait un outil qu'on n'a jamais osé utiliser
-
----
-
-## 7. Extraction et matérialisation de l'eau
-
-*(Le personnage prend une baguette du présentoir. Il s'approche de A.)*
+### 7. Extraction et matérialisation de l'eau
 
 > "Dans la tradition… la Pensine permet d'extraire un souvenir. De le rendre visible."
-
-*(Geste lent de la baguette — depuis la tête de A vers la Pensine.)*
-
 > "Le moment que vous avez lu… laissez-le venir."
-
-*(L'eau apparaît dans la Pensine. Le personnage la transvase dans la fiole.)*
-
 > "C'est là."
 
-**Indications de jeu**
-- Le personnage prend une baguette du présentoir — naturellement, sans désigner son choix
-- Geste lent, concentré — pas de théâtralité excessive
-- "C'est là" dit à mi-voix, pour lui-même
-- La fiole est posée devant A — le phénomène devient tangible
+### 8. Révélation en entonnoir
 
----
+*(voir contenu détaillé par tome dans v2)*
 
-## 8. Révélation en entonnoir
-
-*(Le personnage regarde la fiole. Il commence à parler lentement — comme s'il lisait quelque chose d'incertain.)*
-
----
-
-### Tome 1 — Page 187
-*Premier match de Quidditch de Harry — Folio Junior n°899*
-
-**Niveau 1 — Ambiance**
-> "Je sens… beaucoup d'excitation. Du bruit, de l'agitation. On est dehors — il y a du vent."
-
-*(Confirmation de A.)*
-
-**Niveau 2 — Action**
-> "Il se passe quelque chose de rapide. Très rapide. On est en mouvement — en l'air."
-
-*(Confirmation.)*
-
-**Niveau 3 — Contexte**
-> "C'est un match. Le premier… c'est le premier match de Quidditch."
-
-*(Confirmation.)*
-
-**Niveau 4 — Détail précis**
-> "On cherche quelque chose. On le voit — le Vif d'Or. On n'est pas seul à le poursuivre."
-
-*(Confirmation.)*
-
-**Niveau 5 — Détail impossible**
-> "Et puis… un changement brusque. Brutal. Ce n'est pas voulu — le balai part tout seul. Un coup de sifflet. Mme Bibine. Pour faute."
-
-*(Silence.)*
-
----
-
-### Tome 2 — Page 185
-*Harry au sol, bras blessé — Folio Junior n°961*
-
-**Niveau 1 — Ambiance**
-> "De la douleur. Beaucoup de douleur. On est au sol — dehors, il y a du monde autour."
-
-*(Confirmation de A.)*
-
-**Niveau 2 — Action**
-> "Des exclamations. De l'inquiétude autour. Quelque chose s'est passé — une blessure."
-
-*(Confirmation.)*
-
-**Niveau 3 — Contexte**
-> "On est sur un terrain de Quidditch. Fred et Georges sont là — ils s'occupent de quelque chose… un Cognard."
-
-*(Confirmation.)*
-
-**Niveau 4 — Détail précis**
-> "Quelqu'un intervient. Le professeur Lockhart. Et ça… ça n'est pas rassurant."
-
-*(Confirmation.)*
-
-**Niveau 5 — Détail impossible**
-> "La douleur disparaît. Un soulagement… mais non. Les os aussi ont disparu."
-
-*(Silence.)*
-
----
-
-### Tome 3 — Page 283
-*Match de Quidditch — Harry, les Détraqueurs, le Vif d'Or — Folio Junior n°1006*
-
-**Niveau 1 — Ambiance**
-> "On est dans les airs. Ça va vite — il fait froid. Très froid."
-
-*(Confirmation de A.)*
-
-**Niveau 2 — Action**
-> "On est sur un balai. C'est un match de Quidditch — et on cherche quelque chose."
-
-*(Confirmation.)*
-
-**Niveau 3 — Contexte**
-> "Le Vif d'Or. Il y a quelqu'un d'autre en face — il faut aller plus vite. Cho."
-
-*(Confirmation.)*
-
-**Niveau 4 — Détail précis**
-> "Et puis… quelque chose change. Un froid différent — pas la météo. Des Détraqueurs. Un sort de Patronus."
-
-*(Confirmation.)*
-
-**Niveau 5 — Détail impossible**
-> "Malgré tout… le Vif d'Or. Attrapé. Et puis plus rien — connaissance perdue."
-
-*(Silence.)*
-
-**Note de jeu** : La sensation de froid supplémentaire liée aux Détraqueurs est une interprétation dramaturgique — les Détraqueurs sont bien présents dans le texte, la nuance sensorielle est un ajout cohérent avec le lore.
-
----
-
-**Indications de jeu — entonnoir (tous tomes)**
-- Chaque niveau attend la confirmation avant de passer au suivant
-- Le rythme s'accélère légèrement vers la fin — la montée est naturelle
-- Le dernier détail est énoncé posément — c'est sa précision qui fait l'effet, pas l'emphase
-- Après la confirmation finale : silence. Ne pas parler dessus.
-
----
-
-## 9. Sortie de spectacle
-
-*(Le personnage reste un moment avec ce qu'il vient de vivre. Il regarde la fiole, les livres, le public.)*
-
-*(Un regard vers le public — pas celui de l'agent. Celui de quelqu'un qui partage un secret.)*
-
-*(Il commence à ranger ses affaires — lentement, comme en début de spectacle.)*
+### 9. Sortie de spectacle
 
 > "Je crois qu'il va falloir que je repense à certaines choses."
 
-*(Il repart.)*
-
-**Indications de jeu**
-- Le rangement fait écho à l'entrée — boucler l'image
-- Le regard vers le public est bref mais réel — complicité, pas conclusion
-- La phrase est dite en mouvement, pas face au public
-- Après : il repart. Pas de salut, pas de retour. La dernière image est son dos.
+</details>
