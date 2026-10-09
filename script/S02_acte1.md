@@ -3,23 +3,16 @@
 
 ---
 
-## Statut : 🔄 Premier jet complet — à affiner
+## Statut : 🔄 Premier jet complet — à affiner (v2)
 
-### Conventions d'écriture
-- Texte dit — corps normal, pleine largeur
-- *Indications de jeu* — italique, en bloc cité (décalé à droite)
-- Notes techniques — bloc code, en bloc cité
-- Notes longues — en bas de page[^ex]
 
-[^ex]: Les notes de bas de page accueillent les indications trop longues pour être inline, ou les variantes à explorer.
+## Interpellation du spectateur
 
----
+> *Petite pause. Il s'éclaircit la voix.*
+> *Il imite son oncle et exagère les attitudes du prestidigitateur.*
 
-## Phase 1 — Interpellation du spectateur
-
-> *Dans la continuité de S01 — le "pensez à une carte !" vient d'être lancé comme une blague. Le personnage est encore dans son élan de bonimenteur.*
-
-"Vous ! Oui vous ! Pensez à une carte — n'importe laquelle, mais gardez-la pour vous."
+"Vous ! Oui vous ! Pensez à une carte...
+N'importe laquelle, mais gardez-la pour vous."
 
 > *Il attend. Sourire tranquille de quelqu'un qui sait que rien ne va se passer.*
 
@@ -35,15 +28,14 @@ Sa valeur est basse ou haute ? De l'As au 7 ou du 8 au Roi ?
 
 Surtout ne m'en dites pas plus !
 
----
+> *Il récupère le bon jeu sur l'étalage et le tend au spectateur.*
+> *Le jeu est présenté comme un objet de la collection, pas comme un accessoire de magicien.*
 
-## Phase 2 — Le spectateur cherche sa carte
+Tenez, prenez ce jeu et retrouvez votre carte.
+Montrez-la à vos amis.
 
-> *Il récupère le bon jeu sur l'étalage et le tend au spectateur. Le jeu est présenté comme un objet de la collection, pas comme un accessoire de magicien.*
-
-Tenez, prenez ce jeu et retrouvez votre carte — montrez-la à vos amis.
-
-> *Il le laisse chercher. Légère satisfaction, petite excitation — l'assurance de quelqu'un qui attend une confirmation de ce qu'il sait déjà.[^1]*
+> *Il le laisse chercher.*
+> *Légère satisfaction, petite excitation — l'assurance de quelqu'un qui attend une confirmation de ce qu'il sait déjà.[^1]*
 
 C'est bon, vos amis ont vu votre carte ?
 
@@ -55,58 +47,62 @@ Comment ça... non ?
 
 Vous ne la retrouvez pas ?
 
-Oh — elle était peut-être collée ? Ça arrive avec les jeux neufs...
+Oh !...
+Elle est peut-être collée ? Ça arrive avec les jeux neufs...
 
+Revérifiez.
+Demandez à votre ami de chercher avec vous.
 > *Joindre le geste à la parole — mimer le comptage carte par carte.*
 
-Revérifiez. Demandez à votre ami de chercher avec vous. Comptez les cartes comme ça, une à une...
+Comptez les cartes comme ça, une à une...
 
-> *Le spectateur cherche toujours. Pendant ce temps : le personnage vaque à ses occupations, range un objet.*
->
-> ```
-> Il récupère discrètement dans le décor le duplicata de la carte
-> du spectateur et le garde en empalmage.
-> ```
+> *Le spectateur cherche toujours.*
+> *Pendant ce temps : le personnage vaque à ses occupations, range un objet ou deux.*
+
+```
+Il récupère discrètement dans le décor le duplicata de la carte
+du spectateur et le garde en empalmage.
+```
 
 C'était quoi votre carte déjà ?
 
-> *Le spectateur répond — identité précise de la carte.*
+> *Le spectateur répond.*
+
+`Identité précise de la carte.`
 
 Et vous avez compté combien de cartes en tout ?
 
 > *Réponse du spectateur : 51.*
->
 > *Choc sincère. Un silence.*
 
 Mais ce n'est pas possible.
 
----
 
-## Phase 3 — Tentative de rationalisation
+## Bascule
 
-> *Long temps. Regard dans le vide. Il cherche vraiment une explication.*
+...
+
+> *Long temps.*
+> *Regard dans le vide. Il cherche vraiment une explication.*
 
 Je ne comprends pas...
 
 > *Il regarde le spectateur — ni agressif, ni accusateur. C'est quelqu'un qui se noie et qui s'accroche à n'importe quoi.*
 
-Vous avez gardé la carte ? Vous avez touché au jeu avant que j'arrive ?
+Nan, c'est vous qui avez gardé la carte ? Vous avez touché au jeu avant que j'arrive ?
 
 > *Mi-énervé, mi-désespéré — contre la situation, pas contre le spectateur.*
 
 Une carte ne peut pas disparaître comme ça. Toute seule.
 
----
-
-## Phases 4 & 5 — Cheminement, révélation et sortie d'acte
-
+> *Il aperçoit le cadre, interloqué.*
 > *Dialogue pour soi-même — intonation qui baisse en fin de phrase, comme si les mots s'éteignaient.*
 
 Mais non... ça n'a pas de sens...
 
 Ce n'était quand même pas de ça dont il parlait !?...
 
-> *Il attrape le cadre — pas d'hésitation dans le geste, mais une tension dans le corps.*
+> *Il se dirige vers le cadre et l'attrape — pas d'hésitation dans le geste, mais une tension dans le corps.*
 
 Je dois en avoir le cœur net...
 
@@ -116,7 +112,8 @@ Je dois en avoir le cœur net...
 
 ...
 
-> *La carte est en main. Il ne regarde pas encore sa face. Il s'adresse au spectateur — une dernière porte de sortie qu'il se donne.*
+> *La carte est en main.*
+> *Il ne regarde pas encore sa face et s'adresse au spectateur.*
 
 C'était le `[identité de la carte]`... c'est bien ça ?
 
@@ -125,18 +122,13 @@ C'était le `[identité de la carte]`... c'est bien ça ?
 ...
 
 > *Il retourne lentement la carte. Dans le même mouvement, sa main libre monte vers sa bouche — comme pour étouffer quelque chose. Elle redescend en même temps qu'il retourne la carte vers le spectateur.*
->
-> *Silence.*
->
+
+...
+
 > *Dans ce silence — pleine réflexion. Il remonte le cadre lentement, replace la carte face visible cette fois, et le remet à sa place.[^2]*
->
 > *Une fois fait, il s'arrête. Quelque chose se cristallise — une décision intérieure, pas une annonce.*
 
 "D'accord. On va faire ça correctement."
-
-> *Il se dirige vers les cartes Patronus — immédiatement, sans pause.*
->
-> *Le cadre reste en place, carte face visible. Dernière image de l'acte I.*
 
 ---
 
