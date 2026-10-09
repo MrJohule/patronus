@@ -50,6 +50,7 @@ Toute modification doit respecter :
 - Script Ouverture (S01) — premier jet (v2)
 - Script Acte I (S02) — premier jet complet (v2)
 - Script Acte II (S03) — premier jet complet (v2)
+- Script Acte III (S04) — premier jet complet (v2)
 - Routine R01 du cadre — validée (v2)
 - 12 cartes Patronus — créées et imprimées
 - 3 tomes HP Folio Junior (T1 n°899 / T2 n°961 / T3 n°1006) — acquis
@@ -57,14 +58,13 @@ Toute modification doit respecter :
 - Relecture globale de cohérence — points de friction traités
 
 ### 🔄 En cours
-- Script Acte III (S04) — réécriture en cours (v2, phases 1 à 5 rédigées)
 - Routine R02 Patronus — révision v2 en cours (arc émotionnel en 4 temps)
 - Routine R03 Pensine — révision v2 en cours (chronologie Pensine avant livres)
 - Fabrication du cadre truqué (Acte I)
 - Liste d'objets de décor à compléter
 
 ### 📋 À développer
-- Rédaction finale du script S04 (phases 6 à 9 : lecture mot B, Pensine, révélation entonnoir, épilogue)
+- Relecture globale de continuité des 4 scripts (S01 à S04)
 - Travail au plateau — ajustements texte et rythme
 - Calibration émotionnelle fine au jeu
 - Préparation matérielle complète
@@ -88,7 +88,7 @@ PATRONUS/
     ├── S01_ouverture.md     ✅ Texte dit + indications — Ouverture (v2)
     ├── S02_acte1.md         ✅ Texte dit + indications — Acte I (v2)
     ├── S03_acte2.md         ✅ Texte dit + indications — Acte II (v2)
-    └── S04_acte3.md         🚧 Texte dit + indications — Acte III (v2 en cours)
+    └── S04_acte3.md         ✅ Texte dit + indications — Acte III (v2)
 └── v1/                      📦 archive de la v1
     └── ...
 ```

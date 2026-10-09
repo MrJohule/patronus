@@ -27,6 +27,7 @@
 | `script/S01_ouverture.md` | ✅ Premier jet (v2) | Prise de service, découverte public, prédécesseur, oncle Michel, déclencheur carte — conventions stabilisées |
 | `script/S02_acte1.md` | ✅ Premier jet complet (v2) | Routine du cadre rédigée de bout en bout (phases 1 à 5) : interpellation, recherche, rationalisation, révélation, sortie d'acte |
 | `script/S03_acte2.md` | ✅ Premier jet complet (v2) | Routine Patronus rédigée (phases 1 à 3) : démarche scientifique, cartes Patronus, Biddle/Emsley, baguette, disparition/réapparition |
+| `script/S04_acte3.md` | ✅ Premier jet complet (v2) | Routine Pensine rédigée (phases 1 à 9) : choix livre A, lecture mot B, extraction baguette/eau, entonnoir Quidditch, rangement & épilogue |
 | 12 cartes Patronus | ✅ créées et imprimées | Visuels finaux |
 | 3 tomes HP Folio Junior | ✅ acquis | T1 n°899 / T2 n°961 / T3 n°1006 (scènes Quidditch mémorisées) |
 | Conventions d'écriture | ✅ stabilisées | Blocs cités pour le jeu, blocs code pour la technique, notes de bas de page |
@@ -40,7 +41,6 @@
 
 | Élément | Priorité | Notes |
 |---|---|---|
-| `script/S04_acte3.md` | 🔴 Haute | WIP v2 : phases 1 à 5 réécrites, phase 6 en cours d'écriture — suite à rédiger |
 | `routines/R02_patronus.md` | 🟡 Moyenne | Révision v2 : intégrer l'arc émotionnel en 4 temps et la fonction empirique |
 | `routines/R03_pensine.md` | 🟡 Moyenne | Révision v2 : synchroniser avec l'aveu de la Pensine avant les livres et la structure d'entonnoir |
 | Fabrication du cadre truqué (Acte I) | 🔴 Haute | Base : "Pensée Encadrée" de Luc Apers — adaptation en cours |
@@ -50,14 +50,14 @@
 
 ## 📋 À faire — par ordre de priorité recommandé
 
-### 1. Scripts (Sxx) — suite et fin de l'écriture
+### 1. Scripts (Sxx) — stabilisation & lecture globale
 
-**`S04_acte3.md`** *(priorité immédiate)* :
-- [ ] Phase 6 : Lecture de pensée du mot de B (premier succès sobre et réjouissant, la "chauffe")
-- [ ] Phase 7 : Plongée dans la Pensine & matérialisation de l'eau (baguette, eau transférée dans la fiole)
-- [ ] Phase 8 : Révélation en entonnoir du souvenir / scène de Quidditch (Spectateur A)
-- [ ] Phase 9 : Fin de l'Acte III et Épilogue (départ avec la baguette, pensée pour le prédécesseur, dernier regard/chut complice)
-- [ ] Suppression de l'archive v2 en bas de fichier une fois le premier jet complet stabilisé
+**`S04_acte3.md`** :
+- [x] Phase 6 : Lecture de pensée du mot de B (premier succès sobre et réjouissant, la "chauffe")
+- [x] Phase 7 : Plongée dans la Pensine & matérialisation de l'eau (baguette, eau transférée dans la fiole)
+- [x] Phase 8 : Révélation en entonnoir du souvenir / scène de Quidditch (Spectateur A)
+- [x] Phase 9 : Fin de l'Acte III et Épilogue (départ avec la baguette, pensée pour le prédécesseur, dernier regard/chut complice)
+- [ ] Relecture globale de continuité des 4 scripts (S01 à S04)
 
 ---
 

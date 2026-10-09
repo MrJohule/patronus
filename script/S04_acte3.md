@@ -3,7 +3,7 @@
 
 ---
 
-## Statut : 🚧 WIP — réécriture en cours (v3)
+## Statut : 🔄 Premier jet complet — à affiner (v2)
 
 ### Conventions d'écriture
 - Texte dit — corps normal, pleine largeur
@@ -320,4 +320,40 @@ Malgré tout… le Vif d'Or. Attrapé. Et puis plus rien — connaissance perdue
 
 ## Phase 9 — Fin d'acte et épilogue
 
-`WIP — à écrire`
+> *Il reprend son souffle et revient lentement à la réalité.*
+
+Whoua... c'était bien la scène du... `[identification en 2-3 mots du moment du livre choisi]`, c'est ça ?
+
+> *Confirmation du spectateur A.*
+>
+> *Son regard passe plusieurs fois du spectateur à la fiole. Il la tient maintenant précieusement contre lui.*
+>
+> *Avec une sincérité désarmante — touché d'avoir pu vivre une expérience pareille.*
+
+Merci pour ce partage.
+
+> *Il remet la Pensine et la fiole délicatement dans leur coffret et le range.[^1]*
+>
+> *Ce faisant, il murmure pour lui-même — intonation basse, pensée qui s'échappe :*
+
+Je crois qu'il va falloir que je repense à pas mal de choses...
+
+> *Il commence à ranger ses affaires. Il enlève sa veste de gardien, ajuste ses affaires et remet son manteau civil. C'est sa fin de service.*
+>
+> *Il s'apprête à partir, sac à l'épaule. Petit arrêt — il remarque la baguette restée sur la table, utilisée pour la Pensine.*
+
+Oh !...
+
+> *Son regard se pose sur la baguette. Un instant de réflexion silencieuse.*
+>
+> *Il lève les yeux vers les spectateurs avec un petit air complice.*
+>
+> *Il saisit la baguette et la glisse dans la poche intérieure de son manteau. De cette main ainsi libérée, il porte lentement son index à ses lèvres.*
+
+Chut...
+
+> *NOIR.*
+
+---
+
+[^1]: Le rangement de la fiole dans le coffret privilégie l'effet théâtral du retour à l'ordre et au quotidien avant le départ. Une variante consistant à confier la fiole au spectateur pourra être éprouvée au plateau.

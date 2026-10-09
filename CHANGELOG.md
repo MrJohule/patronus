@@ -43,4 +43,4 @@
 | 2026-09-26 | Conventions d'écriture stabilisées sur S01 et S02 : blocs cités pour le jeu, blocs code pour la technique, notes de bas de page |
 | 2026-09-26 | S02 — premier jet complet : phases 1 à 5 rédigées (interpellation, recherche carte, rationalisation, révélation, sortie d'acte) |
 | 2026-10-04 | S03 — premier jet complet v2 : phases 1 à 3 rédigées (démarche scientifique, cartes Patronus, Biddle/Emsley, baguette, disparition et réapparition) |
-| 2026-10-08 | S04 — réécriture v2 en cours : phases 1 à 5 rédigées (la Pensine en ouverture, choix livre/page A, échauffement et peek mot B) |
+| 2026-10-08 | S04 — premier jet complet v2 : phases 1 à 9 rédigées (la Pensine en ouverture, choix livre/page A, lecture mot B, matérialisation Pensine, entonnoir Quidditch, fin d'acte et épilogue) |
