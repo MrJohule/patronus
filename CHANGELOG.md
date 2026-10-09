@@ -44,3 +44,4 @@
 | 2026-09-26 | S02 — premier jet complet : phases 1 à 5 rédigées (interpellation, recherche carte, rationalisation, révélation, sortie d'acte) |
 | 2026-10-04 | S03 — premier jet complet v2 : phases 1 à 3 rédigées (démarche scientifique, cartes Patronus, Biddle/Emsley, baguette, disparition et réapparition) |
 | 2026-10-08 | S04 — premier jet complet v2 : phases 1 à 9 rédigées (la Pensine en ouverture, choix livre/page A, lecture mot B, matérialisation Pensine, entonnoir Quidditch, fin d'acte et épilogue) |
+| 2026-10-09 | Rationalisation documentaire : CANEVAS.md renommé en AGENTS.md (méthode de travail & conventions), BIBLE recentrée sur la vision/règles, STRUCTURE recentrée sur le découpage scénique et les objets |

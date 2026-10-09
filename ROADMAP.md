@@ -21,8 +21,9 @@
 
 | Document | Statut | Notes |
 |---|---|---|
-| `00_BIBLE.md` | ✅ v2 validée | Paradigme, personnage, règles du monde, arc narratif, épilogue |
-| `01_STRUCTURE.md` | ✅ v2 validée | Ouverture, Actes I/II/III, Fin, Épilogue, scénographie |
+| `00_BIBLE.md` | ✅ v2 validée | Vision, personnage, règles du monde, arc narratif (recentrée) |
+| `01_STRUCTURE.md` | ✅ v2 validée | Découpage par acte, transitions, fil narratif verbal, scénographie complète |
+| `AGENTS.md` | ✅ v2 validée | Méthode de travail Homme-IA, rôles, conventions d'écriture et outillage PDF (remplace CANEVAS.md) |
 | `routines/R01_cadre.md` | ✅ v2 validée | Fonction dramaturgique, déclencheur bonimenteur, cadre B+C, points critiques |
 | `script/S01_ouverture.md` | ✅ Premier jet (v2) | Prise de service, découverte public, prédécesseur, oncle Michel, déclencheur carte — conventions stabilisées |
 | `script/S02_acte1.md` | ✅ Premier jet complet (v2) | Routine du cadre rédigée de bout en bout (phases 1 à 5) : interpellation, recherche, rationalisation, révélation, sortie d'acte |

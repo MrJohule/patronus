@@ -1,5 +1,8 @@
 # 🎭 PATRONUS — Structure du spectacle
-> Arcs dramaturgiques, transitions et fil narratif. Les chronologies détaillées sont dans les fiches routines (Rxx).
+> Découpage scénique par acte, arcs dramaturgiques, transitions, fil narratif et scénographie.
+> - Pour les fondations artistiques et règles du monde : voir `00_BIBLE.md`.
+> - Pour le texte joué (dialogues et didascalies) : voir `script/ (Sxx)`.
+> - Pour les manipulations et secrets : voir `routines/ (Rxx)`.
 
 ---
 
@@ -142,20 +145,21 @@ Désir avoué (la Pensine) → Présentation des livres (choix du tome, page —
 
 Le personnage a réalisé quelque chose de réputé impossible. Un nouveau monde s'ouvre à lui. Satisfaction et vertige mêlés.
 
-**Phrase** *(à revoir)* :
-> *"Je crois qu'il va falloir que je repense à certaines choses."*
+**Phrase de clôture** :
+> *"Je crois qu'il va falloir que je repense à pas mal de choses..."*
 
 ---
 
 ## ÉPILOGUE
 
-Le personnage range ses affaires, lentement, comme au début. *(sous-texte, non explicité)* : il comprend, dans cet instant, ce qui a dû arriver à son prédécesseur — la même brèche, refusée plutôt qu'acceptée.
+Le personnage range ses affaires, lentement, comme au début : il remet la Pensine et la fiole délicatement dans leur coffret. *(sous-texte, non explicité)* : il comprend, dans cet instant, ce qui a dû arriver à son prédécesseur — la même brèche, refusée plutôt qu'acceptée.
 
-Il s'approche du présentoir à baguettes. Il en choisit une — pas un geste anodin, un acte délibéré. Il la glisse dans sa poche.
+Il enlève sa veste de gardien et remet son manteau civil : c'est sa fin de service.
 
-Il s'en va. Pas de salut. Un dernier regard au public — un sourire, un "chut" complice du doigt sur les lèvres, ou simplement son dos qui s'éloigne. *(la forme exacte du geste final reste à éprouver au plateau)*
+Au moment de partir, sac à l'épaule, il remarque la baguette restée sur la table. Il la glisse dans la poche intérieure de son manteau.
+De sa main ainsi libérée, il porte lentement son index à ses lèvres avec un regard complice : *"Chut..."*
 
-La dernière image est son dos, ou son regard. Le secret reste entre lui et le public.
+**NOIR.**
 
 ---
 
@@ -167,7 +171,7 @@ La dernière image est son dos, ou son regard. Le secret reste entre lui et le p
 |---|---|---|
 | Transition I → II | Contrôle, rigueur, méthode | *"D'accord. On va faire ça correctement."* |
 | Transition II → III | Curiosité, lâcher prise, enfance | *"Il y a un truc que j'ai toujours voulu essayer..."* |
-| Fin de l'Acte III | Vertige doux, satisfaction | *"Je crois qu'il va falloir que je repense à certaines choses."* (à revoir) |
+| Fin de l'Acte III | Vertige doux, satisfaction | *"Je crois qu'il va falloir que je repense à pas mal de choses..."* |
 
 ---
 

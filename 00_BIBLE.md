@@ -50,21 +50,13 @@ Témoin → Testeur → Explorateur
 
 ## 4. Structure dramaturgique
 
-### ACTE I — ÉVOQUER
-Le personnage agit dans un cadre professionnel normal.
-Il évoque la rumeur du prédécesseur avec une bienveillance condescendante — il la démontre par l'absurde, en reproduisant le geste archétype du bonimenteur : *"pensez à une carte !"*
-Il veut réfuter, pas tester. Le phénomène impossible survient malgré lui.
+Le spectacle progresse selon un triptyque strict fondé sur l'arc intérieur du personnage :
 
-### ACTE II — TESTER
-Le personnage adopte une posture de vérification : expérimentation, contrôle, reproduction.
-Il cherche à comprendre la source — les objets ? lui ? les deux ?
-La frontière entre vérification rationnelle et expérience vécue commence à se brouiller.
+* **ACTE I — ÉVOQUER** : Le personnage agit dans un cadre professionnel normal. Il veut réfuter la rumeur par l'absurde avec le geste archétype du bonimenteur (*"pensez à une carte !"*). Le phénomène impossible survient malgré lui : la rupture du rationnel.
+* **ACTE II — TESTER** : Posture d'expérimentation, de contrôle et de reproduction (démarche empirique). Il cherche la source (l'objet ? lui ? les deux ?). La frontière entre vérification rationnelle et expérience vécue commence à se brouiller.
+* **ACTE III — EXPLORER** : L'âme d'enfant prend le dessus. Après une première lecture de pensée réussie qui le "chauffe", il se lance dans l'impossible avec la Pensine, dans une naïveté joyeuse et partagée.
 
-### ACTE III — EXPLORER
-Son âme d'enfant prend le dessus.
-La première lecture de pensée le "chauffe" — lui prouve que c'est réel.
-Il se lance alors dans quelque chose de réputé impossible avec une naïveté presque joyeuse.
-La Pensine l'aide mais c'est lui qui agit.
+> 📋 Pour le découpage scénique détaillé acte par acte, les dynamiques de transition et le fil narratif verbal, se référer à `01_STRUCTURE.md`.
 
 ---
 
@@ -83,24 +75,15 @@ La Pensine l'aide mais c'est lui qui agit.
 ## 6. Dispositif scénographique
 
 **Espace** : exposition / conservation Wizarding World — ambiance post-visite, fermeture
-
 **Format** : petite jauge (20 personnes max), espace type domicile ou salle privatisée
-
-**Durée** : non contrainte — résultat naturel des routines
+**Durée** : non contrainte — résultat naturel du rythme des routines
 
 **Principes**
-- Lieu crédible de travail
-- Surabondance contrôlée d'objets
+- Lieu crédible de travail (gardiennage de nuit)
+- Surabondance contrôlée d'objets (collection)
 - Ambiance fin de journée / musée vide
 
-**Objets présents**
-- Cadre principal (Acte I) — présent dès le début, jamais désigné
-- Cadres secondaires
-- Jeux de cartes intégrés au décor
-- Objets de collection Wizarding World
-- Documents de classification Patronus
-- Outils de conservation
-- Baguettes magiques
+> 📋 L'inventaire scénographique exhaustif (objets indispensables, tomes, matériel de décor) est centralisé dans `01_STRUCTURE.md`.
 
 ---
 
