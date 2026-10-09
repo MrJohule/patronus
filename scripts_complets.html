@@ -1,0 +1,835 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>PATRONUS — Livret de Scène (Scripts Complets v2)</title>
+  <style>
+    @page {
+      size: A4 portrait;
+      margin: 16mm 14mm 16mm 14mm;
+      @bottom-right {
+        content: "Page " counter(page);
+        font-family: 'Segoe UI', Arial, sans-serif;
+        font-size: 8.5pt;
+        color: #64748b;
+      }
+      @bottom-left {
+        content: "PATRONUS — Livret de Scène (v2)";
+        font-family: 'Segoe UI', Arial, sans-serif;
+        font-size: 8.5pt;
+        color: #64748b;
+      }
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif;
+      font-size: 10.5pt;
+      line-height: 1.5;
+      color: #0f172a;
+      background: #fff;
+      margin: 0;
+      padding: 0;
+    }
+
+    /* Page de Garde */
+    .cover-page {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      min-height: 250mm;
+      padding: 20mm 15mm;
+      text-align: center;
+      page-break-after: always;
+    }
+
+    .cover-top {
+      margin-top: 25mm;
+    }
+
+    .cover-badge {
+      display: inline-block;
+      font-size: 9pt;
+      font-weight: 700;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: #92400e;
+      background: #fef3c7;
+      border: 1px solid #fde68a;
+      padding: 5px 16px;
+      border-radius: 20px;
+      margin-bottom: 20px;
+    }
+
+    .cover-title {
+      font-family: 'Georgia', serif;
+      font-size: 42pt;
+      letter-spacing: 4px;
+      margin: 0 0 10px 0;
+      color: #0f172a;
+      text-transform: uppercase;
+    }
+
+    .cover-subtitle {
+      font-family: 'Georgia', serif;
+      font-style: italic;
+      font-size: 14.5pt;
+      color: #475569;
+      margin: 0 0 25px 0;
+    }
+
+    .cover-divider {
+      width: 70px;
+      height: 3px;
+      background: #d97706;
+      margin: 20px auto;
+      border-radius: 2px;
+    }
+
+    .cover-meta {
+      font-size: 10.5pt;
+      color: #334155;
+      line-height: 1.8;
+      max-width: 520px;
+      margin: 0 auto;
+    }
+
+    .cover-summary {
+      background: #f8fafc;
+      border: 1px solid #e2e8f0;
+      border-radius: 8px;
+      padding: 18px 24px;
+      margin: 30px auto;
+      max-width: 500px;
+      text-align: left;
+    }
+
+    .summary-title {
+      font-weight: 700;
+      font-size: 9.5pt;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      color: #64748b;
+      margin-bottom: 12px;
+      border-bottom: 1px solid #e2e8f0;
+      padding-bottom: 6px;
+    }
+
+    .summary-item {
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 9px;
+      font-size: 9.5pt;
+      color: #1e293b;
+    }
+
+    .summary-act {
+      font-weight: 700;
+      color: #0f172a;
+      min-width: 140px;
+    }
+
+    .cover-footer {
+      font-size: 8.5pt;
+      color: #94a3b8;
+      border-top: 1px solid #e2e8f0;
+      padding-top: 15px;
+    }
+
+    /* Actes */
+    .act-container {
+      page-break-before: always;
+      padding-top: 5mm;
+    }
+
+    .cover-page + .act-container {
+      /* Le premier acte n'a pas besoin de double page break */
+      page-break-before: avoid;
+    }
+
+    .act-header {
+      border-bottom: 2.5px solid #0f172a;
+      padding-bottom: 10px;
+      margin-bottom: 18px;
+      break-after: avoid;
+    }
+
+    .act-badge-container {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 4px;
+    }
+
+    .act-num {
+      font-size: 9pt;
+      font-weight: 700;
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+      color: #b45309;
+    }
+
+    .act-role {
+      font-size: 9pt;
+      font-style: italic;
+      color: #64748b;
+      background: #f1f5f9;
+      padding: 2px 8px;
+      border-radius: 4px;
+    }
+
+    .act-title {
+      font-family: 'Georgia', serif;
+      font-size: 20pt;
+      color: #0f172a;
+      margin: 2px 0 0 0;
+    }
+
+    /* Titres de Phase (étapes d'un acte) */
+    .phase-title {
+      font-size: 11pt;
+      font-weight: 700;
+      color: #0f172a;
+      text-align: right;
+      background: #f8fafc;
+      border-right: 3.5px solid #0f172a;
+      border-bottom: 1px solid #e2e8f0;
+      padding: 5px 12px;
+      margin-top: 22px;
+      margin-bottom: 12px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      break-after: avoid;
+      break-inside: avoid;
+    }
+
+    .option-title {
+      font-size: 10.5pt;
+      font-weight: 700;
+      color: #1e293b;
+      margin-top: 16px;
+      margin-bottom: 2px;
+      break-after: avoid;
+    }
+
+    .option-meta {
+      font-size: 8.5pt;
+      font-style: italic;
+      color: #64748b;
+      margin-bottom: 8px;
+    }
+
+    /* Dialogues / Texte dit (très contrasté et lisible) */
+    .dialogue {
+      font-size: 11pt;
+      font-weight: 600;
+      color: #090d16;
+      line-height: 1.5;
+      margin: 6px 0 8px 0;
+      break-inside: avoid;
+    }
+
+    /* Didascalies / Indications de jeu */
+    .didascalie {
+      font-style: italic;
+      font-size: 9.5pt;
+      color: #334155;
+      background: #f8fafc;
+      border-left: 3px solid #64748b;
+      padding: 5px 12px;
+      margin: 6px 0 8px 0;
+      border-radius: 0 4px 4px 0;
+      line-height: 1.45;
+      break-inside: avoid;
+    }
+
+    .dida-indicator {
+      font-style: normal;
+      font-size: 7.5pt;
+      color: #64748b;
+      margin-right: 4px;
+    }
+
+    /* Technique secrète (bien mise en évidence pour le magicien) */
+    .technique-block {
+      background: #fffbeb;
+      border: 1px dashed #d97706;
+      border-left: 4px solid #b45309;
+      border-radius: 4px;
+      padding: 6px 12px;
+      margin: 9px 0;
+      break-inside: avoid;
+    }
+
+    .technique-label {
+      font-size: 7pt;
+      font-weight: 700;
+      letter-spacing: 0.8px;
+      text-transform: uppercase;
+      color: #92400e;
+      margin-bottom: 3px;
+    }
+
+    .technique-code {
+      font-family: 'Consolas', 'Courier New', monospace;
+      font-size: 8.5pt;
+      color: #78350f;
+      margin: 0;
+      white-space: pre-wrap;
+      line-height: 1.35;
+    }
+
+    .pause-symbol {
+      text-align: center;
+      font-size: 8.5pt;
+      color: #94a3b8;
+      letter-spacing: 1px;
+      margin: 8px 0;
+      break-inside: avoid;
+    }
+
+    .section-hr {
+      border: 0;
+      height: 1px;
+      background: #e2e8f0;
+      margin: 14px 0;
+    }
+
+    .footnote-item {
+      font-size: 8.5pt;
+      color: #475569;
+      background: #f1f5f9;
+      border-left: 2.5px solid #94a3b8;
+      padding: 4px 8px;
+      margin: 5px 0;
+      border-radius: 0 3px 3px 0;
+      break-inside: avoid;
+    }
+
+    .fn-badge {
+      font-weight: 700;
+      color: #1e293b;
+    }
+
+    .fn-ref {
+      font-size: 7.5pt;
+      color: #d97706;
+      font-weight: bold;
+    }
+
+    .inline-code {
+      font-family: 'Consolas', monospace;
+      font-size: 8.5pt;
+      background: #f1f5f9;
+      padding: 1px 4px;
+      border-radius: 3px;
+      color: #0f172a;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Page de garde -->
+  <div class="cover-page">
+    <div class="cover-top">
+      <div class="cover-badge">Spectacle de magie théâtrale & mentalisme</div>
+      <h1 class="cover-title">PATRONUS</h1>
+      <div class="cover-subtitle">Livret de jeu &amp; Scripts complets</div>
+      <div class="cover-divider"></div>
+      <div class="cover-meta">
+        <strong>Seul en scène</strong> • Durée naturelle • Petite jauge (20 pers.)<br>
+        Texte, mise en scène et conception : <strong>Julien DEROSES (MrJohule)</strong><br>
+        Version 2 — Premier jet complet (Octobre 2026)
+      </div>
+    </div>
+
+    <div class="cover-summary">
+      <div class="summary-title">Structure du livret</div>
+      <div class="summary-item">
+        <span class="summary-act">Ouverture (S01)</span>
+        <span>Prise de service &amp; L'oncle Michel</span>
+      </div>
+      <div class="summary-item">
+        <span class="summary-act">Acte I (S02)</span>
+        <span>Le Portrait de Poudlard (Le Cadre)</span>
+      </div>
+      <div class="summary-item">
+        <span class="summary-act">Acte II (S03)</span>
+        <span>Routine Patronus (Démarche empirique)</span>
+      </div>
+      <div class="summary-item">
+        <span class="summary-act">Acte III &amp; Fin (S04)</span>
+        <span>La Pensine, le Book-test &amp; Épilogue</span>
+      </div>
+    </div>
+
+    <div class="cover-footer">
+      Document de travail scénique — Réservé aux répétitions et au filage technique.
+    </div>
+  </div>
+
+  <!-- Contenu des Actes -->
+  
+      <section class="act-container">
+        <header class="act-header">
+          <div class="act-badge-container">
+            <span class="act-num">OUVERTURE</span>
+            <span class="act-role">Installation du monde</span>
+          </div>
+          <h1 class="act-title">Prise de service & L'oncle Michel</h1>
+        </header>
+        <div class="act-body">
+    <h2 class="phase-title">Prise de service</h2>
+<div class="didascalie">Il entre sur scène comme il entre dans l'exposition. Il prend son service. Il retrouve une petite table en arrière-plan, y pose son sac, change de veste et ajuste son badge.</div>
+<div class="didascalie">Il se rend compte qu'il n'est pas seul.</div>
+<p class="dialogue">Qu'est-ce que vous faites là ?!</p>
+<p class="dialogue">Heu pardon... Il y a encore des visites ?...</p>
+<div class="didascalie">Il regarde sa montre.</div>
+<p class="dialogue">Quelle heure il est ?... Ah non, je suis un poil en avance...</p>
+<div class="didascalie">En regardant les retardataires. Ton "officiel" sans être autoritaire.</div>
+<p class="dialogue">Ne traînez pas trop, c'est la fermeture...</p>
+<div class="pause-symbol">⸻ <em>silence</em> ⸻</div>
+<div class="didascalie">Temps de pause, d'hésitation. Puis quelque chose change. Sur un ton d'excitation sincère.</div>
+<p class="dialogue">Ça vous a plu !?</p>
+<p class="dialogue">Moi je suis comme un gosse ici !</p>
+<div class="didascalie">Son attention se tourne naturellement vers les objets. Il commence à circuler, à les regarder, à en effleurer certains.<sup class="fn-ref">[1]</sup></div>
+<p class="dialogue">Avec tous ces objets, ces accessoires... c'est incroyable !</p>
+<div class="didascalie">Il continue sa ronde. Il arrive sur le ou les cadres, il les redresse machinalement, geste professionnel.</div>
+<p class="dialogue">Ça fait même pas une semaine que je suis là...</p>
+<p class="dialogue">Quand j'ai vu l'annonce pour être gardien de l'expo, j'ai pas hésité !</p>
+<p class="dialogue">Bon... je remplace au pied levé un gars qui est parti pour des "problèmes de santé"...</p>
+<div class="didascalie">Geste discret, il passe à autre chose sans s'y attarder.</div>
+<p class="dialogue">Il disait que des trucs impossibles se produisaient ici...</p>
+<p class="dialogue">Les cadres, les illustrations qui semblaient bouger... le Vif d'Or qu'il entendait voler la nuit...</p>
+<p class="dialogue">Il paraîtrait même que des étincelles sortaient du bout des baguettes !</p>
+<div class="didascalie">Rire amusé — bienveillant, pas moqueur.</div>
+<p class="dialogue">Ahahah...</p>
+<div class="pause-symbol">⸻ <em>silence</em> ⸻</div>
+<div class="didascalie">Il reprend sa ronde, revient vers le public.</div>
+<p class="dialogue">Bon après, perso, moi ça me permet de pouvoir toucher ces objets incroyables...</p>
+<div class="didascalie">Changement de ton — reprise du sérieux professionnel.</div>
+<p class="dialogue">Enfin non ! Il est interdit de toucher, hein !</p>
+<div class="didascalie">Il regarde les visiteurs. Puis de nouveau l'excitation du gosse.</div>
+<p class="dialogue">Nan mais regardez-moi ce <code class="inline-code">&lt;objet à déterminer&gt;</code> !</p>
+<div class="didascalie">Étonnement sincère.</div>
+<p class="dialogue">Je n'en reviens pas que l'autre ait pu lâcher son poste !</p>
+<div class="pause-symbol">⸻ <em>silence</em> ⸻</div>
+<h2 class="phase-title">L'oncle Michel</h2>
+<div class="didascalie">Sur un ton amusé, avec une pointe de nostalgie heureuse.</div>
+<p class="dialogue">Moi je m'y connais pas mal en magie...</p>
+<p class="dialogue">Mon oncle, Michel, nous faisait des tours de cartes chaque dimanche pendant le repas de famille !</p>
+<p class="dialogue">J'en ai vu des tours...</p>
+<p class="dialogue">On se moquait de lui avec mes frangines...</p>
+<div class="didascalie">Il mime l'oncle — ou les prestidigitateurs de l'époque. Geste d'éventail des cartes.<sup class="fn-ref">[2]</sup></div>
+<p class="dialogue">"Tiens, choisis une carte..."</p>
+<div class="didascalie">Amusé et fier.</div>
+<p class="dialogue">Avec le temps je connaissais tous ses trucs !</p>
+<div class="didascalie">Il laisse passer le souvenir, revient à ici et maintenant.</div>
+<div class="pause-symbol">⸻ <em>silence</em> ⸻</div>
+<div class="didascalie">Amusé, avec une légère condescendance bienveillante.</div>
+<p class="dialogue">Bon... si la magie existait vraiment ici,</p>
+<div class="didascalie">Le ton ralentit. Il cherche comment le prouver. Son regard tombe sur le présentoir à jeux de cartes.</div>
+<p class="dialogue">On devrait pouvoir faire des trucs impossibles !...</p>
+<p class="dialogue">Des cartes ! Oui !</p>
+<div class="didascalie">Il rassemble ses pensées. Une idée qui arrive, pas un numéro préparé.</div>
+<p class="dialogue">Heu, attends, heu, je sais !</p>
+<div class="pause-symbol">⸻ <em>silence</em> ⸻</div>
+<hr class="section-hr"/>
+<div class="footnote-item"><span class="fn-badge">[Note 1]</span> C'est pendant cette ronde que le cadre est redressé et que la rumeur du prédécesseur est évoquée — les deux sont liés dans le même geste. Le cadre doit exister dans l'espace avant toute autre chose.</div>
+<div class="footnote-item"><span class="fn-badge">[Note 2]</span> Le public vient d'entendre parler de l'oncle Michel — le lien avec le geste se fait naturellement, sans explication. Ne pas sur-expliquer.</div>
+
+        </div>
+      </section>
+    
+      <section class="act-container">
+        <header class="act-header">
+          <div class="act-badge-container">
+            <span class="act-num">ACTE I</span>
+            <span class="act-role">Évoquer — La rupture du rationnel</span>
+          </div>
+          <h1 class="act-title">Le Portrait de Poudlard</h1>
+        </header>
+        <div class="act-body">
+    <h2 class="phase-title">Interpellation du spectateur</h2>
+<div class="didascalie">Petite pause. Il s'éclaircit la voix. Il imite son oncle et exagère les attitudes du prestidigitateur.</div>
+<p class="dialogue">"Vous ! Oui vous ! Pensez à une carte...</p>
+<p class="dialogue">N'importe laquelle, mais gardez-la pour vous."</p>
+<div class="didascalie">Il attend. Sourire tranquille de quelqu'un qui sait que rien ne va se passer.</div>
+<p class="dialogue">C'est bon ? Ok, vous l'avez en tête ?</p>
+<p class="dialogue">Elle est rouge ?</p>
+<div class="didascalie">Il acquiesce, quelle que soit la réponse — il accepte tout.</div>
+<p class="dialogue">Sa valeur est basse ou haute ? De l'As au 7 ou du 8 au Roi ?</p>
+<div class="didascalie">Idem.</div>
+<p class="dialogue">Surtout ne m'en dites pas plus !</p>
+<div class="didascalie">Il récupère le bon jeu sur l'étalage et le tend au spectateur. Le jeu est présenté comme un objet de la collection, pas comme un accessoire de magicien.</div>
+<p class="dialogue">Tenez, prenez ce jeu et retrouvez votre carte.</p>
+<p class="dialogue">Montrez-la à vos amis.</p>
+<div class="didascalie">Il le laisse chercher. Légère satisfaction, petite excitation — l'assurance de quelqu'un qui attend une confirmation de ce qu'il sait déjà.<sup class="fn-ref">[1]</sup></div>
+<p class="dialogue">C'est bon, vos amis ont vu votre carte ?</p>
+<div class="didascalie">Sur un ton légèrement dubitatif.</div>
+<p class="dialogue">Comment ça... non ?</p>
+<div class="didascalie">Avec une pointe d'inquiétude sincère.</div>
+<p class="dialogue">Vous ne la retrouvez pas ?</p>
+<p class="dialogue">Oh !...</p>
+<p class="dialogue">Elle est peut-être collée ? Ça arrive avec les jeux neufs...</p>
+<p class="dialogue">Revérifiez.</p>
+<p class="dialogue">Demandez à votre ami de chercher avec vous.</p>
+<div class="didascalie">Joindre le geste à la parole — mimer le comptage carte par carte.</div>
+<p class="dialogue">Comptez les cartes comme ça, une à une...</p>
+<div class="didascalie">Le spectateur cherche toujours. Pendant ce temps : le personnage vaque à ses occupations, range un objet ou deux.</div>
+
+          <div class="technique-block">
+            <div class="technique-label">⚙️ MANIPULATION TECHNIQUE &amp; SECRET</div>
+            <pre class="technique-code">Il récupère discrètement dans le décor le duplicata de la carte
+du spectateur et le garde en empalmage.</pre>
+          </div>
+<p class="dialogue">C'était quoi votre carte déjà ?</p>
+<div class="didascalie">Le spectateur répond.</div>
+<p class="dialogue"><code class="inline-code">Identité précise de la carte.</code></p>
+<p class="dialogue">Et vous avez compté combien de cartes en tout ?</p>
+<div class="didascalie">Réponse du spectateur : 51. Choc sincère. Un silence.</div>
+<p class="dialogue">Mais ce n'est pas possible.</p>
+<h2 class="phase-title">Bascule</h2>
+<div class="pause-symbol">⸻ <em>silence</em> ⸻</div>
+<div class="didascalie">Long temps. Regard dans le vide. Il cherche vraiment une explication.</div>
+<p class="dialogue">Je ne comprends pas...</p>
+<div class="didascalie">Il regarde le spectateur — ni agressif, ni accusateur. C'est quelqu'un qui se noie et qui s'accroche à n'importe quoi.</div>
+<p class="dialogue">Nan, c'est vous qui avez gardé la carte ? Vous avez touché au jeu avant que j'arrive ?</p>
+<div class="didascalie">Mi-énervé, mi-désespéré — contre la situation, pas contre le spectateur.</div>
+<p class="dialogue">Une carte ne peut pas disparaître comme ça. Toute seule.</p>
+<div class="didascalie">Il aperçoit le cadre, interloqué. Dialogue pour soi-même — intonation qui baisse en fin de phrase, comme si les mots s'éteignaient.</div>
+<p class="dialogue">Mais non... ça n'a pas de sens...</p>
+<p class="dialogue">Ce n'était quand même pas de ça qu'il parlait !?...</p>
+<div class="didascalie">Il se dirige vers le cadre et l'attrape — pas d'hésitation dans le geste, mais une tension dans le corps.</div>
+<p class="dialogue">Je dois en avoir le cœur net...</p>
+<div class="didascalie">Il commence à le démonter pour récupérer la carte.</div>
+<p class="dialogue">Ça ne peut pas être la même carte !</p>
+<div class="pause-symbol">⸻ <em>silence</em> ⸻</div>
+<div class="didascalie">La carte est en main. Il ne regarde pas encore sa face et s'adresse au spectateur.</div>
+<p class="dialogue">C'était le <code class="inline-code">[identité de la carte]</code>... c'est bien ça ?</p>
+<div class="didascalie">Le spectateur confirme.</div>
+<div class="pause-symbol">⸻ <em>silence</em> ⸻</div>
+<div class="didascalie">Il retourne lentement la carte. Dans le même mouvement, sa main libre monte vers sa bouche — comme pour étouffer quelque chose. Elle redescend en même temps qu'il retourne la carte vers le spectateur.</div>
+<div class="pause-symbol">⸻ <em>silence</em> ⸻</div>
+<div class="didascalie">Dans ce silence — pleine réflexion. Il remonte le cadre lentement, replace la carte face visible cette fois, et le remet à sa place.<sup class="fn-ref">[2]</sup> Une fois fait, il s'arrête. Quelque chose se cristallise — une décision intérieure, pas une annonce.</div>
+<p class="dialogue">"D'accord. On va faire ça correctement."</p>
+<hr class="section-hr"/>
+<div class="footnote-item"><span class="fn-badge">[Note 1]</span> Cette satisfaction doit rester légère — pas de surjeu. C'est l'assurance tranquille de quelqu'un qui attend que rien ne se passe, pas la fierté d'un prestidigitateur.</div>
+<div class="footnote-item"><span class="fn-badge">[Note 2]</span> La carte face visible dans le cadre est un acte inconscient mais chargé de sens : il accepte ce qui vient de se passer, il le rend visible. Et c'est dans ce geste de rangement — ce retour à l'ordre professionnel — que la décision émerge.</div>
+
+        </div>
+      </section>
+    
+      <section class="act-container">
+        <header class="act-header">
+          <div class="act-badge-container">
+            <span class="act-num">ACTE II</span>
+            <span class="act-role">Tester — La démarche empirique</span>
+          </div>
+          <h1 class="act-title">La Routine Patronus</h1>
+        </header>
+        <div class="act-body">
+    <h2 class="phase-title">Patronus</h2>
+<div class="didascalie">Avec un air décidé — il a pris une décision, il sait ce qu'il fait maintenant.</div>
+<p class="dialogue">Bon admettons que la magie existe vraiment, comment ça marche ?...</p>
+<p class="dialogue">Concentrons-nous sur quelque chose de plus simple, on commence petit.</p>
+<div class="didascalie">Il balaye du regard les objets autour de lui, à la recherche de quelque chose.</div>
+<p class="dialogue">Ah ! Voilà !</p>
+<div class="didascalie">Il se dirige vers les cartes Patronus.</div>
+
+          <div class="technique-block">
+            <div class="technique-label">⚙️ MANIPULATION TECHNIQUE &amp; SECRET</div>
+            <pre class="technique-code">Les Patronus sont exposés de façon à être tous visibles simultanément.
+Support exact à préciser.</pre>
+          </div>
+<p class="dialogue">Avec ça, ça devrait le faire !</p>
+<p class="dialogue">Ça, c'est des croquis préparatoires pour le troisième film... l'équipe graphique s'en servait pour chercher la forme des Patronus.</p>
+<p class="dialogue">S'il y a bien quelque chose de magique, ce sont bien les Patronus !</p>
+<p class="dialogue">Ok, on recommence. Là on en a douze.</p>
+<div class="didascalie">Il fait défiler les Patronus un à un, les présentant.</div>
+<p class="dialogue">Le serpent, le lièvre, ..., le niffleur, ..., le cerf, ..., et le phénix !</p>
+<p class="dialogue">Tu vas en choisir un — mais je veux être sûr que ni toi, ni moi ne connaissions son identité à l'avance. Laisse faire ton instinct !</p>
+<div class="didascalie">Il passe les cartes face cachées, une à une, du dessus au dessous du paquet.</div>
+<p class="dialogue">Dis-moi stop quand tu veux.</p>
+<div class="didascalie">Stop du spectateur. Il montre l'identité de la carte le plus clairement possible en détournant le regard.</div>
+
+          <div class="technique-block">
+            <div class="technique-label">⚙️ MANIPULATION TECHNIQUE &amp; SECRET</div>
+            <pre class="technique-code">Il repère la carte du dessous du paquet restant en main.
+C'est la carte précédente du chapelet.
+Il connaît ainsi l'identité du Patronus du spectateur.</pre>
+          </div>
+<div class="didascalie">Il rassemble toutes les cartes.</div>
+<p class="dialogue">Tiens, mélange-les !</p>
+<div class="pause-symbol">⸻ <em>silence</em> ⸻</div>
+<div class="didascalie">Il récupère le paquet mélangé. Il le retourne faces visibles pour illustrer son propos.</div>
+<p class="dialogue">Maintenant ton Patronus est perdu parmi les autres.</p>
+<p class="dialogue">Toi seul connais son identité, tu as mélangé et moi aussi pour le coup.</p>
+
+          <div class="technique-block">
+            <div class="technique-label">⚙️ MANIPULATION TECHNIQUE &amp; SECRET</div>
+            <pre class="technique-code">Il place le Patronus du spectateur en 7ème position à partir du haut du paquet, tenu face en bas.</pre>
+          </div>
+<h2 class="phase-title">La démarche scientifique</h2>
+<div class="didascalie">Il se recentre — ton méthodique, presque clinique.</div>
+<p class="dialogue">Hum... Concentre-toi sur ton Patronus. Imagine-le en vrai — pas la carte, <em>ton</em> Patronus.</p>
+<div class="didascalie">Accent tonique sur "ton". Il prend les 4 premières cartes, légèrement éventaillées faces cachées. Il tente de ressentir quelque chose, il les sous-pèse presque.</div>
+<p class="dialogue">Mouais... rien.</p>
+<div class="didascalie">Il prend les 4 suivantes, reproduit le même rituel.</div>
+<p class="dialogue">Ah, attends... peut-être...</p>
+<div class="didascalie">Il se concentre sur les 4 dernières avec la même attention.</div>
+<p class="dialogue">Non... je crois bien sentir quelque chose avec celui-ci !</p>
+
+          <div class="technique-block">
+            <div class="technique-label">⚙️ MANIPULATION TECHNIQUE &amp; SECRET</div>
+            <pre class="technique-code">Le paquet du milieu est retourné face en l'air sur le dernier paquet tenu en main gauche (lui face en bas).
+Il énumère chacune des 4 cartes en les passant de la main droite (paquet tenu en position du biddle) à la main gauche, en profitant pour "voler" le Patronus du spectateur de la main gauche jusque sous le paquet de la main droite.
+Le paquet de la main droite est mis sur le petit paquet restant en main gauche.
+Emsley 3 pour 4 du petit paquet restant, en citant les 4 Patronus mais sans montrer les faces.</pre>
+          </div>
+<p class="dialogue">Ok, tu ne me dis rien — j'ai l'impression que ton Patronus pourrait être ici...</p>
+<p class="dialogue">C'est très curieux... je suis sûr d'avoir effectivement ressenti quelque chose avec ce paquet, mais ça ne semble pas être suffisant...</p>
+<p class="dialogue">Est-ce que ton Patronus fait partie de ces 4 là ?</p>
+<div class="didascalie">Réponse positive du spectateur. Il pose le petit paquet face en bas.</div>
+
+          <div class="technique-block">
+            <div class="technique-label">⚙️ MANIPULATION TECHNIQUE &amp; SECRET</div>
+            <pre class="technique-code">Support à définir — intégrera peut-être un mécanisme de production de fumée.</pre>
+          </div>
+<p class="dialogue">Dans le lore du Wizarding World, il y a un élément primordial pour que le Patronus puisse se manifester...</p>
+<div class="didascalie">Il se dirige vers le présentoir à baguettes.</div>
+<p class="dialogue">Laquelle te plaît le plus ?</p>
+<div class="didascalie">Le spectateur choisit. Il la prend et la tend au spectateur.</div>
+<p class="dialogue">Au moment de dire la formule magique "Expecto Patronum", il faut s'accrocher à un souvenir positif fort !</p>
+<p class="dialogue">Est-ce que tu aurais un souvenir comme ça — heureux, joyeux, un moment particulièrement fort ?</p>
+<div class="didascalie">Attente de confirmation du spectateur.</div>
+<p class="dialogue">Très bien. Concentre-toi sur ce souvenir, et à 3, tu lances, d'un coup de baguette, ton sort "Expecto Patronum" en direction du petit paquet de cartes !</p>
+<div class="didascalie">Le spectateur s'exécute.</div>
+
+          <div class="technique-block">
+            <div class="technique-label">⚙️ MANIPULATION TECHNIQUE &amp; SECRET</div>
+            <pre class="technique-code">Au bon moment, déclencher la fumée.</pre>
+          </div>
+<div class="didascalie">Surprise et ébahissement sincères.</div>
+<p class="dialogue">Hooohohooho...</p>
+<div class="didascalie">Il reprend le petit paquet de cartes délicatement. Il les fait défiler entre ses doigts, face vers lui. Étonné, quasi émerveillé.</div>
+<p class="dialogue">Il en manque une !...</p>
+<p class="dialogue">C'est lequel ton Patronus ?</p>
+<div class="didascalie">Réponse du spectateur.</div>
+<p class="dialogue">Donc ce n'est pas <code class="inline-code">[un tel]</code>, <code class="inline-code">[un tel]</code>, et <code class="inline-code">[un tel]</code>...</p>
+<div class="pause-symbol">⸻ <em>silence</em> ⸻</div>
+<div class="didascalie">Son regard se dirige vers le reste des Patronus restés sur le côté.</div>
+
+          <div class="technique-block">
+            <div class="technique-label">⚙️ MANIPULATION TECHNIQUE &amp; SECRET</div>
+            <pre class="technique-code">Suivant la mise en scène finale, ce qui suit se fait en main ou sur un support.</pre>
+          </div>
+<div class="didascalie">Il fait défiler les cartes en ruban ou éventail et met en évidence le Patronus du spectateur, à l'envers parmi les autres. Il ne garde que le Patronus du spectateur, le montre face visible au spectateur, puis aux autres.</div>
+<div class="pause-symbol">⸻ <em>silence</em> ⸻</div>
+<div class="didascalie">Les yeux pleins d'étoiles, le cœur joyeux — presque ému. C'est son âme d'enfant qui refait surface, sans qu'il en soit conscient.<sup class="fn-ref">[1]</sup></div>
+<p class="dialogue">Hooo... là je crois qu'on tient quelque chose !...</p>
+<div class="didascalie">Il marque un temps. Quelque chose change dans son regard. La méthode laisse place à la curiosité, à l'envie d'aller plus loin.</div>
+<p class="dialogue">Il y a un truc que j'ai toujours voulu essayer...</p>
+<div class="didascalie">En ramassant les cartes Patronus, il récupère la baguette et range le matériel naturellement.</div>
+<hr class="section-hr"/>
+<div class="footnote-item"><span class="fn-badge">[Note 1]</span> Ce moment ne doit jamais être joué comme une prise de conscience — c'est le public qui le voit, pas le personnage qui l'annonce. L'émotion est réelle, la source n'est pas explicitée.</div>
+
+        </div>
+      </section>
+    
+      <section class="act-container">
+        <header class="act-header">
+          <div class="act-badge-container">
+            <span class="act-num">ACTE III & ÉPILOGUE</span>
+            <span class="act-role">Explorer — L'impossible partagé</span>
+          </div>
+          <h1 class="act-title">La Pensine & Le Départ</h1>
+        </header>
+        <div class="act-body">
+    <h2 class="phase-title">La Pensine</h2>
+<p class="dialogue">Quand j'étais enfant il m'arrivait de m'imaginer avec des super pouvoirs.  Pour les copains c'était souvent avoir une super force ou pouvoir voler, mais moi, ce qui me faisait le plus rêver c'était de pouvoir lire dans les pensées...</p>
+<p class="dialogue">Rien de malsain j'vous rassure, plutôt pour savoir ce que les gens ont vraiment au fond d'eux...</p>
+<p class="dialogue">Ça ne vous a jamais tenté ?!</p>
+<div class="didascalie">Il observe les réactions du public.</div>
+
+          <div class="technique-block">
+            <div class="technique-label">⚙️ MANIPULATION TECHNIQUE &amp; SECRET</div>
+            <pre class="technique-code">Il identifie mentalement son futur participant : celui ou celle qui est le plus en empathie avec lui sur cette idée.
+Cette personne répondra naturellement quand il s'adressera à elle pour le choix du livre — pas besoin de demander un volontaire.</pre>
+          </div>
+<div class="didascalie">Il se dirige vers le coffret contenant la Pensine.</div>
+
+          <div class="technique-block">
+            <div class="technique-label">⚙️ MANIPULATION TECHNIQUE &amp; SECRET</div>
+            <pre class="technique-code">La Pensine et ses accessoires (mouchoir en tissu et flacon) sont dans un coffret en bois aux allures anciennes — mystérieux mais pas ostentatoire.</pre>
+          </div>
+<p class="dialogue">Elle n'est pas mise en avant dans cette expo à sa juste valeur !</p>
+<div class="didascalie">Il prend le coffret.</div>
+<p class="dialogue">Dommage qu'ils n'aient pas réussi à retrouver celle que l'on voit dans les films...</p>
+<div class="didascalie">Il ouvre le coffret.</div>
+<p class="dialogue">Mais ça reste tout de même celle que l'acteur de Dumbledore utilisait pour répéter !</p>
+<div class="didascalie">Il sort la Pensine et la montre à tous.</div>
+<p class="dialogue">La Pensine...</p>
+<div class="didascalie">Il la repose et se dirige vers les livres.</div>
+<div class="pause-symbol">⸻ <em>silence</em> ⸻</div>
+<div class="didascalie">Avec un léger sourire — amusé par la naïveté de son rêve d'enfant et son côté potentiellement intrusif. Il récupère les livres.</div>
+<p class="dialogue">Bon, depuis j'ai grandi et je souhaite respecter votre vie privée — alors on va utiliser ces livres...</p>
+<div class="didascalie">Il montre les 3 livres avec un sourire plein de connivence. Ce sont les 3 premiers tomes de la saga.</div>
+<p class="dialogue">J'imagine que vous les connaissez !?</p>
+<div class="didascalie">Il s'adresse au spectateur identifié précédemment — de façon naturelle, sans le désigner comme "volontaire".</div>
+<p class="dialogue">C'est lequel votre préféré ?</p>
+<div class="didascalie">Il les met en avant un par un.</div>
+<p class="dialogue">L'école des sorciers...</p>
+<p class="dialogue">La chambre des secrets...</p>
+<p class="dialogue">ou Le prisonnier d'Azkaban ?</p>
+<div class="didascalie">Le spectateur A fait son choix. Il met les 2 autres de côté.</div>
+<p class="dialogue">Très bon choix !</p>
+<div class="didascalie">Il effeuille le livre choisi.</div>
+<p class="dialogue">Je vais effeuiller les pages et tu me dis stop. Ok ?</p>
+<p class="dialogue">C'est parti ! Dis-moi stop.</p>
+
+          <div class="technique-block">
+            <div class="technique-label">⚙️ MANIPULATION TECHNIQUE &amp; SECRET</div>
+            <pre class="technique-code">Il s'arrête au marque-page secrètement inséré dans le livre.
+En ressaisissant le livre pour mieux l'ouvrir, il récupère secrètement le marque-page à l'empalmage des doigts gauches.
+Il se rapproche du spectateur pour qu'il puisse lire le n° de page.</pre>
+          </div>
+<p class="dialogue">Retiens bien le n° de la page, c'est important.</p>
+<div class="pause-symbol">⸻ <em>silence</em> ⸻</div>
+<div class="didascalie">Il s'éloigne du spectateur A pour trouver un spectateur B, le plus loin possible.</div>
+<p class="dialogue">Mais avant de sauter dans le grand bain avec toi, je voudrais tenter quelque chose d'un peu plus simple — histoire de me chauffer !...</p>
+<p class="dialogue">Tu veux bien jouer le jeu ?</p>
+<div class="didascalie">Acquiescement du spectateur B.</div>
+<p class="dialogue">Tu as compris le principe — j'effeuille et tu dis stop quand tu veux !</p>
+<div class="didascalie">Il effeuille le livre et s'arrête au stop.</div>
+
+          <div class="technique-block">
+            <div class="technique-label">⚙️ MANIPULATION TECHNIQUE &amp; SECRET</div>
+            <pre class="technique-code">Il ne laisse aucune équivoque sur le fait qu'il s'arrête réellement au stop du spectateur.
+Il profite pour mieux saisir le livre — prêt à laisser le marque-page.
+Sa main droite renforce par le geste les instructions suivantes.</pre>
+          </div>
+<p class="dialogue">Tu vois la première ligne ? Choisis un mot dedans. Pas trop court — pas un article, pas un pronom. Un vrai mot.</p>
+<p class="dialogue">C'est bon, tu l'as ?</p>
+<div class="didascalie">Il ferme le livre et se dirige vers le spectateur A.</div>
+
+          <div class="technique-block">
+            <div class="technique-label">⚙️ MANIPULATION TECHNIQUE &amp; SECRET</div>
+            <pre class="technique-code">Le marque-page est maintenant repositionné.</pre>
+          </div>
+<p class="dialogue">Retiens-le bien ! Je reviens.</p>
+<div class="pause-symbol">⸻ <em>silence</em> ⸻</div>
+<div class="didascalie">Il revient vers le spectateur A. Il montre l'exemple en suivant ses propres instructions à la lettre.</div>
+<p class="dialogue">Alors ! Je vais te rendre le livre et pendant que je serai là-bas, voilà ce que tu vas faire :</p>
+<p class="dialogue">Tu ouvres le livre à ta page — tu te souviens bien du numéro ? Ok, top !</p>
+<p class="dialogue">Tu vas lire la page en question.</p>
+<p class="dialogue">Sérieusement.</p>
+<p class="dialogue">Essaie de t'imprégner de la scène que tu vas découvrir : l'environnement, les personnages, ce qu'ils font, ce qu'ils ressentent...</p>
+<p class="dialogue">Ok ? Top !</p>
+
+          <div class="technique-block">
+            <div class="technique-label">⚙️ MANIPULATION TECHNIQUE &amp; SECRET</div>
+            <pre class="technique-code">En réalité il rouvre le livre au nouvel emplacement du marque-page et parcourt la première ligne de la page de droite pour découvrir et retenir le mot du spectateur B.
+Il récupère secrètement le marque-page.</pre>
+          </div>
+<div class="didascalie">Il tend le livre au spectateur A et se redirige vers le spectateur B.</div>
+<div class="pause-symbol">⸻ <em>silence</em> ⸻</div>
+<p class="dialogue">Détends-toi, remémore-toi ce qu'il vient de se passer : tu as le livre devant les yeux, tu parcours la première ligne, et là, un mot te saute aux yeux.</p>
+<p class="dialogue">Concentre-toi, tu l'as ?!...</p>
+<div class="didascalie">L'air concentré, le regard plongé intensément dans celui du spectateur B.</div>
+
+          <div class="technique-block">
+            <div class="technique-label">⚙️ MANIPULATION TECHNIQUE &amp; SECRET</div>
+            <pre class="technique-code">La révélation du mot va dépendre du contexte du moment — y aller de manière progressive.
+Exemple : "C'est un mot long, 2... non 3 syllabes, c'est bien ça... C'est un &lt;lieu|personnage|adjectif|...&gt;"
+"Je suis quasiment sûr que c'est : &lt;le mot&gt; !"</pre>
+          </div>
+<div class="didascalie">Avec un mélange d'étonnement et d'émerveillement.</div>
+<p class="dialogue">Ça fonctionne... C'est comme si j'avais lu ce mot moi-même !...</p>
+<div class="pause-symbol">⸻ <em>silence</em> ⸻</div>
+<div class="didascalie">Il reprend son souffle et se recentre. Son regard se tourne vers le spectateur A.</div>
+<p class="dialogue">À nous...</p>
+<div class="didascalie">Il se dirige vers le spectateur A et s'arrête en chemin au niveau de la Pensine. Il saisit la Pensine et une baguette magique.</div>
+<p class="dialogue">Je vais te demander de te replonger mentalement dans ta lecture de tout à l'heure, que tu revives la scène que tu as lue.</p>
+<p class="dialogue">Pendant ce temps, je vais tenter de capturer ta pensée avec la baguette pour la mettre dans la Pensine.</p>
+<div class="didascalie">Avec un léger doute se voulant rassurant — sourire gêné presque imperceptible.</div>
+<p class="dialogue">Ça ne devrait pas faire mal... enfin, j'espère...</p>
+<p class="dialogue">Tu es prêt ? C'est parti...</p>
+<div class="didascalie">Il applique la pointe de la baguette lentement, précautionneusement sur la tempe du spectateur. Très concentré, il mime l'extraction du souvenir avec de légères rotations du poignet dans un sens puis dans l'autre. Ses yeux ne quittent pas la pointe de la baguette — comme s'il voyait réellement un fil de pensée la relier à la tempe du spectateur. Tout se fait en silence. La fin du mouvement d'extraction se fait avec un tout petit à-coup — comme si le souvenir était enfin extrait, il ne tient que par le bout de la baguette. Il l'observe. Il l'amène vers la Pensine tenue en main gauche et le dépose délicatement avec quelques mouvements — comme pour enrouler un fil au fond d'elle.</div>
+<div class="didascalie">Satisfait, il dépose la baguette sur le côté et récupère la fiole — déjà sans son couvercle.</div>
+<div class="didascalie">Un moment de réflexion. Son regard passe tour à tour de la Pensine au flacon. C'est le moment de vérité — au fur et à mesure qu'il verse le souvenir dans le flacon, celui-ci se matérialise.</div>
+
+          <div class="technique-block">
+            <div class="technique-label">⚙️ MANIPULATION TECHNIQUE &amp; SECRET</div>
+            <pre class="technique-code">Bol d'eau chinois secrètement rempli de liquide.
+À définir : eau claire, légèrement colorée, ou avec effet moiré (iridescence discrète plutôt que paillettes visibles — quelque chose qui se révèle à la lumière).</pre>
+          </div>
+<div class="didascalie">Il repose la Pensine. Il se concentre sur le flacon et son contenu. Il l'observe, il le renifle presque, il s'en imprègne.</div>
+<div class="didascalie">Il commence à parler lentement — comme s'il lisait quelque chose d'incertain, de lointain. Du plus large au plus précis. Chaque niveau attend la confirmation avant de passer au suivant. Le rythme s'accélère légèrement vers la fin. Le dernier détail est énoncé posément — c'est sa précision qui fait l'effet, pas l'emphase. Après la confirmation finale : silence. Ne pas parler dessus.</div>
+<hr class="section-hr"/>
+<h3 class="option-title">📖 Option A — Tome 1 : L'École des Sorciers</h3>
+<div class="option-meta">(Page 187 — Premier match de Quidditch de Harry — Folio Junior n°899)</div>
+<p class="dialogue">Je sens… beaucoup d'excitation. Du bruit, de l'agitation. On est dehors — il y a du vent.</p>
+<div class="didascalie">Confirmation de A.</div>
+<p class="dialogue">Il se passe quelque chose de rapide. Très rapide. On est en mouvement — en l'air.</p>
+<div class="didascalie">Confirmation.</div>
+<p class="dialogue">C'est un match. Le premier… c'est le premier match de Quidditch.</p>
+<div class="didascalie">Confirmation.</div>
+<p class="dialogue">On cherche quelque chose. On le voit — le Vif d'Or. On n'est pas seul à le poursuivre.</p>
+<div class="didascalie">Confirmation.</div>
+<p class="dialogue">Et puis… un changement brusque. Brutal. Ce n'est pas voulu — le balai part tout seul. Un coup de sifflet. Mme Bibine. Pour faute.</p>
+<div class="didascalie">Silence.</div>
+<hr class="section-hr"/>
+<h3 class="option-title">📖 Option B — Tome 2 : La Chambre des Secrets</h3>
+<div class="option-meta">(Page 185 — Harry au sol, bras blessé — Folio Junior n°961)</div>
+<p class="dialogue">Je sens… de la douleur. Beaucoup de douleur. On est au sol — dehors, il y a du monde autour.</p>
+<div class="didascalie">Confirmation de A.</div>
+<p class="dialogue">Des exclamations. De l'inquiétude autour. Quelque chose s'est passé — une blessure.</p>
+<div class="didascalie">Confirmation.</div>
+<p class="dialogue">On est sur un terrain de Quidditch. Fred et Georges sont là — ils s'occupent de quelque chose… un Cognard.</p>
+<div class="didascalie">Confirmation.</div>
+<p class="dialogue">Quelqu'un intervient. Le professeur Lockhart. Et ça… ça n'est pas rassurant.</p>
+<div class="didascalie">Confirmation.</div>
+<p class="dialogue">La douleur disparaît. Un soulagement… mais non. Les os aussi ont disparu.</p>
+<div class="didascalie">Silence.</div>
+<hr class="section-hr"/>
+<h3 class="option-title">📖 Option C — Tome 3 : Le Prisonnier d'Azkaban</h3>
+<div class="option-meta">(Page 283 — Match de Quidditch, les Détraqueurs — Folio Junior n°1006)</div>
+<p class="dialogue">On est dans les airs. Ça va vite — il fait froid. Très froid.</p>
+<div class="didascalie">Confirmation de A.</div>
+<p class="dialogue">On est sur un balai. C'est un match de Quidditch — et on cherche quelque chose.</p>
+<div class="didascalie">Confirmation.</div>
+<p class="dialogue">Le Vif d'Or. Il y a quelqu'un d'autre en face — il faut aller plus vite. Cho.</p>
+<div class="didascalie">Confirmation.</div>
+<p class="dialogue">Et puis… quelque chose change. Un froid différent — pas la météo. Des Détraqueurs. Un sort de Patronus.</p>
+<div class="didascalie">Confirmation.</div>
+<p class="dialogue">Malgré tout… le Vif d'Or. Attrapé. Et puis plus rien — connaissance perdue.</p>
+<div class="didascalie">Silence.</div>
+<hr class="section-hr"/>
+<div class="didascalie">Il reprend son souffle et revient lentement à la réalité.</div>
+<p class="dialogue">Whoua... c'était bien la scène du... <code class="inline-code">[identification en 2-3 mots du moment du livre choisi]</code>, c'est ça ?</p>
+<div class="didascalie">Confirmation du spectateur A.</div>
+<div class="didascalie">Son regard passe plusieurs fois du spectateur à la fiole. Il la tient maintenant précieusement contre lui. Avec une sincérité désarmante — touché d'avoir pu vivre une expérience pareille.</div>
+<p class="dialogue">Merci pour ce partage.</p>
+<div class="pause-symbol">⸻ <em>silence</em> ⸻</div>
+<div class="didascalie">Il remet la Pensine et la fiole délicatement dans leur coffret et le range.<sup class="fn-ref">[1]</sup> Ce faisant, il murmure pour lui-même — intonation basse, pensée qui s'échappe :</div>
+<p class="dialogue">Je crois qu'il va falloir que je repense à pas mal de choses...</p>
+<h2 class="phase-title">Épilogue</h2>
+<div class="didascalie">Il commence à ranger ses affaires. Il enlève sa veste de gardien, ajuste ses affaires et remet son manteau civil. C'est sa fin de service. Il s'apprête à partir, sac à l'épaule. Petit arrêt — il remarque la baguette restée sur la table, utilisée pour la Pensine.</div>
+<p class="dialogue">Oh !...</p>
+<div class="didascalie">Son regard se pose sur la baguette. Un instant de réflexion silencieuse. Il lève les yeux vers les spectateurs avec un petit air complice. Il saisit la baguette et la glisse dans la poche intérieure de son manteau. De cette main ainsi libérée, il porte lentement son index à ses lèvres.</div>
+<p class="dialogue">Chut...</p>
+<div class="didascalie">NOIR.</div>
+<hr class="section-hr"/>
+<div class="footnote-item"><span class="fn-badge">[Note 1]</span> Le rangement de la fiole dans le coffret privilégie l'effet théâtral du retour à l'ordre et au quotidien avant le départ. Une variante consistant à confier la fiole au spectateur pourra être éprouvée au plateau.</div>
+
+        </div>
+      </section>
+    
+
+</body>
+</html>
+  

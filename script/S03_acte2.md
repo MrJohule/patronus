@@ -25,7 +25,7 @@ Support exact à préciser.
 
 Avec ça, ça devrait le faire !
 
-Ce sont les représentations de différents Patronus — ils les ont utilisées pendant les phases préparatoires et de conception graphique du "Prisonnier d'Azkaban".
+Ça, c'est des croquis préparatoires pour le troisième film... l'équipe graphique s'en servait pour chercher la forme des Patronus.
 S'il y a bien quelque chose de magique, ce sont bien les Patronus !
 
 Ok, on recommence. Là on en a douze.

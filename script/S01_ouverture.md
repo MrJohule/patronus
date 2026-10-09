@@ -41,9 +41,9 @@ Avec tous ces objets, ces accessoires... c'est incroyable !
 
 > *Il continue sa ronde. Il arrive sur le ou les cadres, il les redresse machinalement, geste professionnel.*
 
-Ça fait même pas une semaine que j'ai commencé !
-Quand j'ai vu l'annonce pour être gardien de l'expo du Wizarding Tour, j'ai pas hésité !
-Je remplace au pied levé mon prédécesseur qui aurait des "problèmes de santé"...
+Ça fait même pas une semaine que je suis là...
+Quand j'ai vu l'annonce pour être gardien de l'expo, j'ai pas hésité !
+Bon... je remplace au pied levé un gars qui est parti pour des "problèmes de santé"...
 
 > *Geste discret, il passe à autre chose sans s'y attarder.*
 
